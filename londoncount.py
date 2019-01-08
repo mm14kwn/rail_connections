@@ -66,7 +66,7 @@ pdict = {}
 pdict['names'] = names
 pdict['codes'] = codes
 pdict['changes'] = changes
-with open('station_connections.pickle', 'wb') as f:
+with open('london_connections.pickle', 'wb') as f:
     pickle.dump(pdict, f)
 
 # calculate percentages
@@ -90,7 +90,7 @@ for name, code in zip(namesgt1, codesgt1):
     print('{0} ({1})'.format(name, code))
 
 # also can save as csv
-with open('station_connections.csv', 'w', newline='') as f:
+with open('london_connections.csv', 'w', newline='') as f:
     station_writer = csv.writer(f, delimiter=',')
     station_writer.writerow(
         ['Name', 'Code', 'Changes (-1 means terminus, NaN means 2+ changes)'])
