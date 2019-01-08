@@ -33,6 +33,7 @@ changes = np.NaN * np.ones(len(codes))
 
 # this should work with other webdrivers like Firefox, but phantomJS means no windows
 driver = webdriver.PhantomJS()
+logfile = open('{0}.log'.format(destination),'w')
 for count, code in enumerate(codes):
     if code in terminals:
         changes[count] = -1
@@ -47,26 +48,26 @@ for count, code in enumerate(codes):
         elif 'change</a>' in source:
             changes[count] = 1
     if np.isnan(changes[count]):
-        print(
-            'More than 1 change for Station code {0}, {1}                    \r'
+        logfile.write(
+            'More than 1 change for Station code {0}, {1}\n'
             .format(codes[count], names[count]))
     elif changes[count] < 0:
-        print('{0} ({1}) is a London Terminus!                 \r'.format(
+        logfile.write('{0} ({1}) is a London Terminus!\n'.format(
             names[count], codes[count]))
     else:
-        print(
-            '{2} changes for Station code {0}, {1}                         \r'.
+        logfile.write(
+            '{2} changes for Station code {0}, {1}\n'.
             format(codes[count], names[count], changes[count]))
-print('')
-# remember to quit the webdriver!
-driver.quit()
 
+# remember to quit the webdriver and close logfile!
+driver.quit()
+logfile.close()
 # save as pickle
 pdict = {}
 pdict['names'] = names
 pdict['codes'] = codes
 pdict['changes'] = changes
-with open('london_connections.pickle', 'wb') as f:
+with open('{0}_connections.pickle'.format(destination), 'wb') as f:
     pickle.dump(pdict, f)
 
 # calculate percentages
@@ -76,21 +77,22 @@ nsingle = np.sum(changes == 1)
 nmore = np.sum(np.isnan(changes))
 namesgt1 = compress(names, np.isnan(changes))
 codesgt1 = compress(codes, np.isnan(changes))
+with open('{0}_results.log'.format(destination),'w') as resfile:
 
-print('{0} percent of stations ({1}) have direct services to London'.format(
-    100 * ndirect / ntotal, ndirect))
-print(
-    '{0} percent of stations ({1}) have services to London with a single connection'
-    .format(100 * nsingle / ntotal, nsingle))
-print(
-    '{0} percent of stations ({1}) have services to London with more than one connection'
-    .format(100 * nmore / ntotal, nmore))
-print('These stations are:')
-for name, code in zip(namesgt1, codesgt1):
-    print('{0} ({1})'.format(name, code))
+    resfile.write('{0} percent of stations ({1}) have direct services to {2}\n'.format(
+        100 * ndirect / ntotal, ndirect,destination))
+    resfile.write(
+        '{0} percent of stations ({1}) have services to {2] with a single connection\n'
+        .format(100 * nsingle / ntotal, nsingle, destination))
+    resfile.write(
+        '{0} percent of stations ({1}) have services to {2} with more than one connection\n'
+        .format(100 * nmore / ntotal, nmore, destination))
+    resfile.write('These stations are:\n')
+    for name, code in zip(namesgt1, codesgt1):
+        resfile.write('{0} ({1})\n'.format(name, code))
 
 # also can save as csv
-with open('london_connections.csv', 'w', newline='') as f:
+with open('{0}_connections.csv'.format(destination), 'w', newline='') as f:
     station_writer = csv.writer(f, delimiter=',')
     station_writer.writerow(
         ['Name', 'Code', 'Changes (-1 means terminus, NaN means 2+ changes)'])
