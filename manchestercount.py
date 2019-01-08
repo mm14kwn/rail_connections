@@ -13,17 +13,14 @@ with open('station_codes.csv') as f:
         names.append(row[0])
         codes.append(row[1])
 
-# London terminal status codes - we don't need journeys between these
-terminals = [
-    'BFR', 'CST', 'CHX', 'CTK', 'EUS', 'FST', 'KGX', 'LST', 'LBG', 'MYB',
-    'MOG', 'OLD', 'PAD', 'STP', 'SPX', 'VXH', 'VIC', 'WAT', 'WAE'
-]
+# destination group status codes - we don't need journeys between these
+terminals = ['MAN', 'MCV', 'MCO', 'DGT']
 # strip headers
 names = names[1:]
 codes = codes[1:]
 
-# we can put in 'london' here for all terminals
-destination='london'
+# we can put in 'birmingham' here for all in birmingham station group
+destination = 'manchester'
 
 # this was the easiest site to grab data off with the URL from 5m googling
 # network rail won't let me sign up for timetable data, so we have to use a website
@@ -33,7 +30,7 @@ changes = np.NaN * np.ones(len(codes))
 
 # this should work with other webdrivers like Firefox, but phantomJS means no windows
 driver = webdriver.PhantomJS()
-logfile = open('{0}.log'.format(destination),'w')
+logfile = open('{0}.log'.format(destination), 'w')
 for count, code in enumerate(codes):
     if code in terminals:
         changes[count] = -1
@@ -41,23 +38,21 @@ for count, code in enumerate(codes):
         query_url = baseurl.format(code, destination)
         driver.get(query_url)
         source = driver.page_source
-# the format of this webpage is fairly fixed, so we can just search for the 'direct;' string
+        # the format of this webpage is fairly fixed, so we can just search for the 'direct;' string
         if 'direct;' in source:
             changes[count] = 0
 
         elif 'change</a>' in source:
             changes[count] = 1
     if np.isnan(changes[count]):
-        logfile.write(
-            'More than 1 change for Station code {0}, {1}\n'
-            .format(codes[count], names[count]))
+        logfile.write('More than 1 change for Station code {0}, {1}\n'.format(
+            codes[count], names[count]))
     elif changes[count] < 0:
         logfile.write('{0} ({1}) is in the {2} station group!\n'.format(
             names[count], codes[count], destination))
     else:
-        logfile.write(
-            '{2} changes for Station code {0}, {1}\n'.
-            format(codes[count], names[count], changes[count]))
+        logfile.write('{2} changes for Station code {0}, {1}\n'.format(
+            codes[count], names[count], changes[count]))
 
 # remember to quit the webdriver and close logfile!
 driver.quit()
@@ -77,10 +72,11 @@ nsingle = np.sum(changes == 1)
 nmore = np.sum(np.isnan(changes))
 namesgt1 = compress(names, np.isnan(changes))
 codesgt1 = compress(codes, np.isnan(changes))
-with open('{0}_results.log'.format(destination),'w') as resfile:
+with open('{0}_results.log'.format(destination), 'w') as resfile:
 
-    resfile.write('{0} percent of stations ({1}) have direct services to {2}\n'.format(
-        100 * ndirect / ntotal, ndirect,destination))
+    resfile.write(
+        '{0} percent of stations ({1}) have direct services to {2}\n'.format(
+            100 * ndirect / ntotal, ndirect, destination))
     resfile.write(
         '{0} percent of stations ({1}) have services to {2] with a single connection\n'
         .format(100 * nsingle / ntotal, nsingle, destination))
@@ -98,5 +94,3 @@ with open('{0}_connections.csv'.format(destination), 'w', newline='') as f:
         ['Name', 'Code', 'Changes (-1 means terminus, NaN means 2+ changes)'])
     for name, code, change in zip(names, codes, changes):
         station_writer.writerow([name, code, change])
-
-    

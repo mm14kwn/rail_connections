@@ -52,8 +52,8 @@ for count, code in enumerate(codes):
             'More than 1 change for Station code {0}, {1}\n'
             .format(codes[count], names[count]))
     elif changes[count] < 0:
-        logfile.write('{0} ({1}) is in the {2} station group!\n'.format(
-            names[count], codes[count], destination))
+        logfile.write('{0} ({1}) is a London Terminus!\n'.format(
+            names[count], codes[count]))
     else:
         logfile.write(
             '{2} changes for Station code {0}, {1}\n'.

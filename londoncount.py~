@@ -1,0 +1,67 @@
+import numpy as np
+import csv
+import pickle
+from selenium import webdriver
+from itertools import compress
+
+with open('station_codes.csv') as f:
+    read_csv = csv.reader(f, delimiter=',')
+    names = []
+    codes = []
+    for row in read_csv:
+        names.append(row[0])
+        codes.append(row[1])
+
+terminals = [
+    'BFR', 'CST', 'CHX', 'CTK', 'EUS', 'FST', 'KGX', 'LST', 'LBG', 'MYB',
+    'MOG', 'OLD', 'PAD', 'STP', 'SPX', 'VXH', 'VIC', 'WAT', 'WAE'
+]
+names = names[1:]
+codes = codes[1:]
+baseurl = 'https://traintimes.org.uk/{0}/london/2359a/2019-02-12/changes=0'
+
+changes = np.NaN * np.ones(len(codes))
+
+driver = webdriver.PhantomJS()
+for count, code in enumerate(codes):
+    if code in terminals:
+        changes[count] = -1
+    else:
+        query_url = baseurl.format(code)
+        driver.get(query_url)
+        source = driver.page_source
+        if 'direct;' in source:
+            changes[count] = 0
+            
+        elif 'change</a>' in source:
+            changes[count] = 1
+    if isnan(changes[count]):
+        print('More than 1 change for Station code {0}, {1}                    \r'.format(codes[count], names[count]))
+    elif changes[count]<0:
+        print('{0} ({1}) is a London Terminus!                 \r'.format(names[count],codes[count]))
+    else:
+        print(
+            '{2} changes for Station code {0}, {1}                         \r'.
+            format(codes[count], names[count], changes[count]))
+print('')
+driver.quit()
+pdict = {}
+pdict['names'] = names
+pdict['codes'] = codes
+pdict['changes'] = changes
+with open('station_connections.pickle', 'wb') as f:
+    pickle.dump(pdict, f)
+
+ntotal = len(names) - len(terminals)
+ndirect = np.sum(changes==0)
+nsingle = np.sum(changes==1)
+nmore = np.sum(np.isnan(changes))
+namesgt1 = compress(names, isnan(changes))
+codesgt1 = compress(codes,isnan(changes))
+
+print('{0} percent of stations ({1}) have direct services to London'.format(100*ndirect/ntotal, ndirect))
+print('{0} percent of stations ({1}) have services to London with a single connection'.format(100*nsingle/ntotal, nsingle))
+print('{0} percent of stations ({1}) have services to London with more than one connection'.format(100*nmore/ntotal, nmore))
+print('These stations are:')
+for name, code in zip(namesgt1, codesgt1):
+    print('{0} ({1})'.format(name, code))
