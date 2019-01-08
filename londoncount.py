@@ -26,6 +26,7 @@ codes = codes[1:]
 destination='london'
 
 # this was the easiest site to grab data off with the URL from 5m googling
+# network rail won't let me sign up for timetable data, so we have to use a website
 baseurl = 'https://traintimes.org.uk/{0}/{1}/2359a/2019-02-12/changes=0'
 
 changes = np.NaN * np.ones(len(codes))
