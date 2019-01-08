@@ -1,0 +1,1180 @@
+stop_id,stop_name,routes
+AAP,"Alexandra Palace",120
+ABD,Aberdeen,5
+ABW,"Abbey Wood (London)",56
+ACB,"Acton Bridge",24
+ACT,Ascot,7
+ADD,"Adderley Park",2
+ADM,Adisham,3
+ADR,Airdrie,2
+ADV,Andover,18
+AFK,"Ashford International",41
+AFS,"Ashford (Surrey)",12
+AGL,"Abergele & Pensarn",3
+AGR,"Angel Road",2
+AGT,Aldrington,4
+AHD,Ashtead,16
+AHS,"Ashurst (Kent)",3
+AHT,Aldershot,5
+AHV,"Ash Vale",5
+ALD,"Alderley Edge",2
+ALF,Alfreton,8
+ALM,Alnmouth,21
+ALN,Althorne,2
+ALR,"Alresford (Essex)",4
+AML,"Acton Main Line",6
+AMR,Amersham,10
+AMT,Aldermaston,3
+AMY,Amberley,18
+ANF,"Ashurst New Forest",8
+ANG,Angmering,15
+ANZ,Anerley,13
+AON,Alton,2
+APF,Appleford,1
+APS,Apsley,12
+ARB,Arbroath,5
+ARL,Arlesey,11
+ART,"Arrochar & Tarbet",2
+ARU,Arundel,20
+ASC,"Ashchurch for Tewkesbury",2
+ASG,Alsager,4
+ASH,Ash,1
+ASN,Addlestone,7
+AST,Aston,6
+ATH,Atherstone,2
+AUD,"Audley End",8
+AUI,Ardlui,2
+AUW,"Ascott-under-Wychwood",12
+AVM,Aviemore,4
+AVP,"Aylesbury Vale Parkway",2
+AWK,Adwick,13
+AWM,"Ashwell & Morden",15
+AXM,Axminster,9
+AYH,Aylesham,3
+AYP,"Albany Park",20
+AYS,Aylesbury,10
+BAA,Barnham,18
+BAB,Balcombe,13
+BAD,Banstead,4
+BAG,Bagshot,3
+BAK,"Battersea Park",58
+BAL,Balham,74
+BAN,Banbury,15
+BAT,Battle,9
+BAY,Bayford,9
+BBL,"Bat & Ball",4
+BCE,Bracknell,2
+BCF,Beaconsfield,24
+BCH,"Birchington-on-Sea",19
+BCS,"Bicester North",17
+BCU,Brockenhurst,8
+BCV,"Bruce Grove",4
+BCY,Brockley,20
+BDH,Bedhampton,10
+BDI,"Bradford Interchange",2
+BDK,Baldock,20
+BDM,Bedford,42
+BDQ,"Bradford Forster Square",2
+BDW,Bedwyn,31
+BEC,"Beckenham Hill",14
+BEE,Beeston,6
+BEF,Benfleet,9
+BER,Bearley,2
+BET,"Bethnal Green",62
+BEU,"Beaulieu Road",7
+BEV,Beverley,2
+BEX,Bexhill,7
+BFD,Brentford,27
+BFN,"Byfleet & New Haw",34
+BGH,Brighouse,3
+BGM,Bellingham,42
+BGN,Bridgend,6
+BHG,Bathgate,2
+BHI,"Birmingham International",25
+BHK,"Bush Hill Park",2
+BHM,"Birmingham New Street",19
+BIC,Billericay,3
+BIG,Billingshurst,24
+BIK,Birkbeck,2
+BIP,Bishopstone,2
+BIS,"Bishops Stortford",12
+BIT,"Bicester Village",3
+BIW,Biggleswade,65
+BKA,Bookham,8
+BKD,Blakedown,2
+BKG,Barking,15
+BKH,Blackheath,37
+BKJ,"Beckenham Junction",39
+BKL,Bickley,18
+BKM,Berkhamsted,13
+BKO,Brookwood,17
+BKS,Bekesbourne,3
+BKW,Berkswell,20
+BLA,"Blair Atholl",4
+BLB,Battlesbridge,2
+BLG,Bellgrove,2
+BLM,Belmont,4
+BLP,Belper,1
+BLY,Bletchley,54
+BMD,Brimsdown,18
+BMG,Barming,8
+BMH,Bournemouth,7
+BMO,"Birmingham Moor Street",8
+BMS,"Bromley South",57
+BMT,Bedminster,1
+BNG,"Bangor (Gwynedd)",3
+BNH,Barnehurst,34
+BNI,"Barnes Bridge",15
+BNM,"Burnham (Berks)",7
+BNR,"Brockley Whins",4
+BNS,Barnes,50
+BOA,"Bradford-on-Avon",3
+BOD,"Bodmin Parkway",4
+BOE,Botley,2
+BOG,"Bognor Regis",4
+BOH,Bosham,7
+BOP,"Bowes Park",11
+BPK,"Brookmans Park",3
+BPN,"Blackpool North",2
+BPW,"Bristol Parkway",15
+BRE,Brentwood,6
+BRG,"Borough Green & Wrotham",9
+BRI,"Bristol Temple Meads",28
+BRK,"Berwick (Sussex)",6
+BRO,"Bridge of Orchy",2
+BRS,Berrylands,6
+BRU,Bruton,3
+BRX,Brixton,36
+BSC,"Bescot Stadium",7
+BSD,Bearsted,6
+BSH,Bushey,15
+BSK,Basingstoke,38
+BSM,Branksome,5
+BSO,Basildon,9
+BSR,Broadstairs,19
+BSW,"Birmingham Snow Hill",6
+BTE,Bitterne,1
+BTH,"Bath Spa",28
+BTN,Brighton,17
+BTP,"Braintree Freeport",2
+BTR,Braintree,2
+BTS,Burntisland,10
+BTY,"Bentley (Hants)",2
+BUG,"Burgess Hill",31
+BUH,Brough,6
+BUO,Bursledon,1
+BUU,"Burnham-on-Crouch",2
+BVD,Belvedere,18
+BWK,"Berwick-upon-Tweed",21
+BWT,Bridgwater,13
+BXB,Broxbourne,16
+BXD,Buxted,2
+BXH,Bexleyheath,21
+BXW,"Box Hill & Westhumble",8
+BXY,Bexley,20
+BYF,"Broughty Ferry",5
+CAG,Carrbridge,4
+CAM,Camberley,3
+CAN,Carnoustie,5
+CAR,Carlisle,15
+CAT,Caterham,4
+CBE,"Canterbury East",7
+CBG,Cambridge,41
+CBH,"Cambridge Heath (London)",4
+CBK,Cranbrook,2
+CBN,Camborne,2
+CBP,"Castle Bar Park",2
+CBR,Cooksbridge,10
+CBS,"Coatbridge Sunnyside",2
+CBW,"Canterbury West",14
+CBY,Charlbury,12
+CCH,Chichester,13
+CDF,"Cardiff Central",8
+CDN,"Coulsdon Town",6
+CDS,"Coulsdon South",47
+CED,Cheddington,11
+CES,Cressing,2
+CET,"Colchester Town",4
+CFB,"Catford Bridge",6
+CFH,"Chafford Hundred",10
+CFO,"Chalfont & Latimer",10
+CFT,"Crofton Park",16
+CGM,Cottingham,2
+CHD,Chesterfield,8
+CHE,Cheam,12
+CHF,"Church Fenton",1
+CHG,"Charing (Kent)",12
+CHH,"Christs Hospital",18
+CHI,Chingford,2
+CHK,Chiswick,15
+CHM,Chelmsford,25
+CHN,Cheshunt,20
+CHO,Cholsey,4
+CHP,Chipstead,4
+CHR,Christchurch,6
+CHU,"Cheadle Hulme",2
+CHW,Chalkwell,7
+CHY,Chertsey,7
+CIL,Chilham,11
+CIT,Chislehurst,54
+CKN,Crewkerne,9
+CLA,Clandon,6
+CLC,"Castle Cary",19
+CLD,Chelsfield,16
+CLG,Claygate,6
+CLJ,"Clapham Junction",181
+CLK,"Clock House",6
+CLL,Collington,7
+CLM,Collingham,2
+CLP,"Clapham High Street",1
+CLT,"Clacton-on-Sea",2
+CLV,Claverdon,2
+CLW,Chorleywood,10
+CMB,"Cambridge North",12
+CME,"Combe (Oxon)",1
+CMN,Carmarthen,2
+CMO,Camelon,8
+CNG,Congleton,2
+CNL,Canley,4
+CNM,"Cheltenham Spa",4
+CNR,Crianlarich,2
+COB,"Cooden Beach",7
+COH,Crowborough,3
+COL,Colchester,20
+COR,Corby,15
+COS,Cosford,2
+COV,Coventry,27
+COW,Cowdenbeath,7
+CPK,"Carpenders Park",2
+CPM,Chippenham,19
+CPT,Clapton,2
+CPW,Chepstow,2
+CRA,"Cradley Heath",3
+CRE,Crewe,36
+CRG,"Cross Gates",1
+CRI,Cricklewood,36
+CRR,Corrour,2
+CRS,Carstairs,17
+CRT,Chartham,11
+CRW,Crawley,36
+CRY,Crayford,25
+CSA,Cosham,12
+CSB,"Carshalton Beeches",15
+CSD,"Cobham & Stoke d'Abernon",6
+CSH,Carshalton,24
+CSN,"Chessington North",2
+CSS,"Chessington South",2
+CSW,"Chestfield & Swalecliffe",13
+CSY,Coseley,1
+CTF,Catford,14
+CTH,"Chadwell Heath",4
+CTM,Chatham,60
+CTN,Charlton,58
+CTR,Chester,7
+CUF,Cuffley,11
+CUM,Culham,1
+CUP,Cupar,8
+CUX,Cuxton,2
+CWB,"Colwyn Bay",3
+CWH,"Crews Hill",9
+CWL,Colwall,2
+CWN,Cowden,3
+CWU,Crowhurst,6
+CYP,"Crystal Palace",18
+DAM,Dalmeny,11
+DAR,Darlington,27
+DAT,Datchet,2
+DBC,"Dumbarton Central",2
+DBL,Dunblane,6
+DBY,Derby,9
+DCH,"Dorchester South",2
+DDG,Dorridge,8
+DDK,"Dagenham Dock",12
+DDP,"Dudley Port",15
+DEA,Deal,18
+DEE,Dundee,8
+DEP,Deptford,51
+DFD,Dartford,57
+DFE,"Dunfermline Town",7
+DGC,"Denham Golf Club",15
+DHM,Durham,27
+DID,"Didcot Parkway",50
+DIS,Diss,2
+DKD,"Dunkeld & Birnam",4
+DKG,Dorking,8
+DLR,Dalreoch,2
+DLW,Dalwhinnie,4
+DMK,"Denmark Hill",47
+DMP,"Dumpton Park",10
+DMR,Dalmuir,2
+DMS,Dormans,8
+DNG,"Dunton Green",12
+DNM,Denham,18
+DOC,"Dockyard (Plymouth)",1
+DON,Doncaster,54
+DOW,"Downham Market",4
+DPT,Devonport,2
+DRG,"Drayton Green",2
+DRM,Drem,20
+DUN,Dunbar,20
+DUR,"Durrington-on-Sea",10
+DVC,Dovercourt,2
+DVP,"Dover Priory",25
+DWL,Dawlish,10
+DWW,"Dawlish Warren",10
+DYC,Dyce,1
+DYP,"Drayton Park",14
+EAD,Earlsfield,41
+EAG,Eaglescliffe,4
+EAL,"Ealing Broadway",73
+EAR,Earley,2
+EBD,"Ebbsfleet International",25
+EBN,Eastbourne,11
+EBT,"Edenbridge Town",3
+ECR,"East Croydon",129
+EDB,Edinburgh,25
+EDG,"Edge Hill",2
+EDN,"Eden Park",6
+EDR,"Edmonton Green",6
+EDW,"East Dulwich",23
+EFF,"Effingham Junction",12
+EGH,Egham,11
+EGR,"East Grinstead",8
+ELD,"Earlswood (Surrey)",91
+ELE,"Elmers End",6
+ELG,Elgin,1
+ELS,"Elstree & Borehamwood",38
+ELW,Eltham,34
+ELY,Ely,27
+EMD,"East Midlands Parkway",14
+EML,"East Malling",8
+EMS,Emsworth,12
+ENC,"Enfield Chase",13
+ENF,"Enfield Town",2
+ENL,"Enfield Lock",10
+EPD,"Epsom Downs",4
+EPH,"Elephant & Castle",42
+EPS,Epsom,22
+ERH,Erith,18
+ERI,Eridge,3
+ESD,"Elmstead Woods",12
+ESH,Esher,14
+ESL,Eastleigh,16
+ESM,Elsenham,6
+ETC,Etchingham,9
+ETL,"East Tilbury",10
+EVE,Evesham,10
+EWE,"Ewell East",11
+EWR,"East Worthing",5
+EWW,"Ewell West",10
+EXC,"Exeter Central",6
+EXD,"Exeter St Davids",14
+EXR,"Essex Road",14
+EXT,"Exeter St Thomas",2
+EYN,Eynsford,4
+FAV,Faversham,28
+FCN,Falconwood,21
+FEL,Feltham,34
+FGT,Faygate,4
+FIN,Finstock,1
+FIT,"Filton Abbey Wood",12
+FKC,"Folkestone Central",27
+FKG,"Falkirk Grahamston",5
+FKW,"Folkestone West",26
+FLE,Fleet,21
+FLN,Flint,3
+FLT,Flitwick,43
+FLW,Fulwell,2
+FML,Frimley,3
+FMR,Falmer,2
+FNB,"Farnborough (Main)",38
+FNC,Farncombe,19
+FNH,Farnham,4
+FNR,"Farningham Road",19
+FNT,Feniton,2
+FOD,Ford,18
+FOG,"Forest Gate",38
+FOH,"Forest Hill",20
+FOR,Forres,1
+FPK,"Finsbury Park",123
+FRI,"Frinton-on-Sea",2
+FRM,Fareham,12
+FRO,Frome,12
+FRT,Frant,9
+FSB,Fishbourne,6
+FSG,Fishersgate,4
+FSK,Fiskerton,2
+FTN,Fratton,12
+FTW,"Fort William",2
+FXN,Foxton,33
+FYS,Ferryside,2
+GBD,Gilberdyke,6
+GBS,"Goring-by-Sea",10
+GCH,Garelochhead,2
+GCR,Gloucester,8
+GDH,"Gordon Hill",58
+GDP,"Gidea Park",35
+GER,"Gerrards Cross",28
+GFD,Greenford,2
+GIL,"Gillingham (Dorset)",11
+GIP,"Gipsy Hill",16
+GLC,"Glasgow Central",6
+GLD,Guildford,24
+GLE,Gleneagles,5
+GLM,"Gillingham (Kent)",60
+GLQ,"Glasgow Queen Street",2
+GLT,"Glenrothes with Thornton",7
+GLY,Glynde,5
+GMN,"Great Missenden",10
+GMV,"Great Malvern",4
+GMY,Goodmayes,6
+GNH,"Greenhithe for Bluewater",38
+GNW,Greenwich,51
+GOD,Godalming,15
+GOR,"Goring & Streatley",50
+GPK,"Grange Park",11
+GRA,Grantham,55
+GRB,"Great Bentley",4
+GRC,"Great Chesterford",6
+GRP,"Grove Park",54
+GRT,Grateley,15
+GRV,Gravesend,57
+GRY,Grays,12
+GTW,"Gatwick Airport",91
+GWN,Gowerton,1
+HAC,"Hackney Downs",24
+HAF,"Heathrow Terminal 4",2
+HAG,Hagley,1
+HAM,Hamworthy,2
+HAN,Hanwell,3
+HAP,"Hatfield Peverel",16
+HAT,"Hatfield (Herts)",26
+HAV,Havant,27
+HAY,"Hayes & Harlington",11
+HBN,Hollingbourne,6
+HCB,Hackbridge,24
+HCN,Headcorn,24
+HDE,"Hedge End",2
+HDG,"Heald Green",1
+HDL,"Headstone Lane",2
+HDM,"Haddenham & Thame Parkway",20
+HDN,Harlesden,2
+HDW,"Hadley Wood",7
+HEN,Hendon,73
+HER,Hersham,13
+HEV,Hever,3
+HFD,Hereford,2
+HFE,"Hertford East",2
+HFN,"Hertford North",56
+HFX,Halifax,3
+HGD,Hungerford,11
+HGM,Higham,30
+HGR,"Hither Green",81
+HGS,Hastings,14
+HGT,Harrogate,2
+HGY,Harringay,19
+HHD,Holyhead,2
+HHE,"Haywards Heath",46
+HHY,"Highbury & Islington",14
+HIA,"Hampton-in-Arden",2
+HIB,"High Brooms",13
+HIG,"Highbridge & Burnham-on-Sea",5
+HIP,"Highams Park",2
+HIT,Hitchin,96
+HLB,Hildenborough,22
+HLM,Holmwood,2
+HLN,"Harlington (Beds)",25
+HLS,Hilsea,8
+HLU,"Helensburgh Upper",2
+HLY,Holytown,2
+HMC,"Hampton Court",2
+HMD,"Hampden Park (Sussex)",11
+HME,Hamble,1
+HML,"Hemel Hempstead",13
+HMP,"Hampton (London)",2
+HMW,"Hampton Wick",17
+HNA,"Hinton Admiral",6
+HNB,"Herne Bay",20
+HND,Hanborough,12
+HNH,"Herne Hill",55
+HNT,Huntly,1
+HOC,Hockley,2
+HOH,"Harrow-on-the-Hill",10
+HOK,Hook,10
+HOL,"Holton Heath",2
+HON,Honiton,8
+HOR,Horley,45
+HOU,Hounslow,27
+HOV,Hove,17
+HOW,Howden,4
+HPA,"Honor Oak Park",20
+HPD,Harpenden,39
+HPL,Hartlepool,4
+HPQ,"Harwich International",4
+HRH,Horsham,36
+HRM,Harrietsham,6
+HRN,Hornsey,19
+HRO,"Harold Wood",6
+HRS,Horsforth,2
+HRW,"Harrow & Wealdstone",60
+HSK,Hassocks,14
+HSL,Haslemere,19
+HSY,Horsley,6
+HTE,"Hatch End",2
+HTN,"Hatton (Warks)",10
+HUL,Hull,6
+HUN,Huntingdon,61
+HUR,"Hurst Green",11
+HWC,"Harwich Town",2
+HWM,"Harlow Mill",8
+HWN,"Harlow Town",12
+HWV,"Heathrow Terminal 5",2
+HWY,"High Wycombe",26
+HXX,"Heathrow Terminals 1-3",4
+HYB,Honeybourne,10
+HYH,"Hythe (Essex)",4
+HYL,Hayle,2
+HYM,Haymarket,23
+HYR,"Haydons Road",9
+HYS,"Hayes (Kent)",6
+HYW,"Hinchley Wood",6
+IFD,Ilford,36
+IFI,Ifield,15
+INK,Inverkeithing,11
+INR,Inverurie,1
+INS,Insch,1
+INT,Ingatestone,17
+INV,Inverness,4
+IPS,Ipswich,6
+ISL,Isleworth,14
+ISP,Islip,2
+IVR,Iver,4
+IVY,Ivybridge,6
+JEQ,"Jewellery Quarter",4
+KBN,"Kilburn High Road",4
+KBW,Knebworth,25
+KBX,"Kirby Cross",2
+KCK,Knockholt,10
+KDB,Kidbrooke,21
+KDG,Kidsgrove,6
+KDY,Kirkcaldy,10
+KEB,"Kenley - Kenley Hotel",1
+KEH,Keith,1
+KEI,Keighley,2
+KEL,Kelvedon,17
+KEM,Kemble,8
+KET,Kettering,21
+KEY,Keyham,1
+KGL,"Kings Langley",12
+KGM,Kingham,12
+KGS,"Kings Sutton",9
+KID,Kidderminster,2
+KIN,Kingussie,4
+KIT,Kintbury,5
+KKM,"Kirkham & Wesham",2
+KLN,"Kings Lynn",4
+KLY,Kenley,4
+KML,Kemsley,2
+KMP,"Kempton Park",2
+KMS,Kemsing,7
+KND,Kingswood,4
+KNG,Kingston,20
+KNL,"Kensal Green",2
+KNT,Kenton,2
+KSN,Kearsney,3
+KTH,"Kent House",11
+KTN,"Kentish Town",97
+KWB,"Kew Bridge",15
+KWL,Kidwelly,2
+KYN,Keynsham,3
+LAC,Lancing,14
+LAD,Ladywell,6
+LAI,Laindon,11
+LAN,Lancaster,17
+LAU,Laurencekirk,5
+LBK,"Long Buckby",24
+LBO,"Loughborough (Leics)",15
+LBZ,"Leighton Buzzard",13
+LCN,"Lincoln Central",4
+LDS,Leeds,10
+LDY,Ladybank,11
+LEA,Leagrave,21
+LEB,"Lea Bridge",4
+LED,Ledbury,2
+LEE,Lee,25
+LEH,"Lea Hall",3
+LEI,Leicester,17
+LEN,Lenham,6
+LES,"Leigh-on-Sea",9
+LET,Letchworth,43
+LEU,Leuchars,8
+LEW,Lewisham,69
+LFD,Lingfield,8
+LGE,"Long Eaton",7
+LGF,Longfield,20
+LGG,"Langley Green",1
+LGJ,"Loughborough Junction",42
+LGM,"Langley Mill",8
+LHD,Leatherhead,16
+LHS,Limehouse,13
+LIN,Linlithgow,8
+LIP,Liphook,11
+LIS,Liss,11
+LIT,Littlehampton,8
+LIV,"Liverpool Lime Street",2
+LLE,Llanelli,2
+LLJ,"Llandudno Junction",3
+LMR,"Low Moor",2
+LMS,"Leamington Spa",13
+LNG,Longcross,3
+LNY,"Langley (Berks)",7
+LOC,Lockerbie,15
+LOF,"London Fields",4
+LOS,Lostwithiel,4
+LOW,Lowdham,2
+LPG,Llanfairpwll,2
+LPW,Lapworth,5
+LPY,"Liverpool South Parkway",2
+LRD,"London Road (Guildford)",4
+LSK,Liskeard,4
+LSY,"Lower Sydenham",6
+LTK,"Little Kimble",8
+LTN,"Luton Airport Parkway",54
+LTP,Littleport,4
+LTV,"Lichfield Trent Valley",34
+LUT,Luton,60
+LVN,Littlehaven,21
+LWS,Lewes,15
+LYD,Lydney,2
+LYE,"Lye (West Midlands)",1
+MAC,Macclesfield,2
+MAI,Maidenhead,65
+MAL,"Malden Manor",2
+MAN,"Manchester Piccadilly",2
+MAO,"Martins Heron",2
+MAR,Margate,21
+MBK,"Millbrook (Hants)",1
+MCH,March,19
+MDE,"Maidstone East",15
+MDG,Midgham,3
+MDS,"Morden South",9
+MDW,"Maidstone West",2
+MEL,Meldreth,7
+MEN,Menheniot,1
+MEP,Meopham,20
+MEX,Mexborough,3
+MFL,"Mount Florida",2
+MGN,"Marston Green",4
+MHM,Merstham,35
+MHR,"Market Harborough",17
+MHS,Meadowhall,4
+MIC,Micheldever,17
+MIJ,"Mitcham Junction",24
+MIK,Micklefield,1
+MIL,"Mill Hill Broadway",39
+MIM,"Moreton-in-Marsh",12
+MIR,Mirfield,3
+MIS,Mistley,2
+MKC,"Milton Keynes Central",52
+MKT,"Marks Tey",20
+MLF,"Milford (Surrey)",13
+MMO,"Melton Mowbray",13
+MNG,Manningtree,12
+MNP,"Manor Park",10
+MOT,"Motspur Park",13
+MPT,Morpeth,21
+MRN,Marden,23
+MRP,Moorthorpe,2
+MRS,"Monks Risborough",2
+MSR,Minster,11
+MTC,"Mitcham Eastfields",24
+MTG,Mottingham,24
+MTH,Motherwell,6
+MTL,Mortlake,19
+MTM,"Martin Mill",15
+MTN,"Moreton (Dorset)",2
+MTS,Montrose,5
+MVL,"Malvern Link",4
+MYL,Maryland,23
+MZH,"Maze Hill",51
+NBA,"New Barnet",8
+NBC,"New Beckenham",11
+NBT,Norbiton,16
+NBY,Newbury,33
+NCL,Newcastle,25
+NCT,"Newark Castle",2
+NDL,"North Dulwich",23
+NEH,"New Eltham",24
+NEM,"New Malden",86
+NFA,"North Fambridge",2
+NFL,Northfleet,34
+NGT,Newington,34
+NHD,Nunhead,47
+NLS,"Nailsea & Backwell",8
+NLT,"Northolt Park",15
+NMP,Northampton,26
+NNG,"Newark North Gate",55
+NNP,"Ninian Park",3
+NOT,Nottingham,7
+NRB,Norbury,29
+NRC,"Newbury Racecourse",4
+NRN,Nairn,1
+NRW,Norwich,2
+NSB,"Normans Bay",4
+NSG,"New Southgate",7
+NSH,"North Sheen",19
+NTA,"Newton Abbot",10
+NTB,"NORTON BRIDGE",30
+NTH,Neath,4
+NTL,Netley,1
+NTN,"Newton (S Lanarks)",6
+NTR,Northallerton,29
+NUM,"Northumberland Park",6
+NUN,Nuneaton,34
+NUT,Nutbourne,5
+NVH,"Newhaven Harbour",2
+NVN,"Newhaven Town",2
+NWB,"North Wembley",2
+NWD,"Norwood Junction",88
+NWE,"Newport (Essex)",6
+NWM,"New Milton",6
+NWP,"Newport (S Wales)",10
+NWR,Newtonmore,3
+NWX,"New Cross",107
+NXG,"New Cross Gate",90
+OCK,Ockendon,10
+OHL,"Old Hill",1
+OKL,"Oakleigh Park",7
+OKM,Oakham,13
+OLF,"Oldfield Park",1
+OLT,Olton,1
+OLY,Ockley,2
+ORE,Ore,7
+ORP,Orpington,62
+OTF,Otford,19
+OVR,Overton,16
+OXF,Oxford,16
+OXN,"Oxenholme Lake District",15
+OXP,"Oxford Parkway",2
+OXS,Oxshott,6
+OXT,Oxted,15
+PAL,"Palmers Green",13
+PAN,Pangbourne,4
+PAR,Par,4
+PBO,Peterborough,63
+PBR,"Potters Bar",104
+PBY,"Pembrey & Burry Port",2
+PDW,"Paddock Wood",24
+PET,"Petts Wood",62
+PEV,"Pevensey & Westham",7
+PEW,Pewsey,17
+PFL,Purfleet,12
+PFM,"Pontefract Monkhill",3
+PFY,"Poulton-le-Fylde",2
+PGN,Paignton,2
+PIL,Pilning,10
+PIN,Pinhoe,6
+PIT,Pitlochry,4
+PKG,Penkridge,11
+PKS,"Parkstone (Dorset)",4
+PLC,Pluckley,22
+PLD,Portslade,14
+PLG,Polegate,11
+PLU,Plumstead,56
+PLY,Plymouth,6
+PMH,"Portsmouth Harbour",6
+PMP,Plumpton,13
+PMR,"Peckham Rye",47
+PMS,"Portsmouth & Southsea",10
+PMT,Polmont,8
+PMW,Penmaenmawr,3
+PNE,"Penge East",10
+PNR,"Penrith North Lakes",15
+PNW,"Penge West",13
+PNZ,Penzance,2
+POK,Pokesdown,6
+PON,"Ponders End",8
+POO,Poole,4
+PRE,Preston,21
+PRL,Prittlewell,2
+PRP,"Preston Park",31
+PRR,"Princes Risborough",23
+PRT,Prestatyn,3
+PSE,Pitsea,11
+PSH,Pershore,8
+PSN,"Parson Street",7
+PST,Prestonpans,20
+PTA,"Port Talbot Parkway",4
+PTC,Portchester,7
+PTH,Perth,7
+PTR,Petersfield,17
+PUL,Pulborough,24
+PUO,"Purley Oaks",13
+PUR,Purley,106
+PUT,Putney,27
+PWY,Patchway,10
+PYC,Pontyclun,6
+QBR,Queenborough,2
+QPW,"Queens Park (London)",4
+QRB,"Queenstown Road (Battersea)",54
+QRP,"Queens Road Peckham",23
+RAD,Radley,2
+RAI,"Rainham (Kent)",46
+RAM,Ramsgate,16
+RAN,Rannoch,2
+RAY,"Raynes Park",58
+RBR,Robertsbridge,9
+RBU,"Reading - buses",2
+RDB,"Redbridge (Hants)",8
+RDD,Riddlesdown,12
+RDG,Reading,62
+RDH,Redhill,76
+RDT,Radlett,38
+RDW,"Reading West",33
+REC,"Rectory Road",4
+RED,Redruth,2
+REI,Reigate,2
+RET,Retford,51
+RFD,Rochford,2
+RGL,"Rugeley Trent Valley",34
+RHL,Rhyl,3
+RHM,"Reedham (Surrey)",6
+RIC,Rickmansworth,10
+RLG,Rayleigh,2
+RLN,"Rowlands Castle",9
+RMC,"Rotherham Central",3
+RMD,"Richmond (London)",39
+RMF,Romford,22
+RNM,"Rainham (London)",12
+ROW,"Rowley Regis",4
+RTR,Rochester,65
+RUG,Rugby,48
+RUN,Runcorn,2
+RVB,Ravensbourne,14
+RYB,"Roy Bridge",2
+RYH,"Rye House",2
+RYN,Roydon,8
+RYS,Royston,37
+SAC,"St Albans City",72
+SAD,"Sandwell & Dudley",14
+SAF,"Salfords (Surrey)",22
+SAJ,"St Johns (London)",64
+SAL,Salisbury,16
+SAU,"St Austell",4
+SAV,"Stratford-upon-Avon",2
+SAW,Sawbridgeworth,10
+SAY,Swanley,59
+SBF,"St Budeaux Ferry Road",1
+SBJ,"Stourbridge Junction",4
+SBM,"South Bermondsey",23
+SBP,"Stonebridge Park",2
+SBR,"Spean Bridge",2
+SBU,Southbury,2
+SBY,Selby,6
+SCF,Stechford,24
+SCG,"Stone Crossing",35
+SCS,Starcross,2
+SCY,"South Croydon",88
+SDA,Snodland,2
+SDB,Sandbach,2
+SDG,Sandling,15
+SDH,"Sudbury Hill Harrow",9
+SDM,Shieldmuir,6
+SDN,"St Denys",14
+SDR,Saunderton,23
+SDW,Sandwich,18
+SDY,Sandy,61
+SEA,Seaham,2
+SED,"Shelford (Cambs)",6
+SEF,Seaford,2
+SEG,Selling,3
+SEH,"Shoreham (Kent)",4
+SER,"St Erth",2
+SEV,Sevenoaks,53
+SFA,"Stratford International",25
+SFO,"Stanford-le-Hope",10
+SGB,"Smethwick Galton Bridge",19
+SGM,"St Germans",4
+SGN,"South Greenford",2
+SGR,"Slade Green",56
+SHE,Sherborne,10
+SHF,Sheffield,7
+SHO,Sholing,1
+SHP,Shepperton,2
+SHR,Shrewsbury,2
+SHT,Shotton,3
+SHU,Stonehouse,6
+SHW,Shawford,15
+SHY,Shipley,4
+SIA,"Southend Airport",2
+SID,Sidcup,26
+SIH,"St Helier (London)",9
+SIL,Sileby,15
+SIP,Shipton,6
+SIT,Sittingbourne,32
+SJS,"St James Street (London)",2
+SKI,Skipton,2
+SKM,"Stoke Mandeville",10
+SKW,"Stoke Newington",4
+SLA,Slateford,15
+SLO,Slough,65
+SLQ,"St Leonards Warrior Square",14
+SLS,Shettleston,2
+SLV,"Silver Street",4
+SMG,"St Margarets (London)",27
+SMH,"Stamford Hill",4
+SMK,Stowmarket,4
+SMN,Southminster,2
+SMO,"South Merton",9
+SMR,"Smethwick Rolfe Street",1
+SMT,"St Margarets (Herts)",2
+SMY,"St Mary Cray",32
+SNE,Stone,6
+SNF,Shenfield,33
+SNG,Sunningdale,6
+SNL,Stoneleigh,10
+SNO,"St Neots",8
+SNR,Sanderstead,18
+SNS,Staines,34
+SNW,Swanwick,4
+SNY,Sunnymeads,2
+SOA,"Southampton Airport Parkway",12
+SOB,Southbourne,12
+SOC,"Southend Central",7
+SOE,"Southend East",5
+SOF,"South Woodham Ferrers",2
+SOG,Stonegate,9
+SOH,"South Hampstead",4
+SOK,"South Kenton",2
+SOL,Solihull,8
+SOO,Strood,47
+SOR,"Sole Street",31
+SOT,"Stoke-on-Trent",6
+SOU,"Southampton Central",13
+SOV,"Southend Victoria",2
+SPH,"Shepherds Well",5
+SPO,Spondon,9
+SPT,Stockport,2
+SPU,Staplehurst,23
+SRA,"Stratford (London)",45
+SRC,"Streatham Common",62
+SRG,"Seer Green",18
+SRH,"Streatham Hill",12
+SRS,Selhurst,86
+SRT,Shortlands,57
+SRU,"South Ruislip",30
+SRY,Shoeburyness,4
+SSD,"Stansted Airport",2
+SSE,"Shoreham-by-Sea (Sussex)",17
+SSS,"Sheerness-on-Sea",2
+SST,"Stansted Mountfitchet",10
+STA,Stafford,36
+STD,"Stroud (Glos)",8
+STE,Streatham,43
+STG,Stirling,8
+STH,Shepreth,7
+STJ,"Severn Tunnel Junction",10
+STK,Stockton,4
+STL,Southall,71
+STN,Stonehaven,5
+STO,"South Tottenham",1
+STS,Saltash,4
+STU,Sturry,11
+STW,"Strawberry Hill",18
+STY,"Stratford-upon-Avon Parkway",2
+SUC,"Sutton Common",9
+SUD,"Sudbury & Harrow Road",6
+SUN,Sunderland,4
+SUO,"Sutton (London)",32
+SUR,Surbiton,70
+SUU,Sunbury,2
+SVG,Stevenage,102
+SVK,"Seven Kings",9
+SVS,"Seven Sisters",18
+SWA,Swansea,4
+SWG,Swaythling,4
+SWI,Swindon,36
+SWK,Southwick,10
+SWL,Swale,2
+SWM,Swanscombe,34
+SWN,"Swinton (South Yorks)",4
+SWO,Snowdown,3
+SWY,Sway,6
+SYD,Sydenham,90
+SYH,"Sydenham Hill",10
+SYL,"Syon Lane",14
+TAD,Tadworth,4
+TAM,Tamworth,34
+TAP,Taplow,6
+TAT,"Tattenham Corner",4
+TAU,Taunton,14
+TBD,"Three Bridges",81
+TBW,"Tunbridge Wells",13
+TED,Teddington,20
+TEO,"Theobalds Grove",2
+TEY,Teynham,13
+TFC,"Telford Central",2
+TGM,Teignmouth,10
+THA,Thatcham,7
+THD,"Thames Ditton",2
+THE,Theale,7
+THI,Thirsk,29
+THL,"Tile Hill",4
+THW,"The Hawthorns",3
+TIL,"Tilbury Town",10
+TIP,Tipton,1
+TIS,Tisbury,11
+TLH,Tilehurst,4
+TLS,"Thorpe-le-Soken",4
+TMC,Templecombe,10
+TOL,Tolworth,2
+TOM,"Tottenham Hale",18
+TON,Tonbridge,43
+TOO,Tooting,9
+TOT,Totnes,6
+TPB,"Thorpe Bay",5
+TQY,Torquay,2
+TRI,Tring,56
+TRO,Trowbridge,3
+TRR,Torre,2
+TRU,Truro,4
+TTH,"Thornton Heath",29
+TTN,Totton,8
+TUH,"Tulse Hill",48
+TUL,Tulloch,2
+TUR,"Turkey Street",2
+TVP,"Tiverton Parkway",12
+TWI,Twickenham,39
+TWY,Twyford,63
+TYS,Tyseley,8
+UCK,Uckfield,2
+UHA,Uphall,2
+UPH,"Upper Halliford",2
+UPM,Upminster,15
+UPW,Upwey,2
+UTY,"Upper Tyndrum",2
+UWL,"Upper Warlingham",12
+VAL,Valley,2
+VIR,"Virginia Water",30
+WAD,Wadhurst,9
+WAL,"Walton-on-Thames",22
+WAM,Walmer,15
+WAN,Wanborough,1
+WAR,Ware,2
+WAS,"Watton-at-Stone",5
+WBC,Waterbeach,8
+WBL,Warblington,3
+WBO,"Wimbledon Chase",9
+WBQ,"Warrington Bank Quay",22
+WBY,"West Byfleet",19
+WCB,"Westcombe Park",51
+WCF,"Westcliff-on-Sea",7
+WCH,"Whitchurch (Hants)",17
+WCP,"Worcester Park",11
+WCX,"Wembley Stadium",32
+WCY,"West Croydon",22
+WDO,Waddon,15
+WDT,"West Drayton",7
+WDU,"West Dulwich",10
+WEA,"West Ealing",31
+WEE,Weeley,4
+WEH,"West Ham",13
+WEL,Wellingborough,21
+WES,Westerton,2
+WEY,Weymouth,2
+WFH,"Watford High Street",2
+WFJ,"Watford Junction",60
+WGA,"Westgate-on-Sea",13
+WGC,"Welwyn Garden City",104
+WGN,"Wigan North Western",21
+WGR,"Woodgrange Park",2
+WHA,Westenhanger,15
+WHC,"Walthamstow Central",2
+WHI,Whitstable,19
+WHL,"White Hart Lane",4
+WHM,Whimple,2
+WHP,"West Hampstead Thameslink",86
+WHR,"West Horndon",9
+WHS,"Whyteleafe South",4
+WHY,Whyteleafe,4
+WIC,Wickford,4
+WIH,"Winchmore Hill",13
+WIJ,"Willesden Junction",60
+WIM,Wimbledon,105
+WIN,Winchester,18
+WIV,Wivenhoe,4
+WKF,"Wakefield Westgate",11
+WKK,"Wakefield Kirkgate",4
+WKM,Wokingham,2
+WLC,"Waltham Cross",10
+WLD,"West St Leonards",6
+WLE,Whittlesea,19
+WLF,"Whittlesford Parkway",8
+WLI,Welling,21
+WLN,"Wellington (Shropshire)",2
+WLS,Woolston,3
+WLT,Wallington,15
+WLW,"Welwyn North",25
+WMA,"West Malling",9
+WMB,"Wembley Central",60
+WMC,Wilmcote,2
+WME,Woodmansterne,4
+WMG,"Welham Green",3
+WML,Wilmslow,2
+WMN,Warminster,7
+WMR,"Widney Manor",5
+WND,Wendover,10
+WNF,Winchfield,14
+WNH,Warnham,2
+WNM,"Weston Milton",4
+WNR,"Windsor & Eton Riverside",2
+WNS,Winnersh,2
+WNT,"Wandsworth Town",24
+WNW,"West Norwood",18
+WNY,"White Notley",2
+WOF,"Worcester Foregate Street",6
+WOH,Woldingham,12
+WOK,Woking,57
+WOL,Wolverton,9
+WON,"Walton-on-the-Naze",2
+WOO,Wool,2
+WOR,Worle,6
+WOS,"Worcester Shrub Hill",8
+WPL,Worplesdon,15
+WRB,Wrabness,2
+WRH,Worthing,17
+WRM,Wareham,2
+WRP,"Warwick Parkway",12
+WRU,"West Ruislip",30
+WRW,Warwick,10
+WRX,"Wrexham General",2
+WRY,Wraysbury,2
+WSB,"Westbury (Wilts)",37
+WSF,Winsford,24
+WSH,Wishaw,2
+WSM,"Weston-super-Mare",9
+WST,"Wood Street",2
+WSU,"West Sutton",9
+WSW,"Wandsworth Common",22
+WTG,Watlington,4
+WTI,"Winnersh Triangle",2
+WTM,"Witham (Essex)",24
+WTN,Whitton,12
+WTY,Witley,13
+WVF,Wivelsfield,44
+WVH,Wolverhampton,20
+WWA,"Woolwich Arsenal",56
+WWD,"Woolwich Dockyard",18
+WWI,"West Wickham",6
+WWO,"West Worthing",15
+WWR,"Wandsworth Road",1
+WYB,Weybridge,32
+WYE,Wye,14
+XTH,"STANSTED AIR BUS",2
+YAT,Yatton,8
+YRK,York,33
+YRM,Yarm,4
+YVJ,"Yeovil Junction",14
+YVP,"Yeovil Pen Mill",10
+ZFD,Farringdon,75
+ZHD,"HILLINGDON UND",4

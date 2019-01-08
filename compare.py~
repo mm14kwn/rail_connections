@@ -1,0 +1,34 @@
+import numpy as np
+import csv
+
+with open('results.csv') as f:
+    read_csv = csv.reader(f, delimiter=',')
+    hcount = 0
+    headers=[]
+    fitnrdict = {}
+    for row in read_csv:
+        if hcount==0:
+            for column in row:
+                headers.append(column)
+                fitnrdict[column] = []
+            hcount = 1
+        else:
+            for count,column in enumerate(row):
+                fitnrdict[headers[count]].append(column)
+                
+
+with open('station_connections.csv') as f:
+    read_csv = csv.reader(f, delimiter=',')
+    hcount = 0
+    headers=[]
+    kinewdict = {}
+    for row in read_csv:
+        if hcount==0:
+            for column in row:
+                headers.append(column)
+                kinewdict[column] = []
+            hcount = 1
+        else:
+            for count,column in enumerate(row):
+                kinewdict[headers[count]].append(column)
+                
