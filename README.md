@@ -35,5 +35,7 @@ Do what you like with this, feel free to improve and muck about with it. It shou
 ## Author
 
 [Kieran Newman](https://github.com/mm14kwn)
-[twitter](https://twitter.com/KWNewman)
+
+[twitter](https://twitter.com/KW_Newman)
+
 [email](mailto:newman.kieranw@gmail.com)
