@@ -65,6 +65,14 @@ pdict['changes'] = changes
 with open('{0}_connections.pickle'.format(destination), 'wb') as f:
     pickle.dump(pdict, f)
 
+# with open('leeds_connections.pickle', 'rb') as f:
+#     pdict=pickle.load(f)
+#     names = pdict['names']
+#     codes = pdict['codes']
+#     changes = pdict['changes']
+#     destination='leeds'
+#     terminals='LDS'
+
 # calculate percentages
 ntotal = len(names) - len(terminals)
 ndirect = np.sum(changes == 0)
@@ -78,7 +86,7 @@ with open('{0}_results.log'.format(destination), 'w') as resfile:
         '{0} percent of stations ({1}) have direct services to {2}\n'.format(
             100 * ndirect / ntotal, ndirect, destination))
     resfile.write(
-        '{0} percent of stations ({1}) have services to {2] with a single connection\n'
+        '{0} percent of stations ({1}) have services to {2} with a single connection\n'
         .format(100 * nsingle / ntotal, nsingle, destination))
     resfile.write(
         '{0} percent of stations ({1}) have services to {2} with more than one connection\n'

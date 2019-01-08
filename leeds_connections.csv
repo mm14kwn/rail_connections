@@ -1,0 +1,2571 @@
+Name,Code,"Changes (-1 means terminus, NaN means 2+ changes)"
+Abbey Wood,ABW,nan
+Aber,ABE,nan
+Abercynon,ACY,nan
+Aberdare,ABA,nan
+Aberdeen,ABD,0.0
+Aberdour,AUR,1.0
+Aberdovey,AVY,1.0
+Abererch,ABH,1.0
+Abergavenny,AGV,1.0
+Abergele & Pensarn,AGL,1.0
+Aberystwyth,AYW,1.0
+Accrington,ACR,0.0
+Achanalt,AAT,nan
+Achnasheen,ACN,nan
+Achnashellach,ACH,nan
+Acklington,ACK,1.0
+Acle,ACL,nan
+Acocks Green,ACG,nan
+Acton Bridge (Cheshire),ACB,1.0
+Acton Central,ACC,nan
+Acton Main Line,AML,nan
+Adderley Park,ADD,1.0
+Addiewell,ADW,1.0
+Addlestone,ASN,nan
+Adisham,ADM,nan
+Adlington (Cheshire),ADC,1.0
+Adlington (Lancs),ADL,1.0
+Adwick,AWK,0.0
+Aigburth,AIG,nan
+Ainsdale,ANS,1.0
+Aintree,AIN,nan
+Airbles,AIR,1.0
+Airdrie,ADR,1.0
+Albany Park,AYP,nan
+Albrighton,ALB,1.0
+Alderley Edge,ALD,1.0
+Aldermaston,AMT,nan
+Aldershot,AHT,nan
+Aldrington,AGT,nan
+Alexandra Palace,AAP,1.0
+Alexandra Parade,AXP,nan
+Alexandria,ALX,nan
+Alfreton,ALF,0.0
+Allens West,ALW,1.0
+Alloa,ALO,nan
+Alness,ASS,nan
+Alnmouth,ALM,0.0
+Alresford (Essex),ALR,nan
+Alsager,ASG,nan
+Althorne (Essex),ALN,nan
+Althorpe,ALP,1.0
+Altnabreac,ABC,nan
+Alton,AON,nan
+Altrincham,ALT,1.0
+Alvechurch,ALV,1.0
+Ambergate,AMB,1.0
+Amberley,AMY,nan
+Amersham,AMR,nan
+Ammanford,AMF,nan
+Ancaster,ANC,1.0
+Anderston,AND,1.0
+Andover,ADV,nan
+Anerley,ANZ,nan
+Angel Road,AGR,nan
+Angmering,ANG,nan
+Annan,ANN,1.0
+Anniesland,ANL,nan
+Ansdell & Fairhaven,AFV,1.0
+Apperley Bridge,APY,0.0
+Appleby,APP,0.0
+Appledore (Kent),APD,nan
+Appleford,APF,1.0
+Appley Bridge,APB,0.0
+Apsley,APS,nan
+Arbroath,ARB,0.0
+Ardgay,ARD,nan
+Ardlui,AUI,nan
+Ardrossan Harbour,ADS,1.0
+Ardrossan South Beach,ASB,nan
+Ardrossan Town,ADN,1.0
+Ardwick,ADK,1.0
+Argyle Street,AGS,nan
+Arisaig,ARG,nan
+Arlesey,ARL,1.0
+Armadale (West Lothian),ARM,1.0
+Armathwaite,AWT,0.0
+Arnside,ARN,1.0
+Arram,ARR,1.0
+Arrochar & Tarbet,ART,nan
+Arundel,ARU,nan
+Ascot (Berks),ACT,nan
+Ascott-under-Wychwood,AUW,1.0
+Ash,ASH,nan
+Ash Vale,AHV,nan
+Ashburys,ABY,1.0
+Ashchurch for Tewkesbury,ASC,1.0
+Ashfield,ASF,nan
+Ashford (Surrey),AFS,nan
+Ashford International,AFK,nan
+Ashford International (Eurostar),ASI,nan
+Ashley,ASY,1.0
+Ashtead,AHD,nan
+Ashton-under-Lyne,AHN,1.0
+Ashurst (Kent),AHS,nan
+Ashurst New Forest,ANF,1.0
+Ashwell & Morden,AWM,1.0
+Askam,ASK,1.0
+Aslockton,ALK,1.0
+Aspatria,ASP,1.0
+Aspley Guise,APG,nan
+Aston,AST,1.0
+Atherstone,ATH,1.0
+Atherton,ATN,0.0
+Attadale,ATT,nan
+Attenborough,ATB,1.0
+Attleborough,ATL,1.0
+Auchinleck,AUK,1.0
+Audley End,AUD,1.0
+Aughton Park,AUG,nan
+Aviemore,AVM,1.0
+Avoncliff,AVF,1.0
+Avonmouth,AVN,1.0
+Axminster,AXM,1.0
+Aylesbury,AYS,nan
+Aylesbury Vale Parkway,AVP,nan
+Aylesford,AYL,nan
+Aylesham,AYH,nan
+Ayr,AYR,1.0
+Bache,BAC,1.0
+Baglan,BAJ,1.0
+Bagshot,BAG,nan
+Baildon,BLD,1.0
+Baillieston,BIO,1.0
+Balcombe,BAB,nan
+Baldock,BDK,1.0
+Balham,BAL,nan
+Balloch,BHC,nan
+Balmossie,BSI,1.0
+Bamber Bridge,BMB,0.0
+Bamford,BAM,1.0
+Banavie,BNV,nan
+Banbury,BAN,0.0
+Bangor (Gwynedd),BNG,nan
+Bank Hall,BAH,nan
+Banstead,BAD,nan
+Barassie,BSS,nan
+Barbican,ZBB,1.0
+Bardon Mill,BLL,1.0
+Bare Lane,BAR,0.0
+Bargeddie,BGI,1.0
+Bargoed,BGD,nan
+Barking,BKG,nan
+Barlaston,BRT,nan
+Barming,BMG,nan
+Barmouth,BRM,1.0
+Barnehurst,BNH,nan
+Barnes,BNS,nan
+Barnes Bridge,BNI,nan
+Barnetby,BTB,1.0
+Barnham,BAA,nan
+Barnhill,BNL,nan
+Barnsley,BNY,0.0
+Barnstaple,BNP,1.0
+Barnt Green,BTG,1.0
+Barrhead,BRR,1.0
+Barrhill,BRL,nan
+Barrow Haven,BAV,nan
+Barrow-in-Furness,BIF,1.0
+Barrow-Upon-Soar,BWS,1.0
+Barry,BRY,nan
+Barry Docks,BYD,nan
+Barry Island,BYI,nan
+Barry Links,BYL,1.0
+Barton-on-Humber,BAU,nan
+Basildon,BSO,nan
+Basingstoke,BSK,0.0
+Bat & Ball,BBL,nan
+Bath Spa,BTH,1.0
+Bathgate,BHG,1.0
+Batley,BTL,0.0
+Battersby,BTT,1.0
+Battersea Park,BAK,nan
+Battle,BAT,nan
+Battlesbridge,BLB,nan
+Bayford,BAY,1.0
+Beaconsfield,BCF,nan
+Bearley,BER,nan
+Bearsden,BRN,nan
+Bearsted,BSD,nan
+Beasdale,BSL,nan
+Beaulieu Road,BEU,1.0
+Beauly,BEL,nan
+Bebington,BEB,1.0
+Beccles,BCC,nan
+Beckenham Hill,BEC,nan
+Beckenham Junction,BKJ,nan
+Bedford,BDM,0.0
+Bedford St Johns,BSJ,1.0
+Bedhampton,BDH,nan
+Bedminster,BMT,1.0
+Bedworth,BEH,nan
+Bedwyn,BDW,1.0
+Beeston,BEE,0.0
+Bekesbourne,BKS,nan
+Belle Vue,BLV,1.0
+Bellgrove,BLG,nan
+Bellingham,BGM,nan
+Bellshill,BLH,nan
+Belmont,BLM,nan
+Belper,BLP,1.0
+Beltring,BEG,nan
+Belvedere,BVD,nan
+Bempton,BEM,1.0
+Ben Rhydding,BEY,0.0
+Benfleet,BEF,nan
+Bentham,BEN,0.0
+Bentley (Hants),BTY,nan
+Bentley (South Yorks),BYK,0.0
+Bere Alston,BAS,1.0
+Bere Ferrers,BFE,1.0
+Berkhamsted,BKM,nan
+Berkswell,BKW,1.0
+Bermuda Park,BEP,nan
+Berney Arms,BYA,nan
+Berry Brow,BBW,1.0
+Berrylands,BRS,nan
+Berwick (Sussex),BRK,nan
+Berwick-upon-Tweed,BWK,0.0
+Bescar Lane,BES,1.0
+Bescot Stadium,BSC,1.0
+Betchworth,BTO,nan
+Bethnal Green,BET,nan
+Betws-y-Coed,BYC,nan
+Beverley,BEV,1.0
+Bexhill,BEX,nan
+Bexley,BXY,nan
+Bexleyheath,BXH,nan
+Bicester North,BCS,1.0
+Bicester Village,BIT,nan
+Bickley,BKL,nan
+Bidston,BID,1.0
+Biggleswade,BIW,1.0
+Bilbrook,BBK,1.0
+Billericay,BIC,nan
+Billingham (Cleveland),BIL,1.0
+Billingshurst,BIG,nan
+Bingham,BIN,1.0
+Bingley,BIY,0.0
+Birchgrove,BCG,nan
+Birchington-on-sea,BCH,nan
+Birchwood,BWD,1.0
+Birkbeck,BIK,nan
+Birkdale,BDL,1.0
+Birkenhead Central,BKC,1.0
+Birkenhead Hamilton Square,BKQ,1.0
+Birkenhead North,BKN,1.0
+Birkenhead Park,BKP,1.0
+Birmingham International,BHI,1.0
+Birmingham Moor Street,BMO,1.0
+Birmingham New Street,BHM,0.0
+Birmingham Snow Hill,BSW,1.0
+Bishop Auckland,BIA,1.0
+Bishopbriggs,BBG,nan
+Bishops Stortford,BIS,nan
+Bishopstone (Sussex),BIP,nan
+Bishopton (Strathclyde),BPT,nan
+Bitterne,BTE,nan
+Blackburn,BBN,0.0
+Blackheath,BKH,nan
+Blackhorse Road,BHO,1.0
+Blackpool North,BPN,0.0
+Blackpool Pleasure Beach,BPB,1.0
+Blackpool South,BPS,1.0
+Blackridge,BKR,1.0
+Blackrod,BLK,1.0
+Blackwater,BAW,nan
+Blaenau Ffestiniog,BFF,nan
+Blair Atholl,BLA,1.0
+Blairhill,BAI,1.0
+Blake Street,BKT,1.0
+Blakedown,BKD,nan
+Blantyre,BLT,nan
+Blaydon,BLO,1.0
+Bleasby,BSB,1.0
+Bletchley,BLY,nan
+Bloxwich,BLX,1.0
+Bloxwich North,BWN,1.0
+Blundellsands & Crosby,BLN,nan
+Blythe Bridge,BYB,1.0
+Bodmin Parkway,BOD,1.0
+Bodorgan,BOR,nan
+Bognor Regis,BOG,nan
+Bogston,BGS,1.0
+Bolton,BON,0.0
+Bolton-Upon-Dearne,BTD,0.0
+Bookham,BKA,nan
+Bootle (Cumbria),BOC,1.0
+Bootle New Strand,BNW,nan
+Bootle Oriel Road,BOT,nan
+Bordesley,BBS,nan
+Borough Green & Wrotham,BRG,nan
+Borth,BRH,1.0
+Bosham,BOH,nan
+Boston,BSN,1.0
+Botley,BOE,nan
+Bottesford,BTF,1.0
+Bourne End,BNE,nan
+Bournemouth,BMH,1.0
+Bournville,BRV,1.0
+Bow Brickhill,BWB,nan
+Bowes Park,BOP,1.0
+Bowling,BWG,nan
+Box Hill & Westhumble,BXW,nan
+Bracknell,BCE,nan
+Bradford Forster Square,BDQ,1.0
+Bradford Interchange,BDI,0.0
+Bradford-on-Avon,BOA,1.0
+Brading,BDN,nan
+Braintree,BTR,nan
+Braintree Freeport,BTP,nan
+Bramhall,BML,1.0
+Bramley (Hants),BMY,1.0
+Bramley (W Yorks),BLE,0.0
+Brampton (Cumbria),BMP,1.0
+Brampton (Suffolk),BRP,nan
+Branchton,BCN,1.0
+Brandon,BND,nan
+Branksome,BSM,nan
+Braystones (Cumbria),BYS,1.0
+Bredbury,BDY,1.0
+Breich,BRC,1.0
+Brentford,BFD,nan
+Brentwood,BRE,nan
+Bricket Wood,BWO,nan
+Bridge of Allan,BEA,1.0
+Bridge of Orchy,BRO,nan
+Bridgend,BGN,1.0
+Bridgeton,BDG,nan
+Bridgwater,BWT,1.0
+Bridlington,BDT,1.0
+Brierfield,BRF,1.0
+Brigg,BGG,nan
+Brighouse,BGH,0.0
+Brighton (East Sussex),BTN,nan
+Brimsdown,BMD,nan
+Brinnington,BNT,1.0
+Bristol Parkway,BPW,0.0
+Bristol Temple Meads,BRI,0.0
+Brithdir,BHD,nan
+Briton Ferry,BNF,1.0
+Brixton,BRX,nan
+Broad Green,BGE,1.0
+Broadbottom,BDB,1.0
+Broadstairs,BSR,nan
+Brockenhurst,BCU,1.0
+Brockholes,BHS,1.0
+Brockley,BCY,nan
+Bromborough,BOM,1.0
+Bromborough Rake,BMR,1.0
+Bromley Cross (Lancs),BMC,1.0
+Bromley North,BMN,nan
+Bromley South,BMS,nan
+Bromsgrove,BMV,1.0
+Brondesbury,BSY,nan
+Brondesbury Park,BSP,nan
+Brookmans Park,BPK,nan
+Brookwood,BKO,nan
+Broome,BME,nan
+Broomfleet,BMF,1.0
+Brora,BRA,nan
+Brough,BUH,0.0
+Broughty Ferry,BYF,1.0
+Broxbourne,BXB,nan
+Bruce Grove,BCV,nan
+Brundall,BDA,nan
+Brundall Gardens,BGA,nan
+Brunstane,BSU,1.0
+Brunswick,BRW,nan
+Bruton,BRU,1.0
+Bryn,BYN,1.0
+Buckenham (Norfolk),BUC,nan
+Buckley,BCK,nan
+Bucknell,BUK,nan
+Buckshaw Parkway,BSV,1.0
+Bugle,BGL,nan
+Builth Road,BHR,nan
+Bulwell,BLW,1.0
+Bures,BUE,nan
+Burgess Hill,BUG,nan
+Burley Park,BUY,0.0
+Burley-in-Wharfedale,BUW,0.0
+Burnage,BNA,1.0
+Burneside (Cumbria),BUD,nan
+Burnham (Bucks),BNM,nan
+Burnham-on-Crouch,BUU,nan
+Burnley Barracks,BUB,nan
+Burnley Central,BNC,1.0
+Burnley Manchester Road,BYM,0.0
+Burnside (Strathclyde),BUI,nan
+Burntisland,BTS,1.0
+Burscough Bridge,BCB,0.0
+Burscough Junction,BCJ,1.0
+Bursledon,BUO,nan
+Burton Joyce,BUJ,1.0
+Burton-on-Trent,BUT,0.0
+Bury St Edmunds,BSE,1.0
+Busby,BUS,1.0
+Bush Hill Park,BHK,nan
+Bushey,BSH,nan
+Butlers Lane,BUL,1.0
+Buxted,BXD,nan
+Buxton,BUX,1.0
+Byfleet & New Haw,BFN,nan
+Bynea,BYE,nan
+Cadoxton,CAD,nan
+Caergwrle,CGW,nan
+Caerphilly,CPH,nan
+Caersws,CWS,1.0
+Caldercruix,CAC,nan
+Caldicot,CDT,1.0
+Caledonian Rd & Barnsbury,CIR,nan
+Calstock,CSK,1.0
+Cam & Dursley,CDU,1.0
+Camberley,CAM,nan
+Camborne,CBN,1.0
+Cambridge,CBG,1.0
+Cambridge Heath,CBH,nan
+Cambuslang,CBL,nan
+Camden Road,CMD,nan
+Camelon,CMO,1.0
+Canada Water,ZCW,nan
+Canley,CNL,1.0
+Cannock,CAO,1.0
+Canonbury,CNN,nan
+Canterbury East,CBE,nan
+Canterbury West,CBW,nan
+Cantley,CNY,nan
+Capenhurst,CPU,1.0
+Carbis Bay,CBB,nan
+Cardenden,CDD,1.0
+Cardiff Bay,CDB,nan
+Cardiff Central,CDF,1.0
+Cardiff Queen Street,CDQ,nan
+Cardonald,CDO,nan
+Cardross,CDR,nan
+Carfin,CRF,1.0
+Cark & Cartmel,CAK,1.0
+Carlisle,CAR,0.0
+Carlton,CTO,1.0
+Carluke,CLU,1.0
+Carmarthen,CMN,1.0
+Carmyle,CML,1.0
+Carnforth,CNF,0.0
+Carnoustie,CAN,1.0
+Carntyne,CAY,nan
+Carpenders Park,CPK,nan
+Carrbridge,CAG,1.0
+Carshalton,CSH,nan
+Carshalton Beeches,CSB,nan
+Carstairs,CRS,1.0
+Cartsdyke,CDY,1.0
+Castle Bar Park,CBP,nan
+Castle Cary,CLC,1.0
+Castleford,CFD,0.0
+Castleton (Manchester),CAS,0.0
+Castleton Moor,CSM,1.0
+Caterham,CAT,nan
+Catford,CTF,nan
+Catford Bridge,CFB,nan
+Cathays,CYS,nan
+Cathcart,CCT,1.0
+Cattal,CTL,0.0
+Causeland,CAU,nan
+Cefn-y-Bedd,CYB,nan
+Chadwell Heath,CTH,nan
+Chafford Hundred Lakeside,CFH,nan
+Chalfont & Latimer,CFO,nan
+Chalkwell,CHW,nan
+Chandlers Ford,CFR,nan
+Chapel-en-le-Frith,CEF,1.0
+Chapelton (Devon),CPN,1.0
+Chapeltown (South Yorks),CLN,0.0
+Chappel & Wakes Colne,CWC,nan
+Charing (Kent),CHG,nan
+Charing Cross (Glasgow),CHC,nan
+Charlbury,CBY,1.0
+Charlton,CTN,nan
+Chartham,CRT,nan
+Chassen Road,CSR,1.0
+Chatelherault,CTE,nan
+Chatham,CTM,nan
+Chathill,CHT,1.0
+Cheadle Hulme,CHU,1.0
+Cheam,CHE,nan
+Cheddington,CED,nan
+Chelford (Cheshire),CEL,1.0
+Chelmsford,CHM,nan
+Chelsfield,CLD,nan
+Cheltenham Spa,CNM,0.0
+Chepstow,CPW,1.0
+Cherry Tree,CYT,0.0
+Chertsey,CHY,nan
+Cheshunt,CHN,nan
+Chessington North,CSN,nan
+Chessington South,CSS,nan
+Chester,CTR,1.0
+Chester Road,CRD,1.0
+Chesterfield,CHD,0.0
+Chester-le-Street,CLS,0.0
+Chestfield & Swalecliffe,CSW,nan
+Chetnole,CNO,1.0
+Chichester,CCH,nan
+Chilham,CIL,nan
+Chilworth,CHL,1.0
+Chingford,CHI,nan
+Chinley,CLY,1.0
+Chippenham,CPM,1.0
+Chipstead,CHP,nan
+Chirk,CRK,nan
+Chislehurst,CIT,nan
+Chiswick,CHK,nan
+Cholsey,CHO,nan
+Chorley,CRL,1.0
+Chorleywood,CLW,nan
+Christchurch,CHR,nan
+Christs Hospital,CHH,nan
+Church & Oswaldtwistle,CTW,1.0
+Church Fenton,CHF,0.0
+Church Stretton,CTT,1.0
+Cilmeri,CIM,nan
+City Thameslink,CTK,1.0
+Clacton-on-Sea,CLT,nan
+Clandon,CLA,nan
+Clapham (North Yorkshire),CPY,0.0
+Clapham High Street,CLP,nan
+Clapham Junction,CLJ,nan
+Clapton,CPT,nan
+Clarbeston Road,CLR,1.0
+Clarkston,CKS,1.0
+Claverdon,CLV,nan
+Claygate,CLG,nan
+Cleethorpes,CLE,1.0
+Cleland,CEA,1.0
+Clifton (Manchester),CLI,1.0
+Clifton Down,CFN,1.0
+Clitheroe,CLH,1.0
+Clock House,CLK,nan
+Clunderwen,CUW,1.0
+Clydebank,CYK,nan
+Coatbridge Central,CBC,1.0
+Coatbridge Sunnyside,CBS,1.0
+Coatdyke,COA,1.0
+Cobham & Stoke d'Abernon,CSD,nan
+Codsall,CSL,1.0
+Cogan,CGN,nan
+Colchester,COL,nan
+Colchester Town,CET,nan
+Coleshill Parkway,CEH,1.0
+Collingham,CLM,1.0
+Collington,CLL,nan
+Colne,CNE,1.0
+Colwall,CWL,1.0
+Colwyn Bay,CWB,1.0
+Combe (Oxon),CME,1.0
+Commondale,COM,1.0
+Congleton,CNG,1.0
+Conisbrough,CNS,1.0
+Connel Ferry,CON,nan
+Conon Bridge,CBD,nan
+Cononley,CEY,0.0
+Conway Park,CNP,1.0
+Conwy,CNW,nan
+Cooden Beach,COB,nan
+Cookham,COO,nan
+Cooksbridge,CBR,nan
+Coombe Junction Halt,COE,nan
+Copplestone,COP,1.0
+Corbridge,CRB,1.0
+Corby,COR,1.0
+Corkerhill,CKH,1.0
+Corkickle,CKL,1.0
+Corpach,CPA,nan
+Corrour,CRR,nan
+Coryton,COY,nan
+Coseley,CSY,1.0
+Cosford,COS,1.0
+Cosham,CSA,nan
+Cottingham,CGM,1.0
+Cottingley,COT,0.0
+Coulsdon South,CDS,1.0
+Coulsdon Town,CDN,nan
+Coventry,COV,1.0
+Coventry Arena,CAA,nan
+Cowden (Kent),CWN,nan
+Cowdenbeath,COW,1.0
+Cradley Heath,CRA,nan
+Craigendoran,CGD,nan
+Cramlington,CRM,1.0
+Cranbrook (Devon),CBK,1.0
+Craven Arms,CRV,1.0
+Crawley,CRW,1.0
+Crayford,CRY,nan
+Crediton,CDI,1.0
+Cressing (Essex),CES,nan
+Cressington,CSG,nan
+Creswell,CWD,1.0
+Crewe,CRE,1.0
+Crewkerne,CKN,1.0
+Crews Hill,CWH,1.0
+Crianlarich,CNR,nan
+Criccieth,CCC,1.0
+Cricklewood,CRI,nan
+Croftfoot,CFF,nan
+Crofton Park,CFT,nan
+Cromer,CMR,nan
+Cromford,CMF,1.0
+Crookston,CKT,1.0
+Cross Gates,CRG,0.0
+Crossflatts,CFL,0.0
+Crosshill,COI,1.0
+Crosskeys,CKY,nan
+Crossmyloof,CMY,nan
+Croston,CSO,1.0
+Crouch Hill,CRH,nan
+Crowborough,COH,nan
+Crowhurst,CWU,nan
+Crowle,CWE,1.0
+Crowthorne,CRN,nan
+Croy,CRO,1.0
+Crystal Palace,CYP,nan
+Cuddington,CUD,1.0
+Cuffley,CUF,1.0
+Culham,CUM,1.0
+Culrain,CUA,nan
+Cumbernauld,CUB,1.0
+Cupar,CUP,0.0
+Curriehill,CUH,1.0
+Cuxton,CUX,nan
+Cwmbach,CMH,nan
+Cwmbran,CWM,1.0
+Cynghordy,CYN,nan
+Dagenham Dock,DDK,nan
+Daisy Hill,DSY,0.0
+Dalgety Bay,DAG,1.0
+Dalmally,DAL,nan
+Dalmarnock,DAK,nan
+Dalmeny,DAM,1.0
+Dalmuir,DMR,nan
+Dalreoch,DLR,nan
+Dalry,DLY,nan
+Dalston (Cumbria),DLS,1.0
+Dalston Junction,DLJ,nan
+Dalston Kingsland,DLK,nan
+Dalton (Cumbria),DLT,1.0
+Dalwhinnie,DLW,nan
+Danby,DNY,1.0
+Danescourt,DCT,nan
+Danzey,DZY,nan
+Darlington,DAR,0.0
+Darnall,DAN,0.0
+Darsham,DSM,nan
+Dartford,DFD,nan
+Darton,DRT,0.0
+Darwen,DWN,1.0
+Datchet,DAT,nan
+Davenport,DVN,1.0
+Dawlish,DWL,1.0
+Dawlish Warren,DWW,1.0
+Deal,DEA,nan
+Dean (Wilts),DEN,nan
+Deansgate,DGT,1.0
+Deganwy,DGY,1.0
+Deighton,DHN,0.0
+Delamere,DLM,1.0
+Denby Dale,DBD,1.0
+Denham,DNM,nan
+Denham Golf Club,DGC,nan
+Denmark Hill,DMK,nan
+Dent,DNT,0.0
+Denton,DTN,nan
+Deptford,DEP,nan
+Derby,DBY,0.0
+Derby Road (Ipswich),DBR,nan
+Devonport (Devon),DPT,1.0
+Devonport Dockyard,DOC,1.0
+Dewsbury,DEW,0.0
+Didcot Parkway,DID,nan
+Digby & Sowton,DIG,1.0
+Dilton Marsh,DMH,1.0
+Dinas (Rhondda),DMG,nan
+Dinas Powys,DNS,nan
+Dingle Road,DGL,nan
+Dingwall,DIN,nan
+Dinsdale,DND,1.0
+Dinting,DTG,1.0
+Disley,DSL,1.0
+Diss,DIS,nan
+Dodworth,DOD,1.0
+Dolau,DOL,nan
+Doleham,DLH,nan
+Dolgarrog,DLG,nan
+Dolwyddelan,DWD,nan
+Doncaster,DON,0.0
+Dorchester South,DCH,nan
+Dorchester West,DCW,1.0
+Dore & Totley,DOR,1.0
+Dorking (Main),DKG,nan
+Dorking Deepdene,DPD,nan
+Dorking West,DKT,1.0
+Dormans,DMS,nan
+Dorridge,DDG,nan
+Dove Holes,DVH,1.0
+Dover Priory,DVP,nan
+Dovercourt,DVC,nan
+Dovey Junction,DVY,1.0
+Downham Market,DOW,nan
+Drayton Green,DRG,nan
+Drayton Park,DYP,1.0
+Drem,DRM,1.0
+Driffield,DRF,1.0
+Drigg,DRI,1.0
+Droitwich Spa,DTW,1.0
+Dronfield,DRO,0.0
+Drumchapel,DMC,nan
+Drumfrochar,DFR,1.0
+Drumgelloch,DRU,1.0
+Drumry,DMY,nan
+Dublin Ferryport,DFP,nan
+Dublin Port - Stena,DPS,nan
+Duddeston,DUD,1.0
+Dudley Port,DDP,1.0
+Duffield,DFI,1.0
+Duirinish,DRN,nan
+Duke Street,DST,nan
+Dullingham,DUL,nan
+Dumbarton Central,DBC,nan
+Dumbarton East,DBE,nan
+Dumbreck,DUM,1.0
+Dumfries,DMF,1.0
+Dumpton Park,DMP,nan
+Dunbar,DUN,0.0
+Dunblane,DBL,1.0
+Duncraig,DCG,nan
+Dundee,DEE,0.0
+Dunfermline Queen Margaret,DFL,1.0
+Dunfermline Town,DFE,1.0
+Dunkeld & Birnam,DKD,1.0
+Dunlop,DNL,1.0
+Dunrobin Castle,DNO,nan
+Dunston,DOT,1.0
+Dunton Green,DNG,nan
+Durham,DHM,0.0
+Durrington-on-Sea,DUR,nan
+Dyce,DYC,nan
+Dyffryn Ardudwy,DYF,1.0
+Eaglescliffe,EAG,1.0
+Ealing Broadway,EAL,nan
+Earlestown,ERL,1.0
+Earley,EAR,nan
+Earlsfield,EAD,nan
+Earlswood (Surrey),ELD,nan
+Earlswood (West Midlands),EWD,nan
+East Croydon,ECR,1.0
+East Didsbury,EDY,1.0
+East Dulwich,EDW,nan
+East Farleigh,EFL,nan
+East Garforth,EGF,0.0
+East Grinstead,EGR,nan
+East Kilbride,EKL,1.0
+East Malling,EML,nan
+East Midlands Parkway,EMD,0.0
+East Tilbury,ETL,nan
+East Worthing,EWR,nan
+Eastbourne,EBN,nan
+Eastbrook,EBK,nan
+Easterhouse,EST,1.0
+Eastham Rake,ERA,1.0
+Eastleigh,ESL,nan
+Eastrington,EGN,1.0
+Ebbsfleet International,EBD,nan
+Ebbw Vale Parkway,EBV,nan
+Ebbw Vale Town,EBB,nan
+Eccles (Manchester),ECC,1.0
+Eccles Road,ECS,1.0
+Eccleston Park,ECL,1.0
+Edale,EDL,1.0
+Eden Park,EDN,nan
+Edenbridge,EBR,nan
+Edenbridge Town,EBT,nan
+Edge Hill,EDG,1.0
+Edinburgh,EDB,0.0
+Edinburgh Gateway,EGY,1.0
+Edinburgh Park,EDP,1.0
+Edmonton Green,EDR,nan
+Effingham Junction,EFF,nan
+Eggesford,EGG,1.0
+Egham,EGH,nan
+Egton,EGT,1.0
+Elephant & Castle,EPH,nan
+Elephant & Castle (Underground),ZEL,nan
+Elgin,ELG,nan
+Ellesmere Port,ELP,1.0
+Elmers End,ELE,nan
+Elmstead Woods,ESD,nan
+Elmswell,ESW,1.0
+Elsecar,ELR,0.0
+Elsenham (Essex),ESM,nan
+Elstree & Borehamwood,ELS,nan
+Eltham,ELW,nan
+Elton & Orston,ELO,1.0
+Ely,ELY,1.0
+Emerson Park,EMP,nan
+Emsworth,EMS,nan
+Energlyn & Churchill Park,ECP,nan
+Enfield Chase,ENC,1.0
+Enfield Lock,ENL,nan
+Enfield Town,ENF,nan
+Entwistle,ENT,1.0
+Epsom (Surrey),EPS,nan
+Epsom Downs,EPD,nan
+Erdington,ERD,1.0
+Eridge,ERI,nan
+Erith,ERH,nan
+Esher,ESH,nan
+Eskbank,EKB,1.0
+Essex Road,EXR,1.0
+Etchingham,ETC,nan
+Euxton Balshaw Lane,EBA,1.0
+Evesham,EVE,nan
+Ewell East,EWE,nan
+Ewell West,EWW,nan
+Exeter Central,EXC,1.0
+Exeter St David's,EXD,0.0
+Exeter St Thomas,EXT,1.0
+Exhibition Centre (Glasgow),EXG,nan
+Exmouth,EXM,1.0
+Exton,EXN,1.0
+Eynsford,EYN,nan
+Fairbourne,FRB,1.0
+Fairfield,FRF,1.0
+Fairlie,FRL,1.0
+Fairwater,FRW,nan
+Falconwood,FCN,nan
+Falkirk Grahamston,FKG,1.0
+Falkirk High,FKK,1.0
+Falls of Cruachan,FOC,nan
+Falmer,FMR,nan
+Falmouth Docks,FAL,nan
+Falmouth Town,FMT,nan
+Fareham,FRM,nan
+Farnborough (Main),FNB,nan
+Farnborough North,FNN,nan
+Farncombe,FNC,nan
+Farnham,FNH,nan
+Farningham Road,FNR,nan
+Farnworth,FNW,1.0
+Farringdon,ZFD,1.0
+Fauldhouse,FLD,1.0
+Faversham,FAV,nan
+Faygate,FGT,1.0
+Fazakerley,FAZ,nan
+Fearn,FRN,nan
+Featherstone,FEA,0.0
+Felixstowe,FLX,nan
+Feltham,FEL,nan
+Feniton,FNT,1.0
+Fenny Stratford,FEN,nan
+Fernhill,FER,nan
+Ferriby,FRY,1.0
+Ferryside,FYS,1.0
+Ffairfach,FFA,nan
+Filey,FIL,1.0
+Filton Abbey Wood,FIT,1.0
+Finchley Road & Frognal,FNY,nan
+Finsbury Park,FPK,1.0
+Finstock,FIN,1.0
+Fishbourne (Sussex),FSB,nan
+Fishersgate,FSG,nan
+Fishguard & Goodwick,FGW,1.0
+Fishguard Harbour,FGH,1.0
+Fiskerton,FSK,1.0
+Fitzwilliam,FZW,0.0
+Five Ways,FWY,1.0
+Fleet,FLE,nan
+Flimby,FLM,1.0
+Flint,FLN,1.0
+Flitwick,FLT,1.0
+Flixton,FLI,1.0
+Flowery Field,FLF,1.0
+Folkestone Central,FKC,nan
+Folkestone West,FKW,nan
+Ford,FOD,nan
+Forest Gate,FOG,nan
+Forest Hill,FOH,nan
+Formby,FBY,1.0
+Forres,FOR,nan
+Forsinard,FRS,nan
+Fort Matilda,FTM,1.0
+Fort William,FTW,nan
+Four Oaks,FOK,1.0
+Foxfield,FOX,1.0
+Foxton,FXN,1.0
+Frant,FRT,nan
+Fratton,FTN,nan
+Freshfield,FRE,1.0
+Freshford,FFD,1.0
+Frimley,FML,nan
+Frinton-on-Sea,FRI,nan
+Frizinghall,FZH,0.0
+Frodsham,FRD,1.0
+Frome,FRO,1.0
+Fulwell,FLW,nan
+Furness Vale,FNV,1.0
+Furze Platt,FZP,nan
+Gainsborough Central,GNB,1.0
+Gainsborough Lea Road,GBL,0.0
+Galashiels,GAL,1.0
+Garelochhead,GCH,nan
+Garforth,GRF,0.0
+Gargrave,GGV,0.0
+Garrowhill,GAR,nan
+Garscadden,GRS,nan
+Garsdale,GSD,0.0
+Garston (Hertfordshire),GSN,nan
+Garswood,GSW,1.0
+Gartcosh,GRH,1.0
+Garth (Mid Glamorgan),GMG,1.0
+Garth (Powys),GTH,nan
+Garve,GVE,nan
+Gathurst,GST,0.0
+Gatley,GTY,0.0
+Gatwick Airport,GTW,1.0
+Georgemas Junction,GGJ,nan
+Gerrards Cross,GER,nan
+Gidea Park,GDP,nan
+Giffnock,GFN,1.0
+Giggleswick,GIG,0.0
+Gilberdyke,GBD,0.0
+Gilfach Fargoed,GFF,nan
+Gillingham (Dorset),GIL,nan
+Gillingham (Kent),GLM,nan
+Gilshochill,GSC,nan
+Gipsy Hill,GIP,nan
+Girvan,GIR,nan
+Glaisdale,GLS,1.0
+Glan Conwy,GCW,nan
+Glasgow Central,GLC,0.0
+Glasgow Queen Street,GLQ,1.0
+Glasshoughton,GLH,0.0
+Glazebrook,GLZ,1.0
+Gleneagles,GLE,nan
+Glenfinnan,GLF,nan
+Glengarnock,GLG,nan
+Glenrothes with Thornton,GLT,1.0
+Glossop,GLO,1.0
+Gloucester,GCR,1.0
+Glynde,GLY,nan
+Gobowen,GOB,nan
+Godalming,GOD,nan
+Godley,GDL,1.0
+Godstone,GDN,nan
+Goldthorpe,GOE,0.0
+Golf Street,GOF,1.0
+Golspie,GOL,nan
+Gomshall,GOM,nan
+Goodmayes,GMY,nan
+Goole,GOO,0.0
+Goostrey,GTR,1.0
+Gordon Hill,GDH,1.0
+Gorebridge,GBG,1.0
+Goring & Streatley,GOR,nan
+Goring-by-Sea,GBS,nan
+Gorton,GTO,1.0
+Gospel Oak,GPO,nan
+Gourock,GRK,1.0
+Gowerton,GWN,1.0
+Goxhill,GOX,nan
+Grange Park,GPK,1.0
+Grange-Over-Sands,GOS,1.0
+Grangetown (Cardiff),GTN,nan
+Grantham,GRA,0.0
+Grateley,GRT,1.0
+Gravelly Hill,GVH,1.0
+Gravesend,GRV,nan
+Grays,GRY,nan
+Great Ayton,GTA,1.0
+Great Bentley,GRB,nan
+Great Chesterford,GRC,nan
+Great Coates,GCT,nan
+Great Malvern,GMV,1.0
+Great Missenden,GMN,nan
+Great Yarmouth,GYM,nan
+Green Lane,GNL,1.0
+Green Road,GNR,1.0
+Greenbank,GBK,1.0
+Greenfaulds,GRL,1.0
+Greenfield,GNF,1.0
+Greenford,GFD,nan
+Greenhithe,GNH,nan
+Greenock Central,GKC,1.0
+Greenock West,GKW,1.0
+Greenwich,GNW,nan
+Gretna Green,GEA,1.0
+Grimsby Docks,GMD,nan
+Grimsby Town,GMB,1.0
+Grindleford,GRN,1.0
+Grosmont,GMT,1.0
+Grove Park,GRP,nan
+Guide Bridge,GUI,1.0
+Guildford,GLD,0.0
+Guiseley,GSY,0.0
+Gunnersbury,GUN,nan
+Gunnislake,GSL,1.0
+Gunton,GNT,nan
+Gwersyllt,GWE,nan
+Gypsy Lane,GYP,1.0
+Habrough,HAB,1.0
+Hackbridge,HCB,nan
+Hackney Central,HKC,nan
+Hackney Downs,HAC,nan
+Hackney Wick,HKW,nan
+Haddenham & Thame Parkway,HDM,nan
+Haddiscoe,HAD,nan
+Hadfield,HDF,1.0
+Hadley Wood,HDW,nan
+Hag Fold,HGF,1.0
+Haggerston,HGG,nan
+Hagley,HAG,nan
+Hairmyres,HMY,1.0
+Hale (Manchester),HAL,1.0
+Halesworth,HAS,nan
+Halewood,HED,1.0
+Halifax,HFX,0.0
+Hall Green,HLG,nan
+Hall Road,HLR,nan
+Halling,HAI,nan
+Hall-i'-th'-Wood,HID,1.0
+Haltwhistle,HWH,1.0
+Ham Street,HMT,nan
+Hamble,HME,nan
+Hamilton Central,HNC,1.0
+Hamilton West,HNW,1.0
+Hammerton,HMM,0.0
+Hampden Park (Sussex),HMD,nan
+Hampstead Heath,HDH,nan
+Hampton (London),HMP,nan
+Hampton Court,HMC,nan
+Hampton Wick,HMW,nan
+Hampton-in-Arden,HIA,1.0
+Hamstead (Birmingham),HSD,1.0
+Hamworthy,HAM,nan
+Hanborough,HND,1.0
+Handforth,HTH,1.0
+Hanwell,HAN,nan
+Hapton,HPN,1.0
+Harlech,HRL,1.0
+Harlesden,HDN,nan
+Harling Road,HRD,1.0
+Harlington (Beds),HLN,1.0
+Harlow Mill,HWM,nan
+Harlow Town,HWN,nan
+Harold Wood,HRO,nan
+Harpenden,HPD,1.0
+Harrietsham,HRM,nan
+Harringay,HGY,1.0
+Harringay Green Lanes,HRY,nan
+Harrington,HRR,1.0
+Harrogate,HGT,0.0
+Harrow & Wealdstone,HRW,nan
+Harrow-on-the-Hill,HOH,nan
+Hartford (Cheshire),HTF,1.0
+Hartlebury,HBY,nan
+Hartlepool,HPL,1.0
+Hartwood,HTW,1.0
+Harwich International,HPQ,nan
+Harwich Town,HWC,nan
+Haslemere,HSL,nan
+Hassocks,HSK,nan
+Hastings,HGS,nan
+Hatch End,HTE,nan
+Hatfield & Stainforth,HFS,1.0
+Hatfield (Herts),HAT,1.0
+Hatfield Peverel,HAP,nan
+Hathersage,HSG,1.0
+Hattersley,HTY,1.0
+Hatton,HTN,1.0
+Havant,HAV,nan
+Havenhouse,HVN,1.0
+Haverfordwest,HVF,1.0
+Hawarden,HWD,nan
+Hawarden Bridge,HWB,nan
+Hawkhead,HKH,1.0
+Haydon Bridge,HDB,1.0
+Haydons Road,HYR,nan
+Hayes & Harlington,HAY,nan
+Hayes (Kent),HYS,nan
+Hayle,HYL,1.0
+Haymarket,HYM,0.0
+Haywards Heath,HHE,nan
+Hazel Grove,HAZ,1.0
+Headcorn,HCN,nan
+Headingley,HDY,0.0
+Headstone Lane,HDL,nan
+Heald Green,HDG,1.0
+Healing,HLI,nan
+Heath High Level,HHL,nan
+Heath Low Level,HLL,nan
+Heathrow Airport Terminal 4,HAF,nan
+Heathrow Airport Terminal 5,HWV,nan
+"Heathrow Airport Terminals 1, 2 and 3",HXX,nan
+Heaton Chapel,HTC,1.0
+Hebden Bridge,HBD,0.0
+Heckington,HEC,1.0
+Hedge End,HDE,1.0
+Hednesford,HNF,1.0
+Heighington,HEI,1.0
+Helensburgh Central,HLC,nan
+Helensburgh Upper,HLU,nan
+Hellifield,HLD,0.0
+Helmsdale,HMS,nan
+Helsby,HSB,1.0
+Hemel Hempstead,HML,nan
+Hendon,HEN,nan
+Hengoed,HNG,nan
+Henley-in-Arden,HNL,nan
+Henley-on-Thames,HOT,nan
+Hensall,HEL,0.0
+Hereford,HFD,1.0
+Herne Bay,HNB,nan
+Herne Hill,HNH,nan
+Hersham,HER,nan
+Hertford East,HFE,nan
+Hertford North,HFN,1.0
+Hessle,HES,1.0
+Heswall,HSW,nan
+Hever,HEV,nan
+Heworth,HEW,1.0
+Hexham,HEX,1.0
+Heyford,HYD,1.0
+Heysham Port,HHB,1.0
+High Brooms,HIB,nan
+High Street (Glasgow),HST,1.0
+High Street Kensington Underground,ZHS,1.0
+High Wycombe,HWY,nan
+Higham (Kent),HGM,nan
+Highams Park,HIP,nan
+Highbridge & Burnham,HIG,1.0
+Highbury & Islington,HHY,1.0
+Hightown,HTO,nan
+Hildenborough,HLB,nan
+Hillfoot,HLF,nan
+Hillington East,HLE,nan
+Hillington West,HLW,nan
+Hillside,HIL,1.0
+Hilsea,HLS,nan
+Hinchley Wood,HYW,nan
+Hinckley (Leics),HNK,1.0
+Hindley,HIN,0.0
+Hinton Admiral,HNA,nan
+Hitchin,HIT,1.0
+Hither Green,HGR,nan
+Hockley,HOC,nan
+Hollingbourne,HBN,nan
+Holmes Chapel,HCH,1.0
+Holmwood,HLM,nan
+Holton Heath,HOL,1.0
+Holyhead,HHD,nan
+Holytown,HLY,1.0
+Homerton,HMN,nan
+Honeybourne,HYB,nan
+Honiton,HON,1.0
+Honley,HOY,1.0
+Honor Oak Park,HPA,nan
+Hook,HOK,nan
+Hooton,HOO,1.0
+Hope (Derbyshire),HOP,1.0
+Hope (Flintshire),HPE,nan
+Hopton Heath,HPT,nan
+Horley,HOR,1.0
+Hornbeam Park,HBP,0.0
+Hornsey,HRN,1.0
+Horsforth,HRS,0.0
+Horsham,HRH,1.0
+Horsley,HSY,nan
+Horton-in-Ribblesdale,HIR,0.0
+Horwich Parkway,HWI,1.0
+Hoscar,HSC,1.0
+Hough Green,HGN,1.0
+Hounslow,HOU,nan
+Hove,HOV,nan
+Hoveton & Wroxham,HXM,nan
+How Wood (Herts),HWW,nan
+Howden,HOW,0.0
+Howwood (Renfrewshire),HOZ,1.0
+Hoxton,HOX,nan
+Hoylake,HYK,1.0
+Hubberts Bridge,HBB,1.0
+Hucknall,HKN,1.0
+Huddersfield,HUD,0.0
+Hull,HUL,0.0
+Humphrey Park,HUP,1.0
+Huncoat,HCT,1.0
+Hungerford,HGD,1.0
+Hunmanby,HUB,1.0
+Huntingdon,HUN,1.0
+Huntly,HNT,nan
+Hunts Cross,HNX,1.0
+Hurst Green,HUR,nan
+Hutton Cranswick,HUT,1.0
+Huyton,HUY,1.0
+Hyde Central,HYC,1.0
+Hyde North,HYT,1.0
+Hykeham,HKM,1.0
+Hyndland,HYN,nan
+Hythe (Essex),HYH,nan
+IBM Halt,IBM,nan
+Ifield,IFI,1.0
+Ilford,IFD,nan
+Ilkley,ILK,0.0
+Imperial Wharf,IMW,nan
+Ince & Elton,INE,1.0
+Ince (Manchester),INC,1.0
+Ingatestone,INT,nan
+Insch,INS,nan
+Invergordon,IGD,nan
+Invergowrie,ING,nan
+Inverkeithing,INK,0.0
+Inverkip,INP,1.0
+Inverness,INV,1.0
+Invershin,INH,nan
+Inverurie,INR,nan
+Ipswich,IPS,1.0
+Irlam,IRL,1.0
+Irvine,IRV,1.0
+Isleworth,ISL,nan
+Islip,ISP,1.0
+Iver,IVR,nan
+Ivybridge,IVY,1.0
+James Cook,JCH,1.0
+Jewellery Quarter,JEQ,nan
+Johnston (Pembs),JOH,1.0
+Johnstone (Strathclyde),JHN,nan
+Jordanhill,JOR,nan
+Kearsley (Manchester),KSL,1.0
+Kearsney (Kent),KSN,nan
+Keighley,KEI,0.0
+Keith,KEH,nan
+Kelvedon,KEL,nan
+Kelvindale,KVD,nan
+Kemble,KEM,1.0
+Kempston Hardwick,KMH,1.0
+Kempton Park Racecourse,KMP,nan
+Kemsing,KMS,nan
+Kemsley,KML,nan
+Kendal,KEN,1.0
+Kenley,KLY,nan
+Kennett,KNE,nan
+Kennishead,KNS,nan
+Kensal Green,KNL,nan
+Kensal Rise,KNR,nan
+Kensington Olympia,KPA,nan
+Kent House,KTH,nan
+Kentish Town,KTN,nan
+Kentish Town West,KTW,nan
+Kenton,KNT,nan
+Kents Bank,KBK,1.0
+Kettering,KET,0.0
+Kew Bridge,KWB,nan
+Kew Gardens,KWG,nan
+Keyham,KEY,1.0
+Keynsham,KYN,1.0
+Kidbrooke,KDB,nan
+Kidderminster,KID,nan
+Kidsgrove,KDG,1.0
+Kidwelly,KWL,1.0
+Kilburn High Road,KBN,nan
+Kildale,KLD,1.0
+Kildonan,KIL,nan
+Kilgetty,KGT,nan
+Kilmarnock,KMK,1.0
+Kilmaurs,KLM,1.0
+Kilpatrick,KPT,nan
+Kilwinning,KWN,nan
+Kinbrace,KBC,nan
+Kingham,KGM,1.0
+Kinghorn,KGH,1.0
+Kings Langley,KGL,nan
+Kings Lynn,KLN,nan
+Kings Norton,KNN,1.0
+Kings Nympton,KGN,1.0
+Kings Park,KGP,nan
+Kings Sutton,KGS,1.0
+Kingsknowe,KGE,1.0
+Kingston,KNG,nan
+Kingswood,KND,nan
+Kingussie,KIN,1.0
+Kintbury,KIT,1.0
+Kirby Cross,KBX,nan
+Kirk Sandall,KKS,1.0
+Kirkby (Merseyside),KIR,1.0
+Kirkby Stephen,KSW,0.0
+Kirkby-in-Ashfield,KKB,1.0
+Kirkby-in-Furness,KBF,1.0
+Kirkcaldy,KDY,0.0
+Kirkconnel,KRK,1.0
+Kirkdale,KKD,nan
+Kirkham & Wesham,KKM,1.0
+Kirkhill,KKH,nan
+Kirknewton,KKN,1.0
+Kirkstall Forge,KLF,0.0
+Kirkwood,KWD,1.0
+Kirton Lindsey,KTL,nan
+Kiveton Bridge,KIV,0.0
+Kiveton Park,KVP,0.0
+Knaresborough,KNA,0.0
+Knebworth,KBW,1.0
+Knighton,KNI,nan
+Knockholt,KCK,nan
+Knottingley,KNO,0.0
+Knucklas,KNU,nan
+Knutsford,KNF,1.0
+Kyle of Lochalsh,KYL,nan
+Ladybank,LDY,0.0
+Ladywell,LAD,nan
+Laindon,LAI,nan
+Lairg,LRG,nan
+Lake,LKE,nan
+Lakenheath,LAK,nan
+Lamphey,LAM,nan
+Lanark,LNK,1.0
+Lancaster,LAN,0.0
+Lancing,LAC,nan
+Landywood,LAW,1.0
+Langbank,LGB,nan
+Langho,LHO,1.0
+Langley (Berks),LNY,nan
+Langley Green,LGG,nan
+Langley Mill,LGM,0.0
+Langside,LGS,nan
+Langwathby,LGW,0.0
+Langwith-Whaley Thorns,LAG,1.0
+Lapford,LAP,1.0
+Lapworth,LPW,1.0
+Larbert,LBT,1.0
+Largs,LAR,1.0
+Larkhall,LRH,nan
+Laurencekirk,LAU,nan
+Lawrence Hill,LWH,1.0
+Layton (Lancs),LAY,1.0
+Lazonby & Kirkoswald,LZB,0.0
+Lea Bridge,LEB,nan
+Lea Green,LEG,0.0
+Lea Hall,LEH,1.0
+Leagrave,LEA,1.0
+Lealholm,LHM,1.0
+Leamington Spa,LMS,0.0
+Leasowe,LSW,1.0
+Leatherhead,LHD,nan
+Ledbury,LED,1.0
+Lee (London),LEE,nan
+Leeds,LDS,-1.0
+Leicester,LEI,0.0
+Leigh (Kent),LIH,nan
+Leigh-on-Sea,LES,nan
+Leighton Buzzard,LBZ,1.0
+Lelant,LEL,nan
+Lelant Saltings,LTS,nan
+Lenham,LEN,nan
+Lenzie,LNZ,nan
+Leominster,LEO,1.0
+Letchworth Garden City,LET,1.0
+Leuchars (for St. Andrews),LEU,0.0
+Levenshulme,LVM,1.0
+Lewes,LWS,nan
+Lewisham,LEW,nan
+Leyland,LEY,1.0
+Leyton Midland Road,LEM,nan
+Leytonstone High Road,LER,nan
+Lichfield City,LIC,1.0
+Lichfield Trent Valley,LTV,1.0
+Lidlington,LID,1.0
+Limehouse,LHS,nan
+Lincoln Central,LCN,0.0
+Lingfield,LFD,nan
+Lingwood,LGD,nan
+Linlithgow,LIN,1.0
+Liphook,LIP,nan
+Liskeard,LSK,1.0
+Liss,LIS,nan
+Lisvane & Thornhill,LVT,nan
+Little Kimble,LTK,nan
+Little Sutton,LTT,1.0
+Littleborough,LTL,0.0
+Littlehampton,LIT,nan
+Littlehaven,LVN,1.0
+Littleport,LTP,nan
+Liverpool Central,LVC,1.0
+Liverpool James Street,LVJ,1.0
+Liverpool Lime Street,LIV,0.0
+Liverpool South Parkway,LPY,1.0
+Livingston North,LSN,1.0
+Livingston South,LVG,1.0
+Llanaber,LLA,1.0
+Llanbedr,LBR,1.0
+Llanbister Road,LLT,nan
+Llanbradach,LNB,nan
+Llandaf,LLN,nan
+Llandanwg,LDN,1.0
+Llandecwyn,LLC,1.0
+Llandeilo,LLL,nan
+Llandovery,LLV,nan
+Llandrindod,LLO,nan
+Llandudno,LLD,1.0
+Llandudno Junction,LLJ,1.0
+Llandybie,LLI,nan
+Llanelli,LLE,1.0
+Llanfairfechan,LLF,nan
+Llanfairpwll,LPG,nan
+Llangadog,LLG,nan
+Llangammarch,LLM,nan
+Llangennech,LLH,nan
+Llangynllo,LGO,nan
+Llanharan,LLR,1.0
+Llanhilleth,LTH,nan
+Llanishen,LLS,nan
+Llanrwst,LWR,nan
+Llansamlet,LAS,1.0
+Llantwit Major,LWM,nan
+Llanwrda,LNR,nan
+Llanwrtyd,LNW,nan
+Llwyngwril,LLW,1.0
+Llwynypia,LLY,nan
+Loch Awe,LHA,nan
+Loch Eil Outward Bound,LHE,nan
+Lochailort,LCL,nan
+Locheilside,LCS,nan
+Lochgelly,LCG,1.0
+Lochluichart,LCC,nan
+Lochwinnoch,LHW,1.0
+Lockerbie,LOC,1.0
+Lockwood,LCK,1.0
+London Blackfriars,BFR,1.0
+London Bridge,LBG,1.0
+London Cannon Street,CST,1.0
+London Charing Cross,CHX,1.0
+London Euston,EUS,1.0
+London Fenchurch Street,FST,1.0
+London Fields,LOF,nan
+London Kings Cross,KGX,0.0
+London Liverpool Street,LST,1.0
+London Marylebone,MYB,1.0
+London Paddington,PAD,1.0
+London Road (Brighton),LRB,nan
+London Road (Guildford),LRD,nan
+London St Pancras (Intl),SPX,nan
+London St Pancras International,STP,0.0
+London Victoria,VIC,1.0
+London Waterloo,WAT,1.0
+London Waterloo East,WAE,nan
+Long Buckby,LBK,1.0
+Long Eaton,LGE,1.0
+Long Preston,LPR,0.0
+Longbeck,LGK,1.0
+Longbridge,LOB,1.0
+Longcross,LNG,1.0
+Longfield,LGF,nan
+Longniddry,LND,1.0
+Longport,LPT,nan
+Longton,LGN,1.0
+Looe,LOO,nan
+Lostock,LOT,1.0
+Lostock Gralam,LTG,1.0
+Lostock Hall,LOH,0.0
+Lostwithiel,LOS,1.0
+Loughborough,LBO,0.0
+Loughborough Junction,LGJ,nan
+Lowdham,LOW,1.0
+Lower Sydenham,LSY,nan
+Lowestoft,LWT,nan
+Ludlow,LUD,1.0
+Luton,LUT,1.0
+Luton Airport Parkway,LTN,0.0
+Luxulyan,LUX,nan
+Lydney,LYD,1.0
+Lye (West Midlands),LYE,nan
+Lymington Pier,LYP,nan
+Lymington Town,LYT,nan
+Lympstone Commando,LYC,1.0
+Lympstone Village,LYM,1.0
+Lytham,LTM,1.0
+Macclesfield,MAC,1.0
+Machynlleth,MCN,1.0
+Maesteg,MST,1.0
+Maesteg (Ewenny Road),MEW,1.0
+Maghull,MAG,nan
+Maiden Newton,MDN,1.0
+Maidenhead,MAI,nan
+Maidstone Barracks,MDB,nan
+Maidstone East,MDE,nan
+Maidstone West,MDW,nan
+Malden Manor,MAL,nan
+Mallaig,MLG,nan
+Malton,MLT,0.0
+Malvern Link,MVL,1.0
+Manchester Airport,MIA,0.0
+Manchester Oxford Road,MCO,0.0
+Manchester Piccadilly,MAN,0.0
+Manchester United Football Ground,MUF,nan
+Manchester Victoria,MCV,0.0
+Manea,MNE,1.0
+Manningtree,MNG,nan
+Manor Park,MNP,nan
+Manor Road,MNR,1.0
+Manorbier,MRB,nan
+Manors,MAS,1.0
+Mansfield,MFT,1.0
+Mansfield Woodhouse,MSW,1.0
+March,MCH,1.0
+Marden (Kent),MRN,nan
+Margate,MAR,nan
+Market Harborough,MHR,0.0
+Market Rasen,MKR,1.0
+Markinch,MNC,0.0
+Marks Tey,MKT,nan
+Marlow,MLW,nan
+Marple,MPL,1.0
+Marsden (Yorks),MSN,0.0
+Marske,MSK,1.0
+Marston Green,MGN,1.0
+Martin Mill,MTM,nan
+Martins Heron,MAO,nan
+Marton,MTO,1.0
+Maryhill,MYH,nan
+Maryland,MYL,nan
+Maryport,MRY,1.0
+Matlock,MAT,1.0
+Matlock Bath,MTB,1.0
+Mauldeth Road,MAU,1.0
+Maxwell Park,MAX,nan
+Maybole,MAY,nan
+Maze Hill,MZH,nan
+Meadowhall,MHS,0.0
+Meldreth,MEL,1.0
+Melksham,MKM,nan
+Melton (Suffolk),MES,nan
+Melton Mowbray,MMO,1.0
+Menheniot,MEN,1.0
+Menston,MNN,0.0
+Meols,MEO,1.0
+Meols Cop,MEC,0.0
+Meopham,MEP,nan
+Merryton,MEY,nan
+Merstham,MHM,1.0
+Merthyr Tydfil,MER,nan
+Merthyr Vale,MEV,nan
+Metheringham,MGM,1.0
+MetroCentre,MCE,1.0
+Mexborough,MEX,1.0
+Micheldever,MIC,nan
+Micklefield,MIK,0.0
+Middlesbrough,MBR,0.0
+Middlewood,MDL,1.0
+Midgham,MDG,1.0
+Milford (Surrey),MLF,nan
+Milford Haven,MFH,1.0
+Mill Hill (Lancs),MLH,0.0
+Mill Hill Broadway,MIL,nan
+Millbrook (Beds),MLB,1.0
+Millbrook (Hants),MBK,nan
+Milliken Park,MIN,1.0
+Millom,MLM,1.0
+Mills Hill (Manchester),MIH,0.0
+Milngavie,MLN,nan
+Milton Keynes Central,MKC,1.0
+Minffordd,MFF,1.0
+Minster,MSR,nan
+Mirfield,MIR,0.0
+Mistley,MIS,nan
+Mitcham Eastfields,MTC,nan
+Mitcham Junction,MIJ,nan
+Mobberley,MOB,1.0
+Monifieth,MON,1.0
+Monks Risborough,MRS,nan
+Montpelier,MTP,1.0
+Montrose,MTS,0.0
+Moorfields,MRF,1.0
+Moorgate,MOG,1.0
+Moorside,MSD,1.0
+Moorthorpe,MRP,0.0
+Morar,MRR,nan
+Morchard Road,MRD,1.0
+Morden South,MDS,nan
+Morecambe,MCM,0.0
+Moreton (Dorset),MTN,nan
+Moreton (Merseyside),MRT,1.0
+Moreton-in-Marsh,MIM,1.0
+Morfa Mawddach,MFA,1.0
+Morley,MLY,0.0
+Morpeth,MPT,0.0
+Mortimer,MOR,1.0
+Mortlake,MTL,nan
+Moses Gate,MSS,1.0
+Moss Side,MOS,1.0
+Mossley (Manchester),MSL,0.0
+Mossley Hill,MSH,1.0
+Mosspark,MPK,1.0
+Moston,MSO,0.0
+Motherwell,MTH,0.0
+Motspur Park,MOT,nan
+Mottingham,MTG,nan
+Mottisfont & Dunbridge,DBG,nan
+Mouldsworth,MLD,1.0
+Moulsecoomb,MCB,nan
+Mount Florida,MFL,1.0
+Mount Vernon,MTV,1.0
+Mountain Ash,MTA,nan
+Muir of Ord,MOO,nan
+Muirend,MUI,1.0
+Musselburgh,MUB,1.0
+Mytholmroyd,MYT,0.0
+Nafferton,NFN,1.0
+Nailsea & Backwell,NLS,1.0
+Nairn,NRN,nan
+Nantwich,NAN,1.0
+Narberth,NAR,nan
+Narborough,NBR,1.0
+Navigation Road,NVR,1.0
+Neath,NTH,1.0
+Needham Market,NMT,1.0
+Neilston,NEI,1.0
+Nelson,NEL,1.0
+Neston,NES,nan
+Netherfield,NET,1.0
+Nethertown,NRT,1.0
+Netley,NTL,nan
+New Barnet,NBA,nan
+New Beckenham,NBC,nan
+New Brighton,NBN,1.0
+New Clee,NCE,nan
+New Cross,NWX,nan
+New Cross Gate,NXG,nan
+New Cumnock,NCK,1.0
+New Eltham,NEH,nan
+New Holland,NHL,nan
+New Hythe,NHE,nan
+New Lane,NLN,1.0
+New Malden,NEM,nan
+New Mills Central,NMC,1.0
+New Mills Newtown,NMN,1.0
+New Milton,NWM,1.0
+New Pudsey,NPD,0.0
+New Southgate,NSG,1.0
+Newark Castle,NCT,1.0
+Newark North Gate,NNG,0.0
+Newbridge,NBE,nan
+Newbury,NBY,nan
+Newbury Racecourse,NRC,nan
+Newcastle,NCL,0.0
+Newcourt,NCO,1.0
+Newcraighall,NEW,1.0
+Newhaven Harbour,NVH,nan
+Newhaven Town,NVN,nan
+Newington,NGT,nan
+Newmarket,NMK,nan
+Newport (Essex),NWE,nan
+Newport (South Wales),NWP,1.0
+Newquay,NQY,nan
+Newstead,NSD,1.0
+Newton (Lanark),NTN,nan
+Newton Abbot,NTA,0.0
+Newton Aycliffe,NAY,1.0
+Newton for Hyde,NWN,1.0
+Newton St Cyres,NTC,1.0
+Newtongrange,NEG,1.0
+Newton-le-Willows,NLW,0.0
+Newtonmore,NWR,1.0
+Newton-on-Ayr,NOA,1.0
+Newtown (Powys),NWT,1.0
+Ninian Park,NNP,nan
+Nitshill,NIT,nan
+Norbiton,NBT,nan
+Norbury,NRB,nan
+Normans Bay,NSB,nan
+Normanton,NOR,0.0
+North Berwick,NBW,1.0
+North Camp,NCM,nan
+North Dulwich,NDL,nan
+North Fambridge,NFA,nan
+North Llanrwst,NLR,nan
+North Queensferry,NQU,1.0
+North Road (Darlington),NRD,1.0
+North Sheen,NSH,nan
+North Walsham,NWA,nan
+North Wembley,NWB,nan
+Northallerton,NTR,0.0
+Northampton,NMP,1.0
+Northfield,NFD,1.0
+Northfleet,NFL,nan
+Northolt Park,NLT,nan
+Northumberland Park,NUM,nan
+Northwich,NWI,1.0
+Norton Bridge,NTB,nan
+Norwich,NRW,1.0
+Norwood Junction,NWD,nan
+Nottingham,NOT,0.0
+Nuneaton,NUN,1.0
+Nunhead,NHD,nan
+Nunthorpe,NNT,1.0
+Nutbourne,NUT,nan
+Nutfield,NUF,nan
+Oakengates,OKN,1.0
+Oakham,OKM,1.0
+Oakleigh Park,OKL,1.0
+Oban,OBN,nan
+Ockendon,OCK,nan
+Ockley,OLY,nan
+Okehampton,OKE,nan
+Old Hill,OHL,nan
+Old Roan,ORN,nan
+Old Street,OLD,1.0
+Oldfield Park,OLF,1.0
+Olton,OLT,nan
+Ore,ORE,nan
+Ormskirk,OMS,1.0
+Orpington,ORP,nan
+Orrell,ORR,1.0
+Orrell Park,OPK,nan
+Otford,OTF,nan
+Oulton Broad North,OUN,nan
+Oulton Broad South,OUS,nan
+Outwood,OUT,0.0
+Overpool,OVE,1.0
+Overton,OVR,1.0
+Oxenholme Lake District,OXN,1.0
+Oxford,OXF,0.0
+Oxford Parkway,OXP,1.0
+Oxshott,OXS,nan
+Oxted,OXT,nan
+Paddock Wood,PDW,nan
+Padgate,PDG,1.0
+Paignton,PGN,1.0
+Paisley Canal,PCN,1.0
+Paisley Gilmour Street,PYG,nan
+Paisley St James,PYJ,1.0
+Palmers Green,PAL,1.0
+Pangbourne,PAN,nan
+Pannal,PNL,0.0
+Pantyffynnon,PTF,nan
+Par,PAR,1.0
+Parbold,PBL,0.0
+Park Street,PKT,nan
+Parkstone (Dorset),PKS,nan
+Parson Street,PSN,1.0
+Partick,PTK,nan
+Parton,PRN,1.0
+Patchway,PWY,1.0
+Patricroft,PAT,1.0
+Patterton,PTT,1.0
+Peartree,PEA,1.0
+Peckham Rye,PMR,nan
+Pegswood,PEG,1.0
+Pemberton,PEM,1.0
+Pembrey & Burry Port,PBY,1.0
+Pembroke,PMB,nan
+Pembroke Dock,PMD,nan
+Penally,PNA,nan
+Penarth,PEN,nan
+Pencoed,PCD,1.0
+Pengam,PGM,nan
+Penge East,PNE,nan
+Penge West,PNW,nan
+Penhelig,PHG,1.0
+Penistone,PNS,1.0
+Penkridge,PKG,1.0
+Penmaenmawr,PMW,nan
+Penmere,PNM,nan
+Penrhiwceiber,PER,nan
+Penrhyndeudraeth,PRH,1.0
+Penrith (North Lakes),PNR,1.0
+Penryn (Cornwall),PYN,nan
+Pensarn (Gwynedd),PES,1.0
+Penshurst,PHR,nan
+Pentre-Bach,PTB,nan
+Pen-y-Bont,PNY,nan
+Penychain,PNC,1.0
+Penyffordd,PNF,nan
+Penzance,PNZ,1.0
+Perranwell,PRW,nan
+Perry Barr,PRY,1.0
+Pershore,PSH,nan
+Perth,PTH,nan
+Peterborough,PBO,0.0
+Petersfield,PTR,nan
+Petts Wood,PET,nan
+Pevensey & Westham,PEV,nan
+Pevensey Bay,PEB,nan
+Pewsey,PEW,1.0
+Pilning,PIL,nan
+Pinhoe,PIN,1.0
+Pitlochry,PIT,1.0
+Pitsea,PSE,nan
+Pleasington,PLS,0.0
+Plockton,PLK,nan
+Pluckley,PLC,nan
+Plumley,PLM,1.0
+Plumpton,PMP,nan
+Plumstead,PLU,nan
+Plymouth,PLY,0.0
+Pokesdown,POK,nan
+Polegate,PLG,nan
+Polesworth,PSW,1.0
+Pollokshaws East,PWE,nan
+Pollokshaws West,PWW,nan
+Pollokshields East,PLE,1.0
+Pollokshields West,PLW,nan
+Polmont,PMT,1.0
+Polsloe Bridge,POL,1.0
+Ponders End,PON,nan
+Pontarddulais,PTD,nan
+Pontefract Baghill,PFR,1.0
+Pontefract Monkhill,PFM,0.0
+Pontefract Tanshelf,POT,0.0
+Pontlottyn,PLT,nan
+Pontyclun,PYC,1.0
+Pont-y-Pant,PYP,nan
+Pontypool & New Inn,PPL,1.0
+Pontypridd,PPD,nan
+Poole,POO,nan
+Poppleton,POP,0.0
+Port Glasgow,PTG,nan
+Port Sunlight,PSL,1.0
+Port Talbot Parkway,PTA,1.0
+Portchester,PTC,nan
+Porth,POR,nan
+Porthmadog,PTM,1.0
+Portlethen,PLN,nan
+Portslade,PLD,nan
+Portsmouth & Southsea,PMS,nan
+Portsmouth Arms,PMA,1.0
+Portsmouth Harbour,PMH,nan
+Possilpark & Parkhouse,PPK,nan
+Potters Bar,PBR,1.0
+Poulton-le-Fylde,PFY,0.0
+Poynton,PYT,1.0
+Prees,PRS,nan
+Prescot,PSC,1.0
+Prestatyn,PRT,1.0
+Prestbury,PRB,1.0
+Preston (Lancs),PRE,0.0
+Preston Park,PRP,nan
+Prestonpans,PST,1.0
+Prestwick International Airport,PRA,1.0
+Prestwick Town,PTW,1.0
+Priesthill & Darnley,PTL,nan
+Princes Risborough,PRR,nan
+Prittlewell,PRL,nan
+Prudhoe,PRU,1.0
+Pulborough,PUL,nan
+Purfleet,PFL,nan
+Purley,PUR,nan
+Purley Oaks,PUO,nan
+Putney,PUT,nan
+Pwllheli,PWL,1.0
+Pye Corner,PYE,nan
+Pyle,PYL,1.0
+Quakers Yard,QYD,nan
+Queenborough,QBR,nan
+Queens Park (Glasgow),QPK,1.0
+Queens Park (London),QPW,nan
+Queens Road (Peckham),QRP,nan
+Queenstown Road (Battersea),QRB,nan
+Quintrell Downs,QUI,nan
+Radcliffe-on-Trent,RDF,1.0
+Radlett,RDT,nan
+Radley,RAD,1.0
+Radyr,RDR,nan
+Rainford,RNF,1.0
+Rainham (Essex),RNM,nan
+Rainham (Kent),RAI,nan
+Rainhill,RNH,1.0
+Ramsgate,RAM,nan
+Ramsgreave & Wilpshire,RGW,1.0
+Rannoch,RAN,nan
+Rauceby,RAU,1.0
+Ravenglass for Eskdale,RAV,1.0
+Ravensbourne,RVB,nan
+Ravensthorpe,RVN,0.0
+Rawcliffe,RWC,0.0
+Rayleigh,RLG,nan
+Raynes Park,RAY,nan
+Reading,RDG,0.0
+Reading West,RDW,nan
+Rectory Road,REC,nan
+Redbridge,RDB,nan
+Redcar British Steel,RBS,1.0
+Redcar Central,RCC,1.0
+Redcar East,RCE,1.0
+Reddish North,RDN,1.0
+Reddish South,RDS,nan
+Redditch,RDC,1.0
+Redhill,RDH,1.0
+Redland,RDA,1.0
+Redruth,RED,1.0
+Reedham (Norfolk),REE,nan
+Reedham (Surrey),RHM,nan
+Reigate,REI,nan
+Renton,RTN,nan
+Retford,RET,0.0
+Rhiwbina,RHI,nan
+Rhoose Cardiff International Airport,RIA,nan
+Rhosneigr,RHO,nan
+Rhyl,RHL,1.0
+Rhymney,RHY,nan
+Ribblehead,RHD,0.0
+Rice Lane,RIL,nan
+Richmond (London),RMD,nan
+Rickmansworth,RIC,nan
+Riddlesdown,RDD,nan
+Ridgmont,RID,nan
+Riding Mill,RDM,1.0
+Risca & Pontymister,RCA,nan
+Rishton,RIS,1.0
+Robertsbridge,RBR,nan
+Roby,ROB,1.0
+Rochdale,RCD,0.0
+Roche,ROC,nan
+Rochester,RTR,nan
+Rochford,RFD,nan
+Rock Ferry,RFY,1.0
+Rogart,ROG,nan
+Rogerstone,ROR,nan
+Rolleston,ROL,nan
+Roman Bridge,RMB,nan
+Romford,RMF,nan
+Romiley,RML,1.0
+Romsey,ROM,1.0
+Roose,ROO,1.0
+Rose Grove,RSG,1.0
+Rose Hill Marple,RSH,1.0
+Rosyth,ROS,1.0
+Rotherham Central,RMC,0.0
+Rotherhithe,ROE,nan
+Roughton Road,RNR,nan
+Rowlands Castle,RLN,nan
+Rowley Regis,ROW,nan
+Roy Bridge,RYB,nan
+Roydon,RYN,nan
+Royston,RYS,1.0
+Ruabon,RUA,nan
+Rufford,RUF,1.0
+Rugby,RUG,1.0
+Rugeley Town,RGT,1.0
+Rugeley Trent Valley,RGL,1.0
+Runcorn,RUN,1.0
+Runcorn East,RUE,1.0
+Ruskington,RKT,1.0
+Ruswarp,RUS,1.0
+Rutherglen,RUT,nan
+Ryde Esplanade,RYD,nan
+Ryde Pier Head,RYP,nan
+Ryde St Johns Road,RYR,nan
+Ryder Brow,RRB,1.0
+Rye (Sussex),RYE,nan
+Rye House,RYH,nan
+Salford Central,SFD,0.0
+Salford Crescent,SLD,0.0
+Salfords (Surrey),SAF,nan
+Salhouse,SAH,nan
+Salisbury,SAL,1.0
+Saltaire,SAE,0.0
+Saltash,STS,1.0
+Saltburn,SLB,1.0
+Saltcoats,SLT,nan
+Saltmarshe,SAM,1.0
+Salwick,SLW,1.0
+Sampford Courtenay,SMC,nan
+Sandal & Agbrigg,SNA,0.0
+Sandbach,SDB,1.0
+Sanderstead,SNR,nan
+Sandhills,SDL,nan
+Sandhurst (Berks),SND,nan
+Sandling,SDG,nan
+Sandown,SAN,nan
+Sandplace,SDP,nan
+Sandwell & Dudley,SAD,1.0
+Sandwich,SDW,nan
+Sandy,SDY,1.0
+Sankey for Penketh,SNK,1.0
+Sanquhar,SQH,1.0
+Sarn,SRR,1.0
+Saundersfoot,SDF,nan
+Saunderton,SDR,1.0
+Sawbridgeworth,SAW,nan
+Saxilby,SXY,0.0
+Saxmundham,SAX,nan
+Scarborough,SCA,0.0
+Scotscalder,SCT,nan
+Scotstounhill,SCH,nan
+Scunthorpe,SCU,1.0
+Sea Mills,SML,1.0
+Seaford (Sussex),SEF,nan
+Seaforth & Litherland,SFL,nan
+Seaham,SEA,1.0
+Seamer,SEM,0.0
+Seascale,SSC,1.0
+Seaton Carew,SEC,1.0
+Seer Green & Jordans,SRG,nan
+Selby,SBY,0.0
+Selhurst,SRS,nan
+Sellafield,SEL,1.0
+Selling,SEG,nan
+Selly Oak,SLY,1.0
+Settle,SET,0.0
+Seven Kings,SVK,nan
+Seven Sisters,SVS,1.0
+Sevenoaks,SEV,nan
+Severn Beach,SVB,1.0
+Severn Tunnel Junction,STJ,1.0
+Shadwell,SDE,nan
+Shalford (Surrey),SFR,nan
+Shanklin,SHN,nan
+Shawfair,SFI,1.0
+Shawford,SHW,1.0
+Shawlands,SHL,nan
+Sheerness-on-Sea,SSS,nan
+Sheffield,SHF,0.0
+Shelford (Cambs),SED,nan
+Shenfield,SNF,nan
+Shenstone,SEN,1.0
+Shepherd's Bush,SPB,nan
+Shepherds Well,SPH,nan
+Shepley,SPY,1.0
+Shepperton,SHP,nan
+Shepreth,STH,1.0
+Sherborne,SHE,1.0
+Sherburn-in-Elmet,SIE,1.0
+Sheringham,SHM,nan
+Shettleston,SLS,nan
+Shieldmuir,SDM,1.0
+Shifnal,SFN,1.0
+Shildon,SHD,1.0
+Shiplake,SHI,nan
+Shipley (Yorks),SHY,0.0
+Shippea Hill,SPP,nan
+Shipton,SIP,1.0
+Shirebrook,SHB,1.0
+Shirehampton,SHH,1.0
+Shireoaks,SRO,0.0
+Shirley,SRL,nan
+Shoeburyness,SRY,nan
+Sholing,SHO,nan
+Shoreditch High Street,SDC,nan
+Shoreham (Kent),SEH,nan
+Shoreham-by-Sea,SSE,nan
+Shortlands,SRT,nan
+Shotton,SHT,1.0
+Shotts,SHS,1.0
+Shrewsbury,SHR,1.0
+Sidcup,SID,nan
+Sileby,SIL,1.0
+Silecroft,SIC,1.0
+Silkstone Common,SLK,1.0
+Silver Street,SLV,nan
+Silverdale,SVR,1.0
+Singer,SIN,nan
+Sittingbourne,SIT,nan
+Skegness,SKG,1.0
+Skewen,SKE,1.0
+Skipton,SKI,0.0
+Slade Green,SGR,nan
+Slaithwaite,SWT,0.0
+Slateford,SLA,1.0
+Sleaford,SLR,1.0
+Sleights,SLH,1.0
+Slough,SLO,nan
+Small Heath,SMA,nan
+Smallbrook Junction,SAB,nan
+Smethwick Galton Bridge,SGB,1.0
+Smethwick Rolfe Street,SMR,1.0
+Smithy Bridge,SMB,0.0
+Snaith,SNI,0.0
+Snodland,SDA,nan
+Snowdown,SWO,nan
+Sole Street,SOR,nan
+Solihull,SOL,nan
+Somerleyton,SYT,nan
+South Acton,SAT,nan
+South Bank,SBK,1.0
+South Bermondsey,SBM,nan
+South Croydon,SCY,nan
+South Elmsall,SES,0.0
+South Greenford,SGN,nan
+South Gyle,SGL,1.0
+South Hampstead,SOH,nan
+South Kenton,SOK,nan
+South Merton,SMO,nan
+South Milford,SOM,0.0
+South Ruislip,SRU,nan
+South Tottenham,STO,nan
+South Wigston,SWS,1.0
+South Woodham Ferrers,SOF,nan
+Southall,STL,nan
+Southampton Airport Parkway,SOA,0.0
+Southampton Central,SOU,0.0
+Southbourne,SOB,nan
+Southbury,SBU,nan
+Southease,SEE,nan
+Southend Airport,SIA,nan
+Southend Central,SOC,nan
+Southend East,SOE,nan
+Southend Victoria,SOV,nan
+Southminster,SMN,nan
+Southport,SOP,0.0
+Southwick,SWK,nan
+Sowerby Bridge,SOW,0.0
+Spalding,SPA,1.0
+Spean Bridge,SBR,nan
+Spital,SPI,1.0
+Spondon,SPO,1.0
+Spooner Row,SPN,nan
+Spring Road,SRI,nan
+Springburn,SPR,nan
+Springfield,SPF,1.0
+Squires Gate,SQU,1.0
+St Albans Abbey,SAA,nan
+St Albans City,SAC,nan
+St Andrews Road,SAR,1.0
+St Annes-on-Sea,SAS,1.0
+St Austell,SAU,1.0
+St Bees,SBS,1.0
+St Budeaux Ferry Road,SBF,1.0
+St Budeaux Victoria Road,SBV,1.0
+St Columb Road,SCR,nan
+St Denys,SDN,nan
+St Erth,SER,1.0
+St Germans,SGM,1.0
+St Helens Central,SNH,1.0
+St Helens Junction,SHJ,1.0
+St Helier (Surrey),SIH,nan
+St Ives (Cornwall),SIV,nan
+St James Park (Exeter),SJP,1.0
+St James Street (Walthamstow),SJS,nan
+St Johns (London),SAJ,nan
+St Keyne Wishing Well Halt,SKN,nan
+St Leonards Warrior Square,SLQ,nan
+St Margarets (Herts),SMT,nan
+St Margarets (London),SMG,nan
+St Mary Cray,SMY,nan
+St Michaels,STM,nan
+St Neots,SNO,1.0
+Stafford,STA,1.0
+Staines,SNS,nan
+Stallingborough,SLL,nan
+Stalybridge,SYB,0.0
+Stamford (Lincs),SMD,1.0
+Stamford Hill,SMH,nan
+Stanford-le-Hope,SFO,nan
+Stanlow & Thornton,SNT,1.0
+Stansted Airport,SSD,1.0
+Stansted Mountfitchet,SST,nan
+Staplehurst,SPU,nan
+Stapleton Road,SRD,1.0
+Starbeck,SBE,0.0
+Starcross,SCS,1.0
+Staveley (Cumbria),SVL,nan
+Stechford,SCF,1.0
+Steeton & Silsden,SON,0.0
+Stepps,SPS,1.0
+Stevenage,SVG,0.0
+Stevenston,STV,nan
+Stewartby,SWR,1.0
+Stewarton,STT,1.0
+Stirling,STG,1.0
+Stockport,SPT,1.0
+Stocksfield,SKS,1.0
+Stocksmoor,SSM,1.0
+Stockton,STK,1.0
+Stoke Mandeville,SKM,nan
+Stoke Newington,SKW,nan
+Stoke-on-Trent,SOT,1.0
+Stone (Staffs),SNE,nan
+Stone Crossing,SCG,nan
+Stonebridge Park,SBP,nan
+Stonegate,SOG,nan
+Stonehaven,STN,0.0
+Stonehouse,SHU,1.0
+Stoneleigh,SNL,nan
+Stourbridge Junction,SBJ,nan
+Stourbridge Town,SBT,nan
+Stow,SOI,1.0
+Stowmarket,SMK,1.0
+Stranraer,STR,nan
+Stratford (London),SRA,1.0
+Stratford International,SFA,nan
+Stratford-upon-Avon,SAV,nan
+Stratford-upon-Avon Parkway,STY,nan
+Strathcarron,STC,nan
+Strawberry Hill,STW,nan
+Streatham (Greater London),STE,nan
+Streatham Common,SRC,nan
+Streatham Hill,SRH,nan
+Streethouse,SHC,0.0
+Strines,SRN,1.0
+Stromeferry,STF,nan
+Strood (Kent),SOO,nan
+Stroud (Gloucs),STD,1.0
+Sturry,STU,nan
+Styal,SYA,1.0
+Sudbury & Harrow Road,SUD,nan
+Sudbury (Suffolk),SUY,nan
+Sudbury Hill Harrow,SDH,nan
+Sugar Loaf,SUG,nan
+Summerston,SUM,nan
+Sunbury,SUU,nan
+Sunderland,SUN,1.0
+Sundridge Park,SUP,nan
+Sunningdale,SNG,nan
+Sunnymeads,SNY,nan
+Surbiton,SUR,nan
+Surrey Quays,SQE,nan
+Sutton (Surrey),SUO,nan
+Sutton Coldfield,SUT,1.0
+Sutton Common,SUC,nan
+Sutton Parkway,SPK,1.0
+Swale,SWL,nan
+Swanley,SAY,nan
+Swanscombe,SWM,nan
+Swansea,SWA,1.0
+Swanwick,SNW,nan
+Sway,SWY,1.0
+Swaythling,SWG,nan
+Swinderby,SWD,1.0
+Swindon (Wilts),SWI,1.0
+Swineshead,SWE,1.0
+Swinton (Manchester),SNN,1.0
+Swinton (South Yorks),SWN,0.0
+Sydenham (London),SYD,nan
+Sydenham Hill,SYH,nan
+Syon Lane,SYL,nan
+Syston,SYS,1.0
+Tackley,TAC,1.0
+Tadworth,TAD,nan
+Taffs Well,TAF,nan
+Tain,TAI,nan
+Talsarnau,TAL,1.0
+Talybont,TLB,1.0
+Tal-y-Cafn,TLC,nan
+Tame Bridge Parkway,TAB,1.0
+Tamworth,TAM,0.0
+Taplow,TAP,1.0
+Tattenham Corner,TAT,nan
+Taunton,TAU,0.0
+Taynuilt,TAY,nan
+Teddington,TED,nan
+Tees-side Airport,TEA,nan
+Teignmouth,TGM,1.0
+Telford Central,TFC,1.0
+Templecombe,TMC,nan
+Tenby,TEN,nan
+Teynham,TEY,nan
+Thames Ditton,THD,nan
+Thatcham,THA,nan
+Thatto Heath,THH,1.0
+The Hawthorns,THW,nan
+The Lakes (Warks),TLK,nan
+Theale,THE,nan
+Theobalds Grove,TEO,nan
+Thetford,TTF,1.0
+Thirsk,THI,0.0
+Thornaby,TBY,0.0
+Thorne North,TNN,1.0
+Thorne South,TNS,1.0
+Thornford,THO,1.0
+Thornliebank,THB,1.0
+Thornton Abbey,TNA,nan
+Thornton Heath,TTH,nan
+Thorntonhall,THT,1.0
+Thorpe Bay,TPB,nan
+Thorpe Culvert,TPC,1.0
+Thorpe-le-Soken,TLS,nan
+Three Bridges,TBD,1.0
+Three Oaks,TOK,nan
+Thurgarton,THU,1.0
+Thurnscoe,THC,0.0
+Thurso,THS,nan
+Thurston,TRS,1.0
+Tilbury Town,TIL,nan
+Tile Hill,THL,1.0
+Tilehurst,TLH,nan
+Tipton,TIP,1.0
+Tir-Phil,TIR,nan
+Tisbury,TIS,nan
+Tiverton Parkway,TVP,0.0
+Todmorden,TOD,0.0
+Tolworth,TOL,nan
+Ton Pentre,TPN,nan
+Tonbridge,TON,nan
+Tondu,TDU,1.0
+Tonfanau,TNF,1.0
+Tonypandy,TNP,nan
+Tooting,TOO,nan
+Topsham,TOP,1.0
+Torquay,TQY,1.0
+Torre,TRR,1.0
+Totnes,TOT,0.0
+Tottenham Hale,TOM,1.0
+Totton,TTN,1.0
+Town Green,TWN,nan
+Trafford Park,TRA,1.0
+Trefforest,TRF,nan
+Trefforest Estate,TRE,nan
+Trehafod,TRH,nan
+Treherbert,TRB,nan
+Treorchy,TRY,nan
+Trimley,TRM,nan
+Tring,TRI,nan
+Troed-y-rhiw,TRD,nan
+Troon,TRN,1.0
+Trowbridge,TRO,1.0
+Truro,TRU,1.0
+Tulloch,TUL,nan
+Tulse Hill,TUH,nan
+Tunbridge Wells,TBW,nan
+Turkey Street,TUR,nan
+Tutbury & Hatton,TUT,1.0
+Tweedbank,TWB,1.0
+Twickenham,TWI,nan
+Twyford,TWY,nan
+Ty Croes,TYC,nan
+Ty Glas,TGS,nan
+Tygwyn,TYG,1.0
+Tyndrum Lower,TYL,nan
+Tyseley,TYS,nan
+Tywyn,TYW,1.0
+Uckfield,UCK,nan
+Uddingston,UDD,1.0
+Ulceby,ULC,nan
+Ulleskelf,ULL,0.0
+Ulverston,ULV,1.0
+Umberleigh,UMB,1.0
+University (Birmingham),UNI,1.0
+Uphall,UHA,1.0
+Upholland,UPL,1.0
+Upminster,UPM,nan
+Upper Halliford,UPH,nan
+Upper Holloway,UHL,nan
+Upper Tyndrum,UTY,nan
+Upper Warlingham,UWL,nan
+Upton (Merseyside),UPT,nan
+Upwey,UPW,1.0
+Urmston,URM,1.0
+Uttoxeter,UTT,1.0
+Valley,VAL,nan
+Vauxhall,VXH,1.0
+Virginia Water,VIR,nan
+Waddon,WDO,nan
+Wadhurst,WAD,nan
+Wainfleet,WFL,1.0
+Wakefield Kirkgate,WKK,0.0
+Wakefield Westgate,WKF,0.0
+Walkden,WKD,0.0
+Wallasey Grove Road,WLG,1.0
+Wallasey Village,WLV,1.0
+Wallington,WLT,nan
+Wallyford,WAF,1.0
+Walmer,WAM,nan
+Walsall,WSL,1.0
+Walsden,WDN,0.0
+Waltham Cross,WLC,nan
+Walthamstow Central,WHC,1.0
+Walthamstow Queen's Road,WMW,nan
+Walton (Merseyside),WAO,nan
+Walton-on-Thames,WAL,nan
+Walton-on-the-Naze,WON,nan
+Wanborough,WAN,nan
+Wandsworth Common,WSW,nan
+Wandsworth Road,WWR,nan
+Wandsworth Town,WNT,nan
+Wanstead Park,WNP,nan
+Wapping,WPE,nan
+Warblington,WBL,nan
+Ware (Herts),WAR,nan
+Wareham (Dorset),WRM,nan
+Wargrave,WGV,nan
+Warminster,WMN,1.0
+Warnham,WNH,nan
+Warrington Bank Quay,WBQ,1.0
+Warrington Central,WAC,1.0
+Warwick,WRW,nan
+Warwick Parkway,WRP,nan
+Water Orton,WTO,1.0
+Waterbeach,WBC,nan
+Wateringbury,WTR,nan
+Waterloo (Merseyside),WLO,nan
+Watford High Street,WFH,nan
+Watford Junction,WFJ,1.0
+Watford North,WFN,nan
+Watlington,WTG,nan
+Watton-at-Stone,WAS,1.0
+Waun-Gron Park,WNG,nan
+Wavertree Technology Park,WAV,1.0
+Wedgwood,WED,nan
+Weeley,WEE,nan
+Weeton,WET,0.0
+Welham Green,WMG,nan
+Welling,WLI,nan
+Wellingborough,WEL,0.0
+Wellington (Shropshire),WLN,nan
+Welshpool,WLP,1.0
+Welwyn Garden City,WGC,1.0
+Welwyn North,WLW,1.0
+Wem,WEM,1.0
+Wembley Central,WMB,nan
+Wembley Stadium,WCX,nan
+Wemyss Bay,WMS,1.0
+Wendover,WND,nan
+Wennington,WNN,0.0
+West Allerton,WSA,1.0
+West Brompton,WBP,nan
+West Byfleet,WBY,nan
+West Calder,WCL,1.0
+West Croydon,WCY,nan
+West Drayton,WDT,nan
+West Dulwich,WDU,nan
+West Ealing,WEA,nan
+West Ham,WEH,nan
+West Hampstead,WHD,nan
+West Hampstead Thameslink,WHP,nan
+West Horndon,WHR,nan
+West Kilbride,WKB,1.0
+West Kirby,WKI,1.0
+West Malling,WMA,nan
+West Norwood,WNW,nan
+West Ruislip,WRU,nan
+West Runton,WRN,nan
+West St Leonards,WLD,nan
+West Sutton,WSU,nan
+West Wickham,WWI,nan
+West Worthing,WWO,nan
+Westbury (Wilts),WSB,1.0
+Westcliff,WCF,nan
+Westcombe Park,WCB,nan
+Westenhanger,WHA,nan
+Wester Hailes,WTA,1.0
+Westerfield,WFI,nan
+Westerton,WES,nan
+Westgate-on-Sea,WGA,nan
+Westhoughton,WHG,0.0
+Weston Milton,WNM,1.0
+Weston-super-Mare,WSM,1.0
+Wetheral,WRL,1.0
+Weybridge,WYB,nan
+Weymouth,WEY,1.0
+Whaley Bridge,WBR,1.0
+Whalley (Lancs),WHE,1.0
+Whatstandwell,WTS,1.0
+Whifflet,WFF,nan
+Whimple,WHM,1.0
+Whinhill,WNL,1.0
+Whiston,WHN,1.0
+Whitby,WTB,1.0
+Whitchurch (Cardiff),WHT,nan
+Whitchurch (Hants),WCH,1.0
+Whitchurch (Shropshire),WTC,1.0
+White Hart Lane,WHL,nan
+White Notley,WNY,nan
+Whitechapel,ZLW,nan
+Whitecraigs,WCR,1.0
+Whitehaven,WTH,1.0
+Whitland,WTL,1.0
+Whitley Bridge,WBD,0.0
+Whitlocks End,WTE,nan
+Whitstable,WHI,nan
+Whittlesea,WLE,1.0
+Whittlesford Parkway,WLF,nan
+Whitton (London),WTN,nan
+Whitwell (Derbyshire),WWL,1.0
+Whyteleafe,WHY,nan
+Whyteleafe South,WHS,nan
+Wick,WCK,nan
+Wickford,WIC,nan
+Wickham Market,WCM,nan
+Widdrington,WDD,1.0
+Widnes,WID,1.0
+Widney Manor,WMR,nan
+Wigan North Western,WGN,1.0
+Wigan Wallgate,WGW,0.0
+Wigton,WGT,1.0
+Wildmill,WMI,1.0
+Willesden Junction,WIJ,nan
+Williamwood,WLM,1.0
+Willington,WIL,1.0
+Wilmcote,WMC,nan
+Wilmslow,WML,1.0
+Wilnecote (Staffs),WNE,1.0
+Wimbledon,WIM,nan
+Wimbledon Chase,WBO,nan
+Winchelsea,WSE,nan
+Winchester,WIN,0.0
+Winchfield,WNF,nan
+Winchmore Hill,WIH,1.0
+Windermere,WDM,1.0
+Windsor & Eton Central,WNC,nan
+Windsor & Eton Riverside,WNR,nan
+Winnersh,WNS,nan
+Winnersh Triangle,WTI,nan
+Winsford,WSF,1.0
+Wishaw,WSH,1.0
+Witham,WTM,nan
+Witley,WTY,nan
+Witton (West Midlands),WTT,1.0
+Wivelsfield,WVF,nan
+Wivenhoe,WIV,nan
+Woburn Sands,WOB,nan
+Woking,WOK,nan
+Wokingham,WKM,nan
+Woldingham,WOH,nan
+Wolverhampton,WVH,1.0
+Wolverton,WOL,1.0
+Wombwell,WOM,0.0
+Wood End,WDE,nan
+Wood Street,WST,nan
+Woodbridge,WDB,nan
+Woodgrange Park,WGR,nan
+Woodhall,WDL,nan
+Woodhouse,WDH,0.0
+Woodlesford,WDS,0.0
+Woodley,WLY,1.0
+Woodmansterne,WME,nan
+Woodsmoor,WSR,1.0
+Wool,WOO,1.0
+Woolston,WLS,nan
+Woolwich Arsenal,WWA,nan
+Woolwich Dockyard,WWD,nan
+Wootton Wawen,WWW,nan
+Worcester Foregate Street,WOF,1.0
+Worcester Park,WCP,nan
+Worcester Shrub Hill,WOS,nan
+Workington,WKG,1.0
+Worksop,WRK,0.0
+Worle,WOR,1.0
+Worplesdon,WPL,nan
+Worstead,WRT,nan
+Worthing,WRH,nan
+Wrabness,WRB,nan
+Wraysbury,WRY,nan
+Wrenbury,WRE,nan
+Wressle,WRS,1.0
+Wrexham Central,WXC,nan
+Wrexham General,WRX,nan
+Wye,WYE,nan
+Wylam,WYM,1.0
+Wylde Green,WYL,1.0
+Wymondham,WMD,1.0
+Wythall,WYT,nan
+Yalding,YAL,nan
+Yardley Wood,YRD,nan
+Yarm,YRM,0.0
+Yate,YAE,1.0
+Yatton,YAT,1.0
+Yeoford,YEO,1.0
+Yeovil Junction,YVJ,1.0
+Yeovil Pen Mill,YVP,1.0
+Yetminster,YET,1.0
+Ynyswen,YNW,nan
+Yoker,YOK,nan
+York,YRK,0.0
+Yorton,YRT,nan
+Ystrad Mynach,YSM,nan
+Ystrad Rhondda,YSR,nan
