@@ -6,7 +6,7 @@ from itertools import compress
 from os import path
 
 
-def send_query(query_url, driver):
+def send_query(query_url, driver, debug=False):
     driver.get(query_url)
     source = driver.page_source
     # the format of this webpage is fairly fixed, so we can just search for the 'direct;' string
@@ -22,6 +22,10 @@ def send_query(query_url, driver):
     else:
         nchange = np.NaN
 
+
+    if debug:
+        print(query_url)
+        print('nchange={0}'.format(nchange))
     return nchange
 
 
@@ -38,9 +42,10 @@ def count(destination='london',
           arrdep='a',
           inputpath='/home/kinew/stations/',
           outputpath='/home/kinew/stations/results/',
-          repeat_on_error=None):
+          repeat_on_error=None,
+          debug=False):
 
-    date = '{0}-{1}-{2}'.format(year, month, day),
+    date = '{0}-{1}-{2}'.format(year, month, day)
     time = '{0}'.format(hhmm) + arrdep
     # we need station codes to pass to the URL
     with open(path.join(inputpath, 'station_codes.csv')) as f:
@@ -69,7 +74,7 @@ def count(destination='london',
             changes[count] = -1
         else:
             query_url = baseurl.format(code, destination, time, date)
-            changes[count] = send_query(query_url, driver)
+            changes[count] = send_query(query_url, driver, debug=debug)
             if changes[count] > 1:
                 nca = changes[count]
                 query_url_dep = baseurl.format(code, destination, '0000d',
@@ -79,18 +84,20 @@ def count(destination='london',
         if np.isnan(changes[count]):
             if repeat_on_error is not None:
                 ind = 0
-                datequery = '{0}-{1}-{2}'.format(year, month, day),
+                datequery = '{0}-{1}-{2}'.format(year, month, day)
                 while np.isnan(changes[count]) and ind < repeat_on_error:
                     query_url_arr = baseurl.format(code, destination, time,
                                                    datequery)
-                    nca = send_query(query_url_arr, driver)
+                    nca = send_query(query_url_arr, driver, debug=debug)
                     query_url_dep = baseurl.format(code, destination, '0000d',
                                                    datequery)
-                    ncd = send_query(query_url_dep, driver)
+                    ncd = send_query(query_url_dep, driver, debug=debug)
                     changes[count] = np.nanmin([nca, ncd])
                     ind += 1
-                    datequery = '{0}-{1}-{2}'.format(year, month, day + ind),
-
+                    datequery = '{0}-{1}-{2}'.format(year, month, day + ind)
+                    print(
+                        'repeating {1} for the {0} time.'.format(ind, code),
+                        end='\r')
             logfile.write(
                 'No connection or Error parsing for Station code {0}, {1}\n'.
                 format(codes[count], names[count]))
