@@ -172,3 +172,4 @@
 
   phantomjs://platform/console++.js:263 in error
 [INFO  - 2019-01-09T22:21:32.274Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T22:26:32.277Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

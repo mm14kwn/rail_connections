@@ -73,10 +73,10 @@ def grcsv(destination='london',
                     pdict['lon'], dist):
 
                 station_writer.writerow(
-                    [name, code, change, lat, lon, mtlat, mtlon])
+                    [name, code, change, lat, lon, mtlat, mtlon, d])
 
         else:
-            for name, code, change, lat, lon, d in zip(
+            for name, code, change, lat, lon in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
                     pdict['lon']):
 
