@@ -7,7 +7,8 @@ import os
 def grcsv(destination='london',
           destpath='/home/kinew/stations/results/',
           llpath='/home/kinew/stations/station_latlon.csv',
-          outfile='/home/kinew/stations/results/london_geo.csv'):
+          outfile='/home/kinew/stations/results/london_geo.csv',
+          nanvalue=None):
     # load in connection data
     with open(
             os.path.join(destpath,
@@ -44,11 +45,15 @@ def grcsv(destination='london',
             pdict['lat'].append(np.NaN)
             pdict['lon'].append(np.NaN)
 
+    ch = pdict['changes']
+    if nanvalue is not None:    
+        ch[np.isnan(ch)]=nanvalue
+
     with open(outfile, 'w', newline='') as f:
         station_writer = csv.writer(f, delimiter=',')
         station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon'])
         for name, code, change, lat, lon in zip(pdict['names'], pdict['codes'],
-                                                pdict['changes'], pdict['lat'],
+                                                ch, pdict['lat'],
                                                 pdict['lon']):
             station_writer.writerow([name, code, change, lat, lon])
     print('ALL DONE :)')
