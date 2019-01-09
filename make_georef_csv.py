@@ -8,7 +8,8 @@ def grcsv(destination='london',
           destpath='/home/kinew/stations/results/',
           llpath='/home/kinew/stations/station_latlon.csv',
           outfile='/home/kinew/stations/results/london_geo.csv',
-          nanvalue=None):
+          nanvalue=None,
+          terminal_llcol=False):
     # load in connection data
     with open(
             os.path.join(destpath,
@@ -38,14 +39,21 @@ def grcsv(destination='london',
     pdict['lon'] = []
     for code in pdict['codes']:
         if code in stllcodes:
-            pdict['lat'].append(stlat[stllcodes.index(code)])
-            pdict['lon'].append(stlon[stllcodes.index(code)])
+            pdict['lat'].append(float(stlat[stllcodes.index(code)]))
+            pdict['lon'].append(float(stlon[stllcodes.index(code)]))
         else:
             print('station {0} not in llfile'.format(code))
             pdict['lat'].append(np.NaN)
             pdict['lon'].append(np.NaN)
-
+    
     ch = pdict['changes']
+    if terminal_llcol:
+        conlat = np.array(pdict['lat'])
+        termlat = conlat[ch<0]
+        conlon = np.array(pdict['lon'])
+        termlon = conlon[ch<0]
+        mtlat = np.nanmean(termlat)
+        mtlon = np.nanmean(termlon)
     if nanvalue is not None:    
         ch[np.isnan(ch)]=nanvalue
 
@@ -54,6 +62,11 @@ def grcsv(destination='london',
         station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon'])
         for name, code, change, lat, lon in zip(pdict['names'], pdict['codes'],
                                                 ch, pdict['lat'],
-                                                pdict['lon']):
-            station_writer.writerow([name, code, change, lat, lon])
+                                                            pdict['lon']):
+            if terminal_llcol:
+                station_writer.writerow([name, code, change, lat, lon, mtlat, mtlon])
+
+            else:
+                station_writer.writerow([name, code, change, lat, lon])
+            
     print('ALL DONE :)')
