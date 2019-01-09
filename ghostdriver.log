@@ -1,5 +1,695 @@
-[INFO  - 2019-01-09T14:24:13.355Z] GhostDriver - Main - running on port 60647
-[INFO  - 2019-01-09T14:24:14.285Z] Session [3d5e0d70-141a-11e9-a9e9-978c24583349] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2019-01-09T14:24:14.285Z] Session [3d5e0d70-141a-11e9-a9e9-978c24583349] - page.customHeaders:  - {}
-[INFO  - 2019-01-09T14:24:14.286Z] Session [3d5e0d70-141a-11e9-a9e9-978c24583349] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2019-01-09T14:24:14.286Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3d5e0d70-141a-11e9-a9e9-978c24583349
+[INFO  - 2019-01-09T18:22:31.885Z] GhostDriver - Main - running on port 54965
+[INFO  - 2019-01-09T18:22:32.809Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Unknown; Linux x86_64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-01-09T18:22:32.809Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.customHeaders:  - {}
+[INFO  - 2019-01-09T18:22:32.809Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-01-09T18:22:32.809Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 87f3d240-143b-11e9-b3cc-4f46f4fdcdd6
+[ERROR - 2019-01-09T18:26:20.032Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:20.033Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:20.992Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:20.992Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:21.985Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:21.985Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:23.054Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:23.054Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:23.971Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:23.971Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:24.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:24.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:26.376Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:26.376Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:27.029Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:27.029Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:27.965Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:27.965Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:28.966Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:28.966Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:29.965Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:29.965Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:30.969Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:30.969Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:31.991Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:31.994Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:33.051Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:33.051Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:33.956Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:33.956Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:34.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:34.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:35.953Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:35.953Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:36.960Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:36.960Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:37.949Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:37.949Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:38.978Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:38.979Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:39.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:26:39.939Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-01-09T18:27:31.885Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T18:32:31.886Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T18:37:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T18:42:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T18:47:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T18:52:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-01-09T18:53:21.421Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:21.421Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:22.424Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:22.424Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:23.441Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:23.441Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:24.431Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:24.431Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:25.416Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:25.416Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:26.469Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:26.469Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:27.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:27.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:28.421Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:28.421Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:29.405Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:29.405Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:30.415Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:30.415Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:31.411Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:31.412Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:32.422Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:32.422Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:33.414Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:33.414Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:34.442Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:34.442Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:35.441Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:35.441Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:36.432Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:36.432Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:37.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:37.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:38.437Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:38.437Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:39.455Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:39.455Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:40.423Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:40.423Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:41.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T18:53:41.426Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-01-09T18:57:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:02:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-01-09T19:05:57.063Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:05:57.063Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:05:58.114Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:05:58.114Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:05:59.139Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:05:59.139Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:00.083Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:00.084Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:01.045Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:01.046Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:02.079Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:02.080Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:03.096Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:03.096Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:04.157Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:04.157Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:05.038Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:05.038Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:06.263Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:06.263Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:07.126Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:07.126Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:08.039Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:08.039Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:08.996Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:08.996Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:10.011Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:10.012Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:11.028Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:11.028Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:12.009Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:12.009Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:12.982Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:12.982Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:13.993Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:13.993Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:15.002Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:15.002Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:16.006Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:16.007Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:16.991Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:06:16.991Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-01-09T19:07:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:12:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:17:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-01-09T19:20:02.051Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:02.051Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:02.816Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:02.816Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:04.010Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:04.010Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:04.945Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:04.946Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:05.687Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:05.687Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:06.818Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:06.818Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:07.665Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:07.666Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:08.711Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:08.711Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:09.622Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:09.622Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:10.558Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:10.558Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:11.660Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:11.661Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:12.646Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:12.646Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:13.575Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:13.575Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:14.552Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:14.553Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:15.856Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:15.856Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:16.552Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:16.552Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:17.603Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:17.603Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:18.587Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:18.587Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:19.552Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:19.552Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:20.575Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:20.575Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:21.556Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - msg: TypeError: null is not an object (evaluating '$.id("about-toggle").addEventListener')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-09T19:20:21.556Z] Session [87f3d240-143b-11e9-b3cc-4f46f4fdcdd6] - page.onError - stack:
+  (anonymous function) (https://traintimes.org.uk/js/front.min.js?1543914724:2)
+  c (https://traintimes.org.uk/js/core.min.js?1543914723:4)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-01-09T19:22:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:27:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:32:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:37:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:42:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:47:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-01-09T19:52:31.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

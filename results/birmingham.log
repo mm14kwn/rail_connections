@@ -18,7 +18,7 @@ More than 1 change for Station code ACL, Acle
 0.0 changes for Station code ACG, Acocks Green
 0.0 changes for Station code ACB, Acton Bridge (Cheshire)
 More than 1 change for Station code ACC, Acton Central
-More than 1 change for Station code AML, Acton Main Line
+1.0 changes for Station code AML, Acton Main Line
 0.0 changes for Station code ADD, Adderley Park
 1.0 changes for Station code ADW, Addiewell
 More than 1 change for Station code ASN, Addlestone
@@ -42,7 +42,7 @@ More than 1 change for Station code AXP, Alexandra Parade
 More than 1 change for Station code ALX, Alexandria
 1.0 changes for Station code ALF, Alfreton
 1.0 changes for Station code ALW, Allens West
-More than 1 change for Station code ALO, Alloa
+1.0 changes for Station code ALO, Alloa
 More than 1 change for Station code ASS, Alness
 0.0 changes for Station code ALM, Alnmouth
 More than 1 change for Station code ALR, Alresford (Essex)
@@ -62,7 +62,7 @@ More than 1 change for Station code AMY, Amberley
 1.0 changes for Station code ADV, Andover
 More than 1 change for Station code ANZ, Anerley
 More than 1 change for Station code AGR, Angel Road
-More than 1 change for Station code ANG, Angmering
+1.0 changes for Station code ANG, Angmering
 1.0 changes for Station code ANN, Annan
 1.0 changes for Station code ANL, Anniesland
 1.0 changes for Station code AFV, Ansdell & Fairhaven
@@ -97,9 +97,9 @@ More than 1 change for Station code AHV, Ash Vale
 More than 1 change for Station code ASF, Ashfield
 1.0 changes for Station code AFS, Ashford (Surrey)
 More than 1 change for Station code AFK, Ashford International
-More than 1 change for Station code ASI, Ashford International (Eurostar)
+No connection or Error parsing for Station code ASI, Ashford International (Eurostar)
 1.0 changes for Station code ASY, Ashley
-More than 1 change for Station code AHD, Ashtead
+1.0 changes for Station code AHD, Ashtead
 More than 1 change for Station code AHN, Ashton-under-Lyne
 More than 1 change for Station code AHS, Ashurst (Kent)
 1.0 changes for Station code ANF, Ashurst New Forest
@@ -163,7 +163,7 @@ More than 1 change for Station code BNL, Barnhill
 1.0 changes for Station code BNP, Barnstaple
 0.0 changes for Station code BTG, Barnt Green
 1.0 changes for Station code BRR, Barrhead
-More than 1 change for Station code BRL, Barrhill
+1.0 changes for Station code BRL, Barrhill
 More than 1 change for Station code BAV, Barrow Haven
 1.0 changes for Station code BIF, Barrow-in-Furness
 1.0 changes for Station code BWS, Barrow-Upon-Soar
@@ -196,7 +196,7 @@ More than 1 change for Station code BEC, Beckenham Hill
 More than 1 change for Station code BKJ, Beckenham Junction
 1.0 changes for Station code BDM, Bedford
 1.0 changes for Station code BSJ, Bedford St Johns
-More than 1 change for Station code BDH, Bedhampton
+1.0 changes for Station code BDH, Bedhampton
 1.0 changes for Station code BMT, Bedminster
 1.0 changes for Station code BEH, Bedworth
 1.0 changes for Station code BDW, Bedwyn
@@ -221,7 +221,7 @@ More than 1 change for Station code BTY, Bentley (Hants)
 0.0 changes for Station code BKM, Berkhamsted
 0.0 changes for Station code BKW, Berkswell
 1.0 changes for Station code BEP, Bermuda Park
-More than 1 change for Station code BYA, Berney Arms
+No connection or Error parsing for Station code BYA, Berney Arms
 1.0 changes for Station code BBW, Berry Brow
 More than 1 change for Station code BRS, Berrylands
 More than 1 change for Station code BRK, Berwick (Sussex)
@@ -293,11 +293,11 @@ More than 1 change for Station code BOG, Bognor Regis
 1.0 changes for Station code BGS, Bogston
 1.0 changes for Station code BON, Bolton
 1.0 changes for Station code BTD, Bolton-Upon-Dearne
-More than 1 change for Station code BKA, Bookham
+1.0 changes for Station code BKA, Bookham
 1.0 changes for Station code BOC, Bootle (Cumbria)
 More than 1 change for Station code BNW, Bootle New Strand
 More than 1 change for Station code BOT, Bootle Oriel Road
-More than 1 change for Station code BBS, Bordesley
+No connection or Error parsing for Station code BBS, Bordesley
 More than 1 change for Station code BRG, Borough Green & Wrotham
 0.0 changes for Station code BRH, Borth
 More than 1 change for Station code BOH, Bosham
@@ -339,7 +339,7 @@ More than 1 change for Station code BRO, Bridge of Orchy
 1.0 changes for Station code BWT, Bridgwater
 1.0 changes for Station code BDT, Bridlington
 1.0 changes for Station code BRF, Brierfield
-More than 1 change for Station code BGG, Brigg
+No connection or Error parsing for Station code BGG, Brigg
 1.0 changes for Station code BGH, Brighouse
 More than 1 change for Station code BTN, Brighton (East Sussex)
 More than 1 change for Station code BMD, Brimsdown
@@ -360,7 +360,7 @@ More than 1 change for Station code BCY, Brockley
 More than 1 change for Station code BMC, Bromley Cross (Lancs)
 More than 1 change for Station code BMN, Bromley North
 More than 1 change for Station code BMS, Bromley South
-0.0 changes for Station code BMV, Bromsgrove
+No connection or Error parsing for Station code BMV, Bromsgrove
 More than 1 change for Station code BSY, Brondesbury
 More than 1 change for Station code BSP, Brondesbury Park
 More than 1 change for Station code BPK, Brookmans Park
@@ -378,7 +378,7 @@ More than 1 change for Station code BGA, Brundall Gardens
 1.0 changes for Station code BRW, Brunswick
 1.0 changes for Station code BRU, Bruton
 1.0 changes for Station code BYN, Bryn
-More than 1 change for Station code BUC, Buckenham (Norfolk)
+No connection or Error parsing for Station code BUC, Buckenham (Norfolk)
 1.0 changes for Station code BCK, Buckley
 1.0 changes for Station code BUK, Bucknell
 1.0 changes for Station code BSV, Buckshaw Parkway
@@ -394,7 +394,7 @@ More than 1 change for Station code BUG, Burgess Hill
 1.0 changes for Station code BNM, Burnham (Bucks)
 More than 1 change for Station code BUU, Burnham-on-Crouch
 1.0 changes for Station code BUB, Burnley Barracks
-More than 1 change for Station code BNC, Burnley Central
+1.0 changes for Station code BNC, Burnley Central
 1.0 changes for Station code BYM, Burnley Manchester Road
 1.0 changes for Station code BUI, Burnside (Strathclyde)
 1.0 changes for Station code BTS, Burntisland
@@ -436,7 +436,7 @@ More than 1 change for Station code CBE, Canterbury East
 More than 1 change for Station code CBW, Canterbury West
 More than 1 change for Station code CNY, Cantley
 1.0 changes for Station code CPU, Capenhurst
-More than 1 change for Station code CBB, Carbis Bay
+1.0 changes for Station code CBB, Carbis Bay
 1.0 changes for Station code CDD, Cardenden
 More than 1 change for Station code CDB, Cardiff Bay
 0.0 changes for Station code CDF, Cardiff Central
@@ -470,7 +470,7 @@ More than 1 change for Station code CFB, Catford Bridge
 1.0 changes for Station code CYS, Cathays
 1.0 changes for Station code CCT, Cathcart
 1.0 changes for Station code CTL, Cattal
-More than 1 change for Station code CAU, Causeland
+1.0 changes for Station code CAU, Causeland
 1.0 changes for Station code CYB, Cefn-y-Bedd
 More than 1 change for Station code CTH, Chadwell Heath
 More than 1 change for Station code CFH, Chafford Hundred Lakeside
@@ -530,7 +530,7 @@ More than 1 change for Station code CHH, Christs Hospital
 1.0 changes for Station code CIM, Cilmeri
 More than 1 change for Station code CTK, City Thameslink
 More than 1 change for Station code CLT, Clacton-on-Sea
-More than 1 change for Station code CLA, Clandon
+1.0 changes for Station code CLA, Clandon
 1.0 changes for Station code CPY, Clapham (North Yorkshire)
 More than 1 change for Station code CLP, Clapham High Street
 1.0 changes for Station code CLJ, Clapham Junction
@@ -538,7 +538,7 @@ More than 1 change for Station code CPT, Clapton
 1.0 changes for Station code CLR, Clarbeston Road
 1.0 changes for Station code CKS, Clarkston
 1.0 changes for Station code CLV, Claverdon
-More than 1 change for Station code CLG, Claygate
+1.0 changes for Station code CLG, Claygate
 1.0 changes for Station code CLE, Cleethorpes
 1.0 changes for Station code CEA, Cleland
 1.0 changes for Station code CLI, Clifton (Manchester)
@@ -550,10 +550,10 @@ More than 1 change for Station code CLK, Clock House
 More than 1 change for Station code CBC, Coatbridge Central
 1.0 changes for Station code CBS, Coatbridge Sunnyside
 1.0 changes for Station code COA, Coatdyke
-More than 1 change for Station code CSD, Cobham & Stoke d'Abernon
+1.0 changes for Station code CSD, Cobham & Stoke d'Abernon
 0.0 changes for Station code CSL, Codsall
 1.0 changes for Station code CGN, Cogan
-More than 1 change for Station code COL, Colchester
+1.0 changes for Station code COL, Colchester
 More than 1 change for Station code CET, Colchester Town
 0.0 changes for Station code CEH, Coleshill Parkway
 1.0 changes for Station code CLM, Collingham
@@ -677,7 +677,7 @@ More than 1 change for Station code DEA, Deal
 1.0 changes for Station code DGC, Denham Golf Club
 More than 1 change for Station code DMK, Denmark Hill
 1.0 changes for Station code DNT, Dent
-More than 1 change for Station code DTN, Denton
+No connection or Error parsing for Station code DTN, Denton
 More than 1 change for Station code DEP, Deptford
 0.0 changes for Station code DBY, Derby
 More than 1 change for Station code DBR, Derby Road (Ipswich)
@@ -746,15 +746,15 @@ More than 1 change for Station code DCG, Duncraig
 1.0 changes for Station code DFE, Dunfermline Town
 1.0 changes for Station code DKD, Dunkeld & Birnam
 1.0 changes for Station code DNL, Dunlop
-More than 1 change for Station code DNO, Dunrobin Castle
+No connection or Error parsing for Station code DNO, Dunrobin Castle
 1.0 changes for Station code DOT, Dunston
 More than 1 change for Station code DNG, Dunton Green
 0.0 changes for Station code DHM, Durham
 More than 1 change for Station code DUR, Durrington-on-Sea
-More than 1 change for Station code DYC, Dyce
+1.0 changes for Station code DYC, Dyce
 0.0 changes for Station code DYF, Dyffryn Ardudwy
 1.0 changes for Station code EAG, Eaglescliffe
-More than 1 change for Station code EAL, Ealing Broadway
+1.0 changes for Station code EAL, Ealing Broadway
 1.0 changes for Station code ERL, Earlestown
 1.0 changes for Station code EAR, Earley
 More than 1 change for Station code EAD, Earlsfield
@@ -792,14 +792,14 @@ More than 1 change for Station code EBT, Edenbridge Town
 1.0 changes for Station code EGY, Edinburgh Gateway
 1.0 changes for Station code EDP, Edinburgh Park
 More than 1 change for Station code EDR, Edmonton Green
-More than 1 change for Station code EFF, Effingham Junction
+1.0 changes for Station code EFF, Effingham Junction
 1.0 changes for Station code EGG, Eggesford
 1.0 changes for Station code EGH, Egham
 More than 1 change for Station code EGT, Egton
 1.0 changes for Station code EPH, Elephant & Castle
-More than 1 change for Station code ZEL, Elephant & Castle (Underground)
-More than 1 change for Station code ELG, Elgin
-More than 1 change for Station code ELP, Ellesmere Port
+No connection or Error parsing for Station code ZEL, Elephant & Castle (Underground)
+1.0 changes for Station code ELG, Elgin
+1.0 changes for Station code ELP, Ellesmere Port
 More than 1 change for Station code ELE, Elmers End
 More than 1 change for Station code ESD, Elmstead Woods
 1.0 changes for Station code ESW, Elmswell
@@ -843,14 +843,14 @@ More than 1 change for Station code EYN, Eynsford
 More than 1 change for Station code FCN, Falconwood
 1.0 changes for Station code FKG, Falkirk Grahamston
 1.0 changes for Station code FKK, Falkirk High
-More than 1 change for Station code FOC, Falls of Cruachan
+No connection or Error parsing for Station code FOC, Falls of Cruachan
 More than 1 change for Station code FMR, Falmer
-More than 1 change for Station code FAL, Falmouth Docks
-More than 1 change for Station code FMT, Falmouth Town
+1.0 changes for Station code FAL, Falmouth Docks
+1.0 changes for Station code FMT, Falmouth Town
 1.0 changes for Station code FRM, Fareham
 1.0 changes for Station code FNB, Farnborough (Main)
 1.0 changes for Station code FNN, Farnborough North
-More than 1 change for Station code FNC, Farncombe
+1.0 changes for Station code FNC, Farncombe
 More than 1 change for Station code FNH, Farnham
 More than 1 change for Station code FNR, Farningham Road
 1.0 changes for Station code FNW, Farnworth
@@ -893,7 +893,7 @@ More than 1 change for Station code FOD, Ford
 More than 1 change for Station code FOG, Forest Gate
 More than 1 change for Station code FOH, Forest Hill
 More than 1 change for Station code FBY, Formby
-More than 1 change for Station code FOR, Forres
+1.0 changes for Station code FOR, Forres
 More than 1 change for Station code FRS, Forsinard
 1.0 changes for Station code FTM, Fort Matilda
 More than 1 change for Station code FTW, Fort William
@@ -948,7 +948,7 @@ More than 1 change for Station code GLS, Glaisdale
 1.0 changes for Station code GLQ, Glasgow Queen Street
 1.0 changes for Station code GLH, Glasshoughton
 1.0 changes for Station code GLZ, Glazebrook
-More than 1 change for Station code GLE, Gleneagles
+1.0 changes for Station code GLE, Gleneagles
 More than 1 change for Station code GLF, Glenfinnan
 1.0 changes for Station code GLG, Glengarnock
 1.0 changes for Station code GLT, Glenrothes with Thornton
@@ -956,7 +956,7 @@ More than 1 change for Station code GLF, Glenfinnan
 0.0 changes for Station code GCR, Gloucester
 More than 1 change for Station code GLY, Glynde
 0.0 changes for Station code GOB, Gobowen
-More than 1 change for Station code GOD, Godalming
+1.0 changes for Station code GOD, Godalming
 1.0 changes for Station code GDL, Godley
 More than 1 change for Station code GDN, Godstone
 1.0 changes for Station code GOE, Goldthorpe
@@ -1051,7 +1051,7 @@ More than 1 change for Station code HMW, Hampton Wick
 1.0 changes for Station code HAM, Hamworthy
 1.0 changes for Station code HND, Hanborough
 1.0 changes for Station code HTH, Handforth
-More than 1 change for Station code HAN, Hanwell
+1.0 changes for Station code HAN, Hanwell
 1.0 changes for Station code HPN, Hapton
 0.0 changes for Station code HRL, Harlech
 1.0 changes for Station code HDN, Harlesden
@@ -1074,7 +1074,7 @@ More than 1 change for Station code HRY, Harringay Green Lanes
 1.0 changes for Station code HTW, Hartwood
 More than 1 change for Station code HPQ, Harwich International
 More than 1 change for Station code HWC, Harwich Town
-More than 1 change for Station code HSL, Haslemere
+1.0 changes for Station code HSL, Haslemere
 More than 1 change for Station code HSK, Hassocks
 More than 1 change for Station code HGS, Hastings
 1.0 changes for Station code HTE, Hatch End
@@ -1107,7 +1107,7 @@ More than 1 change for Station code HLI, Healing
 1.0 changes for Station code HLL, Heath Low Level
 More than 1 change for Station code HAF, Heathrow Airport Terminal 4
 More than 1 change for Station code HWV, Heathrow Airport Terminal 5
-More than 1 change for Station code HXX, Heathrow Airport Terminals 1, 2 and 3
+No connection or Error parsing for Station code HXX, Heathrow Airport Terminals 1, 2 and 3
 1.0 changes for Station code HTC, Heaton Chapel
 1.0 changes for Station code HBD, Hebden Bridge
 1.0 changes for Station code HEC, Heckington
@@ -1123,7 +1123,7 @@ More than 1 change for Station code HMS, Helmsdale
 More than 1 change for Station code HEN, Hendon
 1.0 changes for Station code HNG, Hengoed
 0.0 changes for Station code HNL, Henley-in-Arden
-More than 1 change for Station code HOT, Henley-on-Thames
+1.0 changes for Station code HOT, Henley-on-Thames
 1.0 changes for Station code HEL, Hensall
 0.0 changes for Station code HFD, Hereford
 More than 1 change for Station code HNB, Herne Bay
@@ -1153,7 +1153,7 @@ More than 1 change for Station code HLB, Hildenborough
 1.0 changes for Station code HLW, Hillington West
 More than 1 change for Station code HIL, Hillside
 1.0 changes for Station code HLS, Hilsea
-More than 1 change for Station code HYW, Hinchley Wood
+1.0 changes for Station code HYW, Hinchley Wood
 0.0 changes for Station code HNK, Hinckley (Leics)
 1.0 changes for Station code HIN, Hindley
 1.0 changes for Station code HNA, Hinton Admiral
@@ -1181,7 +1181,7 @@ More than 1 change for Station code HOR, Horley
 More than 1 change for Station code HRN, Hornsey
 1.0 changes for Station code HRS, Horsforth
 More than 1 change for Station code HRH, Horsham
-More than 1 change for Station code HSY, Horsley
+1.0 changes for Station code HSY, Horsley
 1.0 changes for Station code HIR, Horton-in-Ribblesdale
 1.0 changes for Station code HWI, Horwich Parkway
 More than 1 change for Station code HSC, Hoscar
@@ -1203,7 +1203,7 @@ More than 1 change for Station code HOX, Hoxton
 1.0 changes for Station code HGD, Hungerford
 1.0 changes for Station code HUB, Hunmanby
 1.0 changes for Station code HUN, Huntingdon
-More than 1 change for Station code HNT, Huntly
+1.0 changes for Station code HNT, Huntly
 1.0 changes for Station code HNX, Hunts Cross
 More than 1 change for Station code HUR, Hurst Green
 1.0 changes for Station code HUT, Hutton Cranswick
@@ -1213,7 +1213,7 @@ More than 1 change for Station code HUR, Hurst Green
 1.0 changes for Station code HKM, Hykeham
 1.0 changes for Station code HYN, Hyndland
 More than 1 change for Station code HYH, Hythe (Essex)
-More than 1 change for Station code IBM, IBM Halt
+No connection or Error parsing for Station code IBM, IBM Halt
 More than 1 change for Station code IFI, Ifield
 More than 1 change for Station code IFD, Ilford
 1.0 changes for Station code ILK, Ilkley
@@ -1221,14 +1221,14 @@ More than 1 change for Station code IFD, Ilford
 1.0 changes for Station code INE, Ince & Elton
 More than 1 change for Station code INC, Ince (Manchester)
 More than 1 change for Station code INT, Ingatestone
-More than 1 change for Station code INS, Insch
+1.0 changes for Station code INS, Insch
 More than 1 change for Station code IGD, Invergordon
-More than 1 change for Station code ING, Invergowrie
+1.0 changes for Station code ING, Invergowrie
 0.0 changes for Station code INK, Inverkeithing
 1.0 changes for Station code INP, Inverkip
 1.0 changes for Station code INV, Inverness
 More than 1 change for Station code INH, Invershin
-More than 1 change for Station code INR, Inverurie
+1.0 changes for Station code INR, Inverurie
 1.0 changes for Station code IPS, Ipswich
 1.0 changes for Station code IRL, Irlam
 1.0 changes for Station code IRV, Irvine
@@ -1244,7 +1244,7 @@ More than 1 change for Station code JCH, James Cook
 1.0 changes for Station code KSL, Kearsley (Manchester)
 More than 1 change for Station code KSN, Kearsney (Kent)
 1.0 changes for Station code KEI, Keighley
-More than 1 change for Station code KEH, Keith
+1.0 changes for Station code KEH, Keith
 More than 1 change for Station code KEL, Kelvedon
 More than 1 change for Station code KVD, Kelvindale
 1.0 changes for Station code KEM, Kemble
@@ -1309,7 +1309,7 @@ More than 1 change for Station code KIR, Kirkby (Merseyside)
 1.0 changes for Station code KKN, Kirknewton
 1.0 changes for Station code KLF, Kirkstall Forge
 1.0 changes for Station code KWD, Kirkwood
-More than 1 change for Station code KTL, Kirton Lindsey
+No connection or Error parsing for Station code KTL, Kirton Lindsey
 1.0 changes for Station code KIV, Kiveton Bridge
 1.0 changes for Station code KVP, Kiveton Park
 1.0 changes for Station code KNA, Knaresborough
@@ -1325,7 +1325,7 @@ More than 1 change for Station code LAD, Ladywell
 More than 1 change for Station code LAI, Laindon
 More than 1 change for Station code LRG, Lairg
 More than 1 change for Station code LKE, Lake
-More than 1 change for Station code LAK, Lakenheath
+No connection or Error parsing for Station code LAK, Lakenheath
 More than 1 change for Station code LAM, Lamphey
 1.0 changes for Station code LNK, Lanark
 0.0 changes for Station code LAN, Lancaster
@@ -1355,7 +1355,7 @@ More than 1 change for Station code LEA, Leagrave
 More than 1 change for Station code LHM, Lealholm
 0.0 changes for Station code LMS, Leamington Spa
 1.0 changes for Station code LSW, Leasowe
-More than 1 change for Station code LHD, Leatherhead
+1.0 changes for Station code LHD, Leatherhead
 0.0 changes for Station code LED, Ledbury
 More than 1 change for Station code LEE, Lee (London)
 0.0 changes for Station code LDS, Leeds
@@ -1364,7 +1364,7 @@ More than 1 change for Station code LIH, Leigh (Kent)
 More than 1 change for Station code LES, Leigh-on-Sea
 0.0 changes for Station code LBZ, Leighton Buzzard
 1.0 changes for Station code LEL, Lelant
-More than 1 change for Station code LTS, Lelant Saltings
+1.0 changes for Station code LTS, Lelant Saltings
 More than 1 change for Station code LEN, Lenham
 More than 1 change for Station code LNZ, Lenzie
 1.0 changes for Station code LEO, Leominster
@@ -1384,12 +1384,12 @@ More than 1 change for Station code LER, Leytonstone High Road
 More than 1 change for Station code LFD, Lingfield
 More than 1 change for Station code LGD, Lingwood
 1.0 changes for Station code LIN, Linlithgow
-More than 1 change for Station code LIP, Liphook
+1.0 changes for Station code LIP, Liphook
 0.0 changes for Station code LSK, Liskeard
-More than 1 change for Station code LIS, Liss
+1.0 changes for Station code LIS, Liss
 1.0 changes for Station code LVT, Lisvane & Thornhill
 1.0 changes for Station code LTK, Little Kimble
-More than 1 change for Station code LTT, Little Sutton
+1.0 changes for Station code LTT, Little Sutton
 More than 1 change for Station code LTL, Littleborough
 More than 1 change for Station code LIT, Littlehampton
 More than 1 change for Station code LVN, Littlehaven
@@ -1451,8 +1451,8 @@ More than 1 change for Station code LOF, London Fields
 0.0 changes for Station code MYB, London Marylebone
 1.0 changes for Station code PAD, London Paddington
 More than 1 change for Station code LRB, London Road (Brighton)
-More than 1 change for Station code LRD, London Road (Guildford)
-More than 1 change for Station code SPX, London St Pancras (Intl)
+1.0 changes for Station code LRD, London Road (Guildford)
+No connection or Error parsing for Station code SPX, London St Pancras (Intl)
 1.0 changes for Station code STP, London St Pancras International
 1.0 changes for Station code VIC, London Victoria
 1.0 changes for Station code WAT, London Waterloo
@@ -1467,7 +1467,7 @@ More than 1 change for Station code LGF, Longfield
 1.0 changes for Station code LND, Longniddry
 1.0 changes for Station code LPT, Longport
 1.0 changes for Station code LGN, Longton
-More than 1 change for Station code LOO, Looe
+1.0 changes for Station code LOO, Looe
 1.0 changes for Station code LOT, Lostock
 1.0 changes for Station code LTG, Lostock Gralam
 1.0 changes for Station code LOH, Lostock Hall
@@ -1505,10 +1505,10 @@ More than 1 change for Station code MLG, Mallaig
 1.0 changes for Station code MIA, Manchester Airport
 1.0 changes for Station code MCO, Manchester Oxford Road
 0.0 changes for Station code MAN, Manchester Piccadilly
-More than 1 change for Station code MUF, Manchester United Football Ground
+No connection or Error parsing for Station code MUF, Manchester United Football Ground
 1.0 changes for Station code MCV, Manchester Victoria
 0.0 changes for Station code MNE, Manea
-More than 1 change for Station code MNG, Manningtree
+1.0 changes for Station code MNG, Manningtree
 More than 1 change for Station code MNP, Manor Park
 1.0 changes for Station code MNR, Manor Road
 More than 1 change for Station code MRB, Manorbier
@@ -1553,7 +1553,7 @@ More than 1 change for Station code MEP, Meopham
 More than 1 change for Station code MHM, Merstham
 1.0 changes for Station code MER, Merthyr Tydfil
 1.0 changes for Station code MEV, Merthyr Vale
-More than 1 change for Station code MGM, Metheringham
+1.0 changes for Station code MGM, Metheringham
 1.0 changes for Station code MCE, MetroCentre
 1.0 changes for Station code MEX, Mexborough
 1.0 changes for Station code MIC, Micheldever
@@ -1561,7 +1561,7 @@ More than 1 change for Station code MGM, Metheringham
 1.0 changes for Station code MBR, Middlesbrough
 1.0 changes for Station code MDL, Middlewood
 1.0 changes for Station code MDG, Midgham
-More than 1 change for Station code MLF, Milford (Surrey)
+1.0 changes for Station code MLF, Milford (Surrey)
 1.0 changes for Station code MFH, Milford Haven
 1.0 changes for Station code MLH, Mill Hill (Lancs)
 More than 1 change for Station code MIL, Mill Hill Broadway
@@ -1620,7 +1620,7 @@ More than 1 change for Station code MOO, Muir of Ord
 1.0 changes for Station code MYT, Mytholmroyd
 1.0 changes for Station code NFN, Nafferton
 1.0 changes for Station code NLS, Nailsea & Backwell
-More than 1 change for Station code NRN, Nairn
+1.0 changes for Station code NRN, Nairn
 0.0 changes for Station code NAN, Nantwich
 More than 1 change for Station code NAR, Narberth
 0.0 changes for Station code NBR, Narborough
@@ -1714,7 +1714,7 @@ More than 1 change for Station code OKL, Oakleigh Park
 More than 1 change for Station code OBN, Oban
 More than 1 change for Station code OCK, Ockendon
 More than 1 change for Station code OLY, Ockley
-More than 1 change for Station code OKE, Okehampton
+No connection or Error parsing for Station code OKE, Okehampton
 0.0 changes for Station code OHL, Old Hill
 1.0 changes for Station code ORN, Old Roan
 More than 1 change for Station code OLD, Old Street
@@ -1729,12 +1729,12 @@ More than 1 change for Station code OTF, Otford
 More than 1 change for Station code OUN, Oulton Broad North
 More than 1 change for Station code OUS, Oulton Broad South
 1.0 changes for Station code OUT, Outwood
-More than 1 change for Station code OVE, Overpool
+1.0 changes for Station code OVE, Overpool
 1.0 changes for Station code OVR, Overton
 0.0 changes for Station code OXN, Oxenholme Lake District
 0.0 changes for Station code OXF, Oxford
 1.0 changes for Station code OXP, Oxford Parkway
-More than 1 change for Station code OXS, Oxshott
+1.0 changes for Station code OXS, Oxshott
 More than 1 change for Station code OXT, Oxted
 More than 1 change for Station code PDW, Paddock Wood
 1.0 changes for Station code PDG, Padgate
@@ -1773,11 +1773,11 @@ More than 1 change for Station code PNW, Penge West
 1.0 changes for Station code PNS, Penistone
 0.0 changes for Station code PKG, Penkridge
 0.0 changes for Station code PMW, Penmaenmawr
-More than 1 change for Station code PNM, Penmere
+1.0 changes for Station code PNM, Penmere
 1.0 changes for Station code PER, Penrhiwceiber
 0.0 changes for Station code PRH, Penrhyndeudraeth
 0.0 changes for Station code PNR, Penrith (North Lakes)
-More than 1 change for Station code PYN, Penryn (Cornwall)
+1.0 changes for Station code PYN, Penryn (Cornwall)
 0.0 changes for Station code PES, Pensarn (Gwynedd)
 More than 1 change for Station code PHR, Penshurst
 1.0 changes for Station code PTB, Pentre-Bach
@@ -1785,17 +1785,17 @@ More than 1 change for Station code PHR, Penshurst
 0.0 changes for Station code PNC, Penychain
 1.0 changes for Station code PNF, Penyffordd
 0.0 changes for Station code PNZ, Penzance
-More than 1 change for Station code PRW, Perranwell
+1.0 changes for Station code PRW, Perranwell
 0.0 changes for Station code PRY, Perry Barr
 1.0 changes for Station code PSH, Pershore
 1.0 changes for Station code PTH, Perth
 0.0 changes for Station code PBO, Peterborough
-More than 1 change for Station code PTR, Petersfield
+1.0 changes for Station code PTR, Petersfield
 More than 1 change for Station code PET, Petts Wood
 More than 1 change for Station code PEV, Pevensey & Westham
 More than 1 change for Station code PEB, Pevensey Bay
 1.0 changes for Station code PEW, Pewsey
-More than 1 change for Station code PIL, Pilning
+No connection or Error parsing for Station code PIL, Pilning
 1.0 changes for Station code PIN, Pinhoe
 1.0 changes for Station code PIT, Pitlochry
 More than 1 change for Station code PSE, Pitsea
@@ -1896,9 +1896,9 @@ More than 1 change for Station code REC, Rectory Road
 1.0 changes for Station code RCC, Redcar Central
 1.0 changes for Station code RCE, Redcar East
 1.0 changes for Station code RDN, Reddish North
-More than 1 change for Station code RDS, Reddish South
+No connection or Error parsing for Station code RDS, Reddish South
 0.0 changes for Station code RDC, Redditch
-More than 1 change for Station code RDH, Redhill
+1.0 changes for Station code RDH, Redhill
 1.0 changes for Station code RDA, Redland
 0.0 changes for Station code RED, Redruth
 More than 1 change for Station code REE, Reedham (Norfolk)
@@ -1935,13 +1935,13 @@ More than 1 change for Station code RMF, Romford
 1.0 changes for Station code RML, Romiley
 1.0 changes for Station code ROM, Romsey
 1.0 changes for Station code ROO, Roose
-More than 1 change for Station code RSG, Rose Grove
+1.0 changes for Station code RSG, Rose Grove
 1.0 changes for Station code RSH, Rose Hill Marple
 1.0 changes for Station code ROS, Rosyth
 1.0 changes for Station code RMC, Rotherham Central
 More than 1 change for Station code ROE, Rotherhithe
 More than 1 change for Station code RNR, Roughton Road
-More than 1 change for Station code RLN, Rowlands Castle
+1.0 changes for Station code RLN, Rowlands Castle
 0.0 changes for Station code ROW, Rowley Regis
 More than 1 change for Station code RYB, Roy Bridge
 More than 1 change for Station code RYN, Roydon
@@ -1953,7 +1953,7 @@ More than 1 change for Station code RYN, Roydon
 0.0 changes for Station code RGL, Rugeley Trent Valley
 0.0 changes for Station code RUN, Runcorn
 1.0 changes for Station code RUE, Runcorn East
-More than 1 change for Station code RKT, Ruskington
+1.0 changes for Station code RKT, Ruskington
 More than 1 change for Station code RUS, Ruswarp
 1.0 changes for Station code RUT, Rutherglen
 More than 1 change for Station code RYD, Ryde Esplanade
@@ -1973,7 +1973,7 @@ More than 1 change for Station code SAH, Salhouse
 1.0 changes for Station code SLT, Saltcoats
 1.0 changes for Station code SAM, Saltmarshe
 1.0 changes for Station code SLW, Salwick
-More than 1 change for Station code SMC, Sampford Courtenay
+No connection or Error parsing for Station code SMC, Sampford Courtenay
 1.0 changes for Station code SNA, Sandal & Agbrigg
 1.0 changes for Station code SDB, Sandbach
 More than 1 change for Station code SNR, Sanderstead
@@ -1981,11 +1981,11 @@ More than 1 change for Station code SNR, Sanderstead
 1.0 changes for Station code SND, Sandhurst (Berks)
 More than 1 change for Station code SDG, Sandling
 More than 1 change for Station code SAN, Sandown
-More than 1 change for Station code SDP, Sandplace
+1.0 changes for Station code SDP, Sandplace
 0.0 changes for Station code SAD, Sandwell & Dudley
 More than 1 change for Station code SDW, Sandwich
 1.0 changes for Station code SDY, Sandy
-More than 1 change for Station code SNK, Sankey for Penketh
+1.0 changes for Station code SNK, Sankey for Penketh
 1.0 changes for Station code SQH, Sanquhar
 1.0 changes for Station code SRR, Sarn
 More than 1 change for Station code SDF, Saundersfoot
@@ -2039,7 +2039,7 @@ More than 1 change for Station code SHM, Sheringham
 1.0 changes for Station code SDM, Shieldmuir
 0.0 changes for Station code SFN, Shifnal
 1.0 changes for Station code SHD, Shildon
-More than 1 change for Station code SHI, Shiplake
+1.0 changes for Station code SHI, Shiplake
 1.0 changes for Station code SHY, Shipley (Yorks)
 More than 1 change for Station code SPP, Shippea Hill
 1.0 changes for Station code SIP, Shipton
@@ -2121,7 +2121,7 @@ More than 1 change for Station code SBR, Spean Bridge
 0.0 changes for Station code SRI, Spring Road
 More than 1 change for Station code SPR, Springburn
 1.0 changes for Station code SPF, Springfield
-More than 1 change for Station code SQU, Squires Gate
+1.0 changes for Station code SQU, Squires Gate
 1.0 changes for Station code SAA, St Albans Abbey
 More than 1 change for Station code SAC, St Albans City
 1.0 changes for Station code SAR, St Andrews Road
@@ -2137,11 +2137,11 @@ More than 1 change for Station code SCR, St Columb Road
 1.0 changes for Station code SNH, St Helens Central
 1.0 changes for Station code SHJ, St Helens Junction
 More than 1 change for Station code SIH, St Helier (Surrey)
-More than 1 change for Station code SIV, St Ives (Cornwall)
+1.0 changes for Station code SIV, St Ives (Cornwall)
 1.0 changes for Station code SJP, St James Park (Exeter)
 More than 1 change for Station code SJS, St James Street (Walthamstow)
 More than 1 change for Station code SAJ, St Johns (London)
-More than 1 change for Station code SKN, St Keyne Wishing Well Halt
+1.0 changes for Station code SKN, St Keyne Wishing Well Halt
 More than 1 change for Station code SLQ, St Leonards Warrior Square
 More than 1 change for Station code SMT, St Margarets (Herts)
 More than 1 change for Station code SMG, St Margarets (London)
@@ -2189,7 +2189,7 @@ More than 1 change for Station code SNL, Stoneleigh
 1.0 changes for Station code SBT, Stourbridge Town
 1.0 changes for Station code SOI, Stow
 1.0 changes for Station code SMK, Stowmarket
-More than 1 change for Station code STR, Stranraer
+1.0 changes for Station code STR, Stranraer
 1.0 changes for Station code SRA, Stratford (London)
 More than 1 change for Station code SFA, Stratford International
 0.0 changes for Station code SAV, Stratford-upon-Avon
@@ -2206,17 +2206,17 @@ More than 1 change for Station code SOO, Strood (Kent)
 1.0 changes for Station code STD, Stroud (Gloucs)
 More than 1 change for Station code STU, Sturry
 1.0 changes for Station code SYA, Styal
-More than 1 change for Station code SUD, Sudbury & Harrow Road
+1.0 changes for Station code SUD, Sudbury & Harrow Road
 More than 1 change for Station code SUY, Sudbury (Suffolk)
 1.0 changes for Station code SDH, Sudbury Hill Harrow
 1.0 changes for Station code SUG, Sugar Loaf
 More than 1 change for Station code SUM, Summerston
 More than 1 change for Station code SUU, Sunbury
-More than 1 change for Station code SUN, Sunderland
+1.0 changes for Station code SUN, Sunderland
 More than 1 change for Station code SUP, Sundridge Park
 1.0 changes for Station code SNG, Sunningdale
 More than 1 change for Station code SNY, Sunnymeads
-More than 1 change for Station code SUR, Surbiton
+1.0 changes for Station code SUR, Surbiton
 More than 1 change for Station code SQE, Surrey Quays
 More than 1 change for Station code SUO, Sutton (Surrey)
 0.0 changes for Station code SUT, Sutton Coldfield
@@ -2252,7 +2252,7 @@ More than 1 change for Station code TAT, Tattenham Corner
 0.0 changes for Station code TAU, Taunton
 More than 1 change for Station code TAY, Taynuilt
 More than 1 change for Station code TED, Teddington
-More than 1 change for Station code TEA, Tees-side Airport
+No connection or Error parsing for Station code TEA, Tees-side Airport
 0.0 changes for Station code TGM, Teignmouth
 0.0 changes for Station code TFC, Telford Central
 1.0 changes for Station code TMC, Templecombe
@@ -2370,18 +2370,18 @@ More than 1 change for Station code WLC, Waltham Cross
 1.0 changes for Station code WHC, Walthamstow Central
 More than 1 change for Station code WMW, Walthamstow Queen's Road
 1.0 changes for Station code WAO, Walton (Merseyside)
-More than 1 change for Station code WAL, Walton-on-Thames
+1.0 changes for Station code WAL, Walton-on-Thames
 More than 1 change for Station code WON, Walton-on-the-Naze
-More than 1 change for Station code WAN, Wanborough
+1.0 changes for Station code WAN, Wanborough
 More than 1 change for Station code WSW, Wandsworth Common
 More than 1 change for Station code WWR, Wandsworth Road
 More than 1 change for Station code WNT, Wandsworth Town
 More than 1 change for Station code WNP, Wanstead Park
 More than 1 change for Station code WPE, Wapping
-More than 1 change for Station code WBL, Warblington
+1.0 changes for Station code WBL, Warblington
 More than 1 change for Station code WAR, Ware (Herts)
 1.0 changes for Station code WRM, Wareham (Dorset)
-More than 1 change for Station code WGV, Wargrave
+1.0 changes for Station code WGV, Wargrave
 1.0 changes for Station code WMN, Warminster
 More than 1 change for Station code WNH, Warnham
 0.0 changes for Station code WBQ, Warrington Bank Quay
@@ -2422,7 +2422,7 @@ More than 1 change for Station code WLI, Welling
 More than 1 change for Station code WCY, West Croydon
 1.0 changes for Station code WDT, West Drayton
 More than 1 change for Station code WDU, West Dulwich
-More than 1 change for Station code WEA, West Ealing
+1.0 changes for Station code WEA, West Ealing
 1.0 changes for Station code WEH, West Ham
 More than 1 change for Station code WHD, West Hampstead
 More than 1 change for Station code WHP, West Hampstead Thameslink
@@ -2449,7 +2449,7 @@ More than 1 change for Station code WGA, Westgate-on-Sea
 1.0 changes for Station code WNM, Weston Milton
 0.0 changes for Station code WSM, Weston-super-Mare
 1.0 changes for Station code WRL, Wetheral
-More than 1 change for Station code WYB, Weybridge
+1.0 changes for Station code WYB, Weybridge
 1.0 changes for Station code WEY, Weymouth
 1.0 changes for Station code WBR, Whaley Bridge
 More than 1 change for Station code WHE, Whalley (Lancs)
@@ -2473,7 +2473,7 @@ More than 1 change for Station code ZLW, Whitechapel
 More than 1 change for Station code WHI, Whitstable
 0.0 changes for Station code WLE, Whittlesea
 1.0 changes for Station code WLF, Whittlesford Parkway
-More than 1 change for Station code WTN, Whitton (London)
+1.0 changes for Station code WTN, Whitton (London)
 1.0 changes for Station code WWL, Whitwell (Derbyshire)
 More than 1 change for Station code WHY, Whyteleafe
 More than 1 change for Station code WHS, Whyteleafe South
@@ -2507,7 +2507,7 @@ More than 1 change for Station code WNR, Windsor & Eton Riverside
 0.0 changes for Station code WSF, Winsford
 1.0 changes for Station code WSH, Wishaw
 More than 1 change for Station code WTM, Witham
-More than 1 change for Station code WTY, Witley
+1.0 changes for Station code WTY, Witley
 0.0 changes for Station code WTT, Witton (West Midlands)
 More than 1 change for Station code WVF, Wivelsfield
 More than 1 change for Station code WIV, Wivenhoe
@@ -2539,7 +2539,7 @@ More than 1 change for Station code WCP, Worcester Park
 1.0 changes for Station code WKG, Workington
 1.0 changes for Station code WRK, Worksop
 1.0 changes for Station code WOR, Worle
-More than 1 change for Station code WPL, Worplesdon
+1.0 changes for Station code WPL, Worplesdon
 More than 1 change for Station code WRT, Worstead
 More than 1 change for Station code WRH, Worthing
 More than 1 change for Station code WRB, Wrabness
