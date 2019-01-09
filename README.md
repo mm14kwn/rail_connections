@@ -51,7 +51,8 @@ For example, to run for london:
           arrdep='a',
           inputpath='/path/to/folder/',
           outputpath='/path/to/folder/',
-
+          repeat_on_error=10
+          )
 
 ## Author
 [Kieran Newman](https://github.com/mm14kwn)
