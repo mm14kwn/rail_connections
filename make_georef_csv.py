@@ -54,6 +54,7 @@ def grcsv(destination='london',
         termlon = conlon[ch < 0]
         mtlat = np.nanmean(termlat)
         mtlon = np.nanmean(termlon)
+        dist = np.sqrt((conlat - mtlat)**2 + (conlon - mtlon)**2)
     if nanvalue is not None:
         ch[np.isnan(ch)] = nanvalue
 
@@ -62,18 +63,23 @@ def grcsv(destination='london',
         if terminal_llcol:
             station_writer.writerow([
                 'Name', 'Code', 'Changes', 'lat', 'lon', 'terminal lat',
-                'terminal lon'
+                'terminal lon', 'linear distance'
             ])
         else:
             station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon'])
-        for name, code, change, lat, lon in zip(pdict['names'], pdict['codes'],
-                                                ch, pdict['lat'],
-                                                pdict['lon']):
-            if terminal_llcol:
+        if terminal_llcol:
+            for name, code, change, lat, lon, d in zip(
+                    pdict['names'], pdict['codes'], ch, pdict['lat'],
+                    pdict['lon'], dist):
+
                 station_writer.writerow(
                     [name, code, change, lat, lon, mtlat, mtlon])
 
-            else:
+        else:
+            for name, code, change, lat, lon, d in zip(
+                    pdict['names'], pdict['codes'], ch, pdict['lat'],
+                    pdict['lon']):
+
                 station_writer.writerow([name, code, change, lat, lon])
 
     print('ALL DONE :)')
