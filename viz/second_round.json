@@ -1,0 +1,2619 @@
+{
+  "version": "v1",
+  "config": {
+    "visState": {
+      "filters": [
+        {
+          "dataId": "d1nvlbqyi",
+          "id": "xq0u7er78",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "347py1mo",
+          "id": "4ljkgizks",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "909ibk7h1",
+          "id": "5l40pku0s",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "1mzuh715t",
+          "id": "fji1x4p8",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "vw01x668g",
+          "id": "cnm8hcrx9",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "htai5ebb",
+          "id": "0o61wwknq",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "mo2qys17o",
+          "id": "8ojyphe4",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "912ymh5l9",
+          "id": "hn7yr6yje",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "raar9dyug",
+          "id": "k4caev3uc",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "lxku74cl9",
+          "id": "6auae6v5n",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "c6av6i7j4",
+          "id": "b8x2tehuu",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "0xndu9l5k",
+          "id": "ud2nrxl4",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "wxomq2qrk",
+          "id": "f3dw13cef",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "w2uoso6a",
+          "id": "l9x1mah6b",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "akty7be5s",
+          "id": "x3763krn4",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "vju5xdguo",
+          "id": "vyr3p7i6",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "tp6bagzbj",
+          "id": "rftm4riij",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "rb1rg2nhk",
+          "id": "1hwkcl6ms",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "0b4sfm5v7",
+          "id": "1juostozh",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "0jd4twelv",
+          "id": "54a17cc1",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "ckohg4ej",
+          "id": "9vfql9msq",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "mmyql8s2",
+          "id": "km4gzxbf",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "2zf6ynje9",
+          "id": "o9i82kr7c",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "sg7sgjaln",
+          "id": "a1s8c5mq",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "x13dep7n",
+          "id": "qnifff95i",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        },
+        {
+          "dataId": "ycva4ixe",
+          "id": "t8azfursr",
+          "name": "Changes",
+          "type": "range",
+          "value": [
+            0,
+            0
+          ],
+          "enlarged": false,
+          "plotType": "histogram",
+          "yAxis": null
+        }
+      ],
+      "layers": [
+        {
+          "id": "b1gj36",
+          "type": "arc",
+          "config": {
+            "dataId": "0xndu9l5k",
+            "label": "York - 151",
+            "color": [
+              177,
+              41,
+              7
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "uuh3vd5",
+          "type": "arc",
+          "config": {
+            "dataId": "c6av6i7j4",
+            "label": "Cardiff - 253",
+            "color": [
+              146,
+              38,
+              198
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "dvx3ap",
+          "type": "line",
+          "config": {
+            "dataId": "lxku74cl9",
+            "label": "Bristol - 145",
+            "color": [
+              227,
+              26,
+              26
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "d6fv69o",
+          "type": "line",
+          "config": {
+            "dataId": "d1nvlbqyi",
+            "label": "Birmingham - 325",
+            "color": [
+              21,
+              174,
+              180
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 3,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "otz0a8",
+          "type": "line",
+          "config": {
+            "dataId": "347py1mo",
+            "label": "Edinburgh - 220",
+            "color": [
+              88,
+              121,
+              218
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "mr24f4q",
+          "type": "line",
+          "config": {
+            "dataId": "909ibk7h1",
+            "label": "Glasgow - 328",
+            "color": [
+              255,
+              152,
+              51
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "yfzh7z",
+          "type": "line",
+          "config": {
+            "dataId": "1mzuh715t",
+            "label": "Leeds - 244",
+            "color": [
+              125,
+              194,
+              64
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "mhtc6sv",
+          "type": "line",
+          "config": {
+            "dataId": "vw01x668g",
+            "label": "Liverpool - 198",
+            "color": [
+              255,
+              248,
+              51
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "5im8adn",
+          "type": "line",
+          "config": {
+            "dataId": "htai5ebb",
+            "label": "London - 1029",
+            "color": [
+              229,
+              229,
+              228
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "hvn2hff",
+          "type": "line",
+          "config": {
+            "dataId": "mo2qys17o",
+            "label": "Manchester - 394",
+            "color": [
+              184,
+              15,
+              135
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "uhfzhn",
+          "type": "line",
+          "config": {
+            "dataId": "912ymh5l9",
+            "label": "Sheffield - 204",
+            "color": [
+              106,
+              187,
+              107
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "stfsac",
+          "type": "line",
+          "config": {
+            "dataId": "raar9dyug",
+            "label": "Southampton - 179",
+            "color": [
+              217,
+              25,
+              85
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 0.5,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "sdn21uu",
+          "type": "heatmap",
+          "config": {
+            "dataId": "d1nvlbqyi",
+            "label": "birmingham weighted heatmap",
+            "color": [
+              183,
+              136,
+              94
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "mp9mj5h",
+          "type": "heatmap",
+          "config": {
+            "dataId": "347py1mo",
+            "label": "edinburgh weighted heatmap",
+            "color": [
+              30,
+              150,
+              190
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "8h9kqs",
+          "type": "heatmap",
+          "config": {
+            "dataId": "909ibk7h1",
+            "label": "glasgow weighted heatmap",
+            "color": [
+              23,
+              184,
+              190
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "cmshof4",
+          "type": "heatmap",
+          "config": {
+            "dataId": "1mzuh715t",
+            "label": "leeds weighted heatmap",
+            "color": [
+              231,
+              159,
+              213
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "28pz7xd",
+          "type": "heatmap",
+          "config": {
+            "dataId": "vw01x668g",
+            "label": "liverpool weighted heatmap",
+            "color": [
+              221,
+              178,
+              124
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "zkorm7c",
+          "type": "heatmap",
+          "config": {
+            "dataId": "mo2qys17o",
+            "label": "manchester weighted heatmap",
+            "color": [
+              218,
+              112,
+              191
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "0tnghyi",
+          "type": "heatmap",
+          "config": {
+            "dataId": "htai5ebb",
+            "label": "london weighted heatmap",
+            "color": [
+              246,
+              209,
+              138
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "6f9vih",
+          "type": "heatmap",
+          "config": {
+            "dataId": "912ymh5l9",
+            "label": "sheffield weighted heatmap",
+            "color": [
+              231,
+              159,
+              213
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "5buiq7l",
+          "type": "heatmap",
+          "config": {
+            "dataId": "raar9dyug",
+            "label": "southampton weighted heatmap",
+            "color": [
+              221,
+              178,
+              124
+            ],
+            "columns": {
+              "lat": "lat",
+              "lng": "lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "radius": 20
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "weightField": {
+              "name": "linear distance",
+              "type": "real"
+            },
+            "weightScale": "linear"
+          }
+        },
+        {
+          "id": "dyr7u1",
+          "type": "arc",
+          "config": {
+            "dataId": "wxomq2qrk",
+            "label": "Shrewsbury - 149",
+            "color": [
+              248,
+              149,
+              112
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": true
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "lw2vvl",
+          "type": "arc",
+          "config": {
+            "dataId": "w2uoso6a",
+            "label": "Watford - 83",
+            "color": [
+              137,
+              218,
+              193
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": true,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "ojfka2s",
+          "type": "arc",
+          "config": {
+            "dataId": "akty7be5s",
+            "label": "Warrington - 123",
+            "color": [
+              77,
+              193,
+              156
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "ujbwkww",
+          "type": "arc",
+          "config": {
+            "dataId": "vju5xdguo",
+            "label": "Norwich - 75",
+            "color": [
+              18,
+              147,
+              154
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "8mvop5",
+          "type": "arc",
+          "config": {
+            "dataId": "tp6bagzbj",
+            "label": "Exeter - 122",
+            "color": [
+              183,
+              136,
+              94
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "ry25q5",
+          "type": "arc",
+          "config": {
+            "dataId": "rb1rg2nhk",
+            "label": "Preston - 148",
+            "color": [
+              241,
+              92,
+              23
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "agm5v1",
+          "type": "arc",
+          "config": {
+            "dataId": "0jd4twelv",
+            "label": "Crewe - 203",
+            "color": [
+              137,
+              218,
+              193
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "wjyphiq",
+          "type": "arc",
+          "config": {
+            "dataId": "ckohg4ej",
+            "label": "Cambridge - 93",
+            "color": [
+              77,
+              193,
+              156
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "4v10a2c",
+          "type": "arc",
+          "config": {
+            "dataId": "mmyql8s2",
+            "label": "Newcastle - 153",
+            "color": [
+              18,
+              147,
+              154
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "0oarjza",
+          "type": "arc",
+          "config": {
+            "dataId": "sg7sgjaln",
+            "label": "Chelmsford - 36",
+            "color": [
+              183,
+              136,
+              94
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "m19pbv4",
+          "type": "arc",
+          "config": {
+            "dataId": "2zf6ynje9",
+            "label": "Reading - 214",
+            "color": [
+              218,
+              112,
+              191
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "8tlau5j",
+          "type": "arc",
+          "config": {
+            "dataId": "x13dep7n",
+            "label": "Nottingham - 112",
+            "color": [
+              137,
+              218,
+              193
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        },
+        {
+          "id": "2mlaktl",
+          "type": "arc",
+          "config": {
+            "dataId": "ycva4ixe",
+            "label": "Leicester - 61",
+            "color": [
+              23,
+              184,
+              190
+            ],
+            "columns": {
+              "lat0": "lat",
+              "lng0": "lon",
+              "lat1": "terminal lat",
+              "lng1": "terminal lon"
+            },
+            "isVisible": false,
+            "visConfig": {
+              "opacity": 0.8,
+              "thickness": 2,
+              "colorRange": {
+                "name": "Global Warming",
+                "type": "sequential",
+                "category": "Uber",
+                "colors": [
+                  "#5A1846",
+                  "#900C3F",
+                  "#C70039",
+                  "#E3611C",
+                  "#F1920E",
+                  "#FFC300"
+                ]
+              },
+              "sizeRange": [
+                0,
+                10
+              ],
+              "targetColor": null,
+              "hi-precision": false
+            },
+            "textLabel": {
+              "field": null,
+              "color": [
+                255,
+                255,
+                255
+              ],
+              "size": 50,
+              "offset": [
+                0,
+                0
+              ],
+              "anchor": "middle"
+            }
+          },
+          "visualChannels": {
+            "colorField": null,
+            "colorScale": "quantile",
+            "sizeField": null,
+            "sizeScale": "linear"
+          }
+        }
+      ],
+      "interactionConfig": {
+        "tooltip": {
+          "fieldsToShow": {
+            "d1nvlbqyi": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "347py1mo": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "909ibk7h1": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "1mzuh715t": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "vw01x668g": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "htai5ebb": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "mo2qys17o": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "912ymh5l9": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "raar9dyug": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "lxku74cl9": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "c6av6i7j4": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "0xndu9l5k": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "wxomq2qrk": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "w2uoso6a": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "akty7be5s": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "vju5xdguo": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "tp6bagzbj": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "rb1rg2nhk": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "0b4sfm5v7": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "0jd4twelv": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "ckohg4ej": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "mmyql8s2": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "2zf6ynje9": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "sg7sgjaln": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "x13dep7n": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ],
+            "ycva4ixe": [
+              "Name",
+              "Code",
+              "Changes",
+              "linear distance"
+            ]
+          },
+          "enabled": true
+        },
+        "brush": {
+          "size": 0.5,
+          "enabled": false
+        }
+      },
+      "layerBlending": "additive",
+      "splitMaps": []
+    },
+    "mapState": {
+      "bearing": 24,
+      "dragRotate": true,
+      "latitude": 53.69184404849357,
+      "longitude": -5.084265257525094,
+      "pitch": 50,
+      "zoom": 5.379836309981588,
+      "isSplit": false
+    },
+    "mapStyle": {
+      "styleType": "dark",
+      "topLayerGroups": {},
+      "visibleLayerGroups": {
+        "label": false,
+        "road": false,
+        "border": true,
+        "building": false,
+        "water": true,
+        "land": true
+      },
+      "mapStyles": {}
+    }
+  }
+}
