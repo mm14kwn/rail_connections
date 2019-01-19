@@ -5,7 +5,7 @@ import os
 
 
 def grcsv(destination='london',
-          destpath='/home/kinew/stations/results/',
+          destpath='/home/kinew/stations/results/NRE',
           llpath='/home/kinew/stations/station_latlon.csv',
           outfile='/home/kinew/stations/results/london_geo.csv',
           nanvalue=None,
@@ -47,6 +47,7 @@ def grcsv(destination='london',
             pdict['lon'].append(np.NaN)
 
     ch = pdict['changes']
+    jt = pdict['jtime']
     if terminal_llcol:
         conlat = np.array(pdict['lat'])
         termlat = conlat[ch < 0]
@@ -57,29 +58,30 @@ def grcsv(destination='london',
         dist = np.sqrt((conlat - mtlat)**2 + (conlon - mtlon)**2)
     if nanvalue is not None:
         ch[np.isnan(ch)] = nanvalue
-
+        jt[np.isnan(jt)] = nanvalue
+        
     with open(outfile, 'w', newline='') as f:
         station_writer = csv.writer(f, delimiter=',')
         if terminal_llcol:
             station_writer.writerow([
                 'Name', 'Code', 'Changes', 'lat', 'lon', 'terminal lat',
-                'terminal lon', 'linear distance'
+                'terminal lon', 'linear distance','Journey time'
             ])
         else:
-            station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon'])
+            station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon', 'Journey time'])
         if terminal_llcol:
-            for name, code, change, lat, lon, d in zip(
+            for name, code, change, lat, lon, d, jti in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
-                    pdict['lon'], dist):
+                    pdict['lon'], dist, jt):
 
                 station_writer.writerow(
-                    [name, code, change, lat, lon, mtlat, mtlon, d])
+                    [name, code, change, lat, lon, mtlat, mtlon, d, jti])
 
         else:
-            for name, code, change, lat, lon in zip(
+            for name, code, change, lat, lon, jti in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
-                    pdict['lon']):
+                    pdict['lon'], jt):
 
-                station_writer.writerow([name, code, change, lat, lon])
+                station_writer.writerow([name, code, change, lat, lon, jti])
 
     print('ALL DONE :)')

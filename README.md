@@ -1,8 +1,8 @@
 # Counting train connections to UK stations
 
-Very rough python module to input station codes into traintimes.org.uk website via URL and scrape the results to get connection details.
+Very rough python module to input station codes into ~~traintimes.org.uk~~ mobile national rail enquiries (after traintimes.org.uk developer requested a change) website via URL and scrape the results to get connection details.
 Probably shouldn't be used too much as each run requires sending a website query for every single UK rail station.
-It also takes forever to run and has a number of issues with the calculations.
+It also takes forever to run and has a number of issues with the calculations. It should now count connections properly and also give journey times.
 
 ## Requirements
 
@@ -44,11 +44,11 @@ For example, to run for london:
               'MYB', 'MOG', 'OLD', 'PAD', 'STP', 'SPX', 'VXH', 'VIC', 'WAT',
               'WAE'
           ],
-          year=2019,
+          year=19,
           month=2,
           day=12,
           hhmm=2359,
-          arrdep='a',
+          arrdep='arr',
           inputpath='/path/to/folder/',
           outputpath='/path/to/folder/',
           repeat_on_error=10

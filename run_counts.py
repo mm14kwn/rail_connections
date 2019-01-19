@@ -6,7 +6,7 @@ day=12
 hhmm=2359
 arrdep='a'
 inputpath='/home/kinew/stations/'
-outputpath='/home/kinew/stations/results/'
+outputpath='/home/kinew/stations/results/NRE/'
 repeat_on_error=10
 
 
