@@ -5,23 +5,33 @@ from selenium import webdriver
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from itertools import compress
 from os import path
+from selenium.common.exceptions import TimeoutException
 
 
-def send_queryTTO(query_url, driver, debug=False):
-    driver.get(query_url)
-    source = driver.page_source
-    # the format of this webpage is fairly fixed, so we can just search for the 'direct;' string
-    if 'direct;' in source:
-        nchange = 0
 
-    elif 'change</a>' in source:
-        nchange = 1
-
-    elif 'changes</a>' in source:
-        nchange = 2
-
-    else:
-        nchange = np.NaN
+def send_queryTTO(query_url, driver, debug=False, timeout=10, ntries=10):
+    driver.set_page_load_timeout(timeout)
+    itries=0
+    nchange = np.NaN
+    while itries < ntries:
+        try:
+            driver.get(query_url)
+            source = driver.page_source
+            # the format of this webpage is fairly fixed, so we can just search for the 'direct;' string
+            if 'direct;' in source:
+                nchange = 0
+                
+            elif 'change</a>' in source:
+                nchange = 1
+                
+            elif 'changes</a>' in source:
+                nchange = 2
+        except TimeoutException:
+            itries += 1
+            print('timed out for the {0} time'.format(itries), end='\r')
+            print('', end='\r')
+            continue
+        break
 
     if debug:
         print(query_url)
@@ -29,25 +39,34 @@ def send_queryTTO(query_url, driver, debug=False):
     return nchange
 
 
-def send_queryNRE(query_url, driver, debug=False):
+def send_queryNRE(query_url, driver, debug=False, timeout=10, ntries=10):
     import re
-    driver.get(query_url)
-    source = driver.page_source
-    chgpattern = r'\d\s+change'
-    hhmmpattern = r'\d+?h \d+?m'
-    chgmatches = re.findall(chgpattern, source)
-    hhmmmatches = re.findall(hhmmpattern, source)
-    if len(chgmatches) < 1:
-        nchange = np.NaN
-        jtime = np.NaN
-    else:
-        chg = [int(chgstr[0]) for chgstr in chgmatches]
-        nchange = np.min(chg)
-        nind = np.argmin(chg)
-        hhmm = re.findall(r'\d+', hhmmmatches[nind])
-        hh = int(hhmm[0])
-        mm = int(hhmm[1])
-        jtime = mm + 60 * hh
+    driver.set_page_load_timeout(timeout)
+    itries=0
+    nchange = np.NaN
+    jtime = np.NaN
+    while itries < ntries:
+        try:
+            driver.get(query_url)
+            source = driver.page_source
+            chgpattern = r'\d\s+change'
+            hhmmpattern = r'\d+?h \d+?m'
+            chgmatches = re.findall(chgpattern, source)
+            hhmmmatches = re.findall(hhmmpattern, source)
+            if len(chgmatches) > 0:
+                chg = [int(chgstr[0]) for chgstr in chgmatches]
+                nchange = np.min(chg)
+                nind = np.argmin(chg)
+                hhmm = re.findall(r'\d+', hhmmmatches[nind])
+                hh = int(hhmm[0])
+                mm = int(hhmm[1])
+                jtime = mm + 60 * hh
+        except TimeoutException:
+            itries += 1
+            print('timed out for the {0} time'.format(itries), end='\r')
+            print('', end='\r')
+            continue
+        break
 
 
 #     # the format of this webpage is fairly fixed, so we can just search for the strings
@@ -171,6 +190,7 @@ def count(
                     print(
                         'repeating {1} for the {0} time.'.format(ind, code),
                         end='\r')
+                    print('', end='\r')
             logfile.write(
                 'No connection or Error parsing for Station code {0}, {1}\n'.
                 format(codes[count], names[count]))
@@ -187,6 +207,7 @@ def count(
         print(
             'station {0}/{1} complete'.format(count + 1, len(changes)),
             end='\r')
+        print('', end='\r')
     # remember to quit the webdriver and close logfile!
     driver.quit()
     logfile.close()
