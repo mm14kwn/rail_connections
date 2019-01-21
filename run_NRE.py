@@ -12,19 +12,21 @@ repeat_on_error = 10
 
 destination_list = [
     'london', 'birmingham', 'manchester', 'liverpool', 'sheffield',
-    'edinburgh', 'glasgow', 'southampton', 'leeds', 'leicester', 'nottingham',
+    'edinburgh', 'glasgow', 'southampton', 'leeds', 'bradford', 'leicester', 'nottingham',
     'chelmsford', 'reading', 'newcastle', 'cambridge', 'crewe', 'bradford',
     'preston', 'exeter', 'norwich', 'warrington', 'watford', 'shrewsbury'
 ]
+
 terminals_list = [[
     'BFR', 'CST', 'CHX', 'CTK', 'EUS', 'FST', 'KGX', 'LST', 'LBG', 'MYB',
     'MOG', 'OLD', 'PAD', 'STP', 'SPX', 'VXH', 'VIC', 'WAT', 'WAE'
 ], ['BHM', 'BMO', 'BSW'], ['MAN', 'MCO', 'MCV', 'DGT'],
                   ['LIV', 'LVC', 'LVJ', 'MRF'], ['SHF'], ['EDB', 'HYM'],
-                  ['GLC', 'GLQ'], ['SOU'], ['LDS'], ['LEI'], ['NOT'], ['CHM'],
+                  ['GLC', 'GLQ'], ['SOU'], ['LDS'], ['BDI', 'BDQ'], ['LEI'], ['NOT'], ['CHM'],
                   ['RDG', 'RDW'], ['NCL'], ['CBG'], ['CRE'], ['BDQ', 'BDI'],
                   ['PRE'], ['EXD', 'EXT', 'EXC'], ['NRW'], ['WBQ', 'WAC'],
                   ['WFH', 'WFJ', 'WFN', 'WFS', 'WFW'], ['SHR']]
+
 for destination, terminals in zip(destination_list, terminals_list):
     print('running for station {0}'.format(destination))
     connection_count.count(
@@ -41,6 +43,6 @@ for destination, terminals in zip(destination_list, terminals_list):
 
     make_georef_csv.grcsv(
         destination=destination,
-        outfile='/home/kinew/stations/results/{0}_geo.csv'.format(destination),
+        outfile='{1}{0}_geo.csv'.format(destination, outputpath),
         nanvalue=-999,
         terminal_llcol=True)

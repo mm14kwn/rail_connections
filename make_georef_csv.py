@@ -2,6 +2,8 @@ import numpy as np
 import csv
 import pickle
 import os
+from geopy import distance
+from itertools import count
 
 
 def grcsv(destination='london',
@@ -29,8 +31,8 @@ def grcsv(destination='london',
                     csvdict[column] = []
                 hcount = 1
             else:
-                for count, column in enumerate(row):
-                    csvdict[headers[count]].append(column)
+                for rcount, column in enumerate(row):
+                    csvdict[headers[rcount]].append(column)
 
     stllcodes = csvdict['TLC']
     stlat = csvdict['Latitude']
@@ -48,6 +50,7 @@ def grcsv(destination='london',
 
     ch = pdict['changes']
     jt = pdict['jtime']
+    fares = pdict['fares']
     if terminal_llcol:
         conlat = np.array(pdict['lat'])
         termlat = conlat[ch < 0]
@@ -55,33 +58,47 @@ def grcsv(destination='london',
         termlon = conlon[ch < 0]
         mtlat = np.nanmean(termlat)
         mtlon = np.nanmean(termlon)
-        dist = np.sqrt((conlat - mtlat)**2 + (conlon - mtlon)**2)
+        dist = np.NaN * np.ones_like(conlon)
+        for ind, clat, clon in zip(count(), conlat, conlon):
+            if ~np.isnan(clat) and ~np.isnan(clon):
+                dist[ind] = distance.distance((clat, clon), (mtlat, mtlon)).km
+
     if nanvalue is not None:
         ch[np.isnan(ch)] = nanvalue
         jt[np.isnan(jt)] = nanvalue
-        
+        fares[np.isnan(fares)] = nanvalue
+
     with open(outfile, 'w', newline='') as f:
         station_writer = csv.writer(f, delimiter=',')
         if terminal_llcol:
             station_writer.writerow([
                 'Name', 'Code', 'Changes', 'lat', 'lon', 'terminal lat',
-                'terminal lon', 'linear distance','Journey time'
+                'terminal lon', 'linear distance', 'Journey time', 'fare',
+                'company', 'fare type', 'route code'
             ])
         else:
-            station_writer.writerow(['Name', 'Code', 'Changes', 'lat', 'lon', 'Journey time'])
+            station_writer.writerow([
+                'Name', 'Code', 'Changes', 'lat', 'lon', 'Journey time',
+                'fare', 'company', 'fare type', 'route code'
+            ])
         if terminal_llcol:
-            for name, code, change, lat, lon, d, jti in zip(
+            for name, code, change, lat, lon, d, jti, f, c, ft, rc in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
-                    pdict['lon'], dist, jt):
+                    pdict['lon'], dist, jt, fares, pdict['companies'],
+                    pdict['faretypes'], pdict['routecodes']):
 
-                station_writer.writerow(
-                    [name, code, change, lat, lon, mtlat, mtlon, d, jti])
+                station_writer.writerow([
+                    name, code, change, lat, lon, mtlat, mtlon, d, jti, f, c,
+                    ft, rc
+                ])
 
         else:
-            for name, code, change, lat, lon, jti in zip(
+            for name, code, change, lat, lon, jti, f, c, ft, rc in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
-                    pdict['lon'], jt):
+                    pdict['lon'], jt, fares, pdict['companies'],
+                    pdict['faretypes'], pdict['routecodes']):
 
-                station_writer.writerow([name, code, change, lat, lon, jti])
+                station_writer.writerow(
+                    [name, code, change, lat, lon, jti, f, c, ft, rc])
 
     print('ALL DONE :)')
