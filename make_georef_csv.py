@@ -62,11 +62,13 @@ def grcsv(destination='london',
         for ind, clat, clon in zip(count(), conlat, conlon):
             if ~np.isnan(clat) and ~np.isnan(clon):
                 dist[ind] = distance.distance((clat, clon), (mtlat, mtlon)).km
-
+        costperkm = fares / dist
     if nanvalue is not None:
         ch[np.isnan(ch)] = nanvalue
         jt[np.isnan(jt)] = nanvalue
         fares[np.isnan(fares)] = nanvalue
+        costperkm[np.logical_or(np.isnan(fares), np.isnan(dist))] = nanvalue
+        dist[np.isnan(dist)] = nanvalue
 
     with open(outfile, 'w', newline='') as f:
         station_writer = csv.writer(f, delimiter=',')
@@ -74,7 +76,7 @@ def grcsv(destination='london',
             station_writer.writerow([
                 'Name', 'Code', 'Changes', 'lat', 'lon', 'terminal lat',
                 'terminal lon', 'linear distance', 'Journey time', 'fare',
-                'company', 'fare type', 'route code'
+                'company', 'fare type', 'route code', 'cost per km'
             ])
         else:
             station_writer.writerow([
@@ -82,14 +84,14 @@ def grcsv(destination='london',
                 'fare', 'company', 'fare type', 'route code'
             ])
         if terminal_llcol:
-            for name, code, change, lat, lon, d, jti, f, c, ft, rc in zip(
+            for name, code, change, lat, lon, d, jti, f, c, ft, rc, cpkm in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
                     pdict['lon'], dist, jt, fares, pdict['companies'],
-                    pdict['faretypes'], pdict['rcodes']):
+                    pdict['faretypes'], pdict['rcodes'], costperkm):
 
                 station_writer.writerow([
                     name, code, change, lat, lon, mtlat, mtlon, d, jti, f, c,
-                    ft, rc
+                    ft, rc, cpkm
                 ])
 
         else:
