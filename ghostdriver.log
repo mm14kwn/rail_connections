@@ -61,3 +61,127 @@
   enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:17.291Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:18.775Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:18.775Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:19.962Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:21.476Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:21.477Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js?21063033:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:22.614Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:24.989Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:24.989Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:26.429Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:29.481Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:29.481Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:30.840Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:32.751Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:32.752Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:33.381Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:35.331Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:25:35.331Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js?21063033:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:54.461Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:54.461Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:56.036Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:57.139Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:57.139Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_294.js?21063034:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:26:58.549Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:27:00.237Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:27:00.238Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:19.081Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:19.081Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js?21063033:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:19.974Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:21.680Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:21.680Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:23.063Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:24.958Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:24.959Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js?21063033:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:29.626Z] RouterReqHand - _handle.error - {"name":"Missing Command Parameter","message":"{\"headers\":{\"Accept\":\"application/json\",\"Accept-Encoding\":\"identity\",\"Content-Length\":\"72\",\"Content-Type\":\"application/json;charset=UTF-8\",\"Host\":\"127.0.0.1:54247\",\"User-Agent\":\"selenium/3.141.0 (python linux)\"},\"httpVersion\":\"1.1\",\"method\":\"POST\",\"post\":\"{\\\"pageLoad\\\": 20000, \\\"sessionId\\\": \\\"dd9c6e50-1e59-11e9-b628-05f2fbff9b86\\\"}\",\"url\":\"/timeouts\",\"urlParsed\":{\"anchor\":\"\",\"query\":\"\",\"file\":\"timeouts\",\"directory\":\"/\",\"path\":\"/timeouts\",\"relative\":\"/timeouts\",\"port\":\"\",\"host\":\"\",\"password\":\"\",\"user\":\"\",\"userInfo\":\"\",\"authority\":\"\",\"protocol\":\"\",\"source\":\"/timeouts\",\"queryKey\":{},\"chunks\":[\"timeouts\"]},\"urlOriginal\":\"/session/dd9c6e50-1e59-11e9-b628-05f2fbff9b86/timeouts\"}","line":546,"sourceURL":"phantomjs://code/session_request_handler.js","stack":"_postTimeout@phantomjs://code/session_request_handler.js:546:73\n_handle@phantomjs://code/session_request_handler.js:148:25\n_reroute@phantomjs://code/request_handler.js:61:20\n_handle@phantomjs://code/router_request_handler.js:78:46"}
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:34.326Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - msg: Synchronous rendering is deprecated and will no longer work after April 2nd, 2019. To prepare for this change, we recommend you stop using the enableSyncRendering API.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-01-22T15:28:34.326Z] Session [dd9c6e50-1e59-11e9-b628-05f2fbff9b86] - page.onError - stack:
+  enableSyncRendering (https://securepubads.g.doubleclick.net/gpt/pubads_impl_291.js:1)
+
+  phantomjs://platform/console++.js:263 in error

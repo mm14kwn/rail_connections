@@ -51,6 +51,7 @@ def grcsv(destination='london',
     ch = pdict['changes']
     jt = pdict['jtime']
     fares = pdict['fares']
+    costpermin = fares / jt
     if terminal_llcol:
         conlat = np.array(pdict['lat'])
         termlat = conlat[ch < 0]
@@ -63,12 +64,19 @@ def grcsv(destination='london',
             if ~np.isnan(clat) and ~np.isnan(clon):
                 dist[ind] = distance.distance((clat, clon), (mtlat, mtlon)).km
         costperkm = fares / dist
+        crowspeed = dist / jt
+        timeperkm = jt / dist
     if nanvalue is not None:
         ch[np.isnan(ch)] = nanvalue
+        costpermin[np.isnan(costpermin)] = nanvalue
+        if terminal_llcol:
+            crowspeed[np.isnan(crowspeed)] = nanvalue
+            costperkm[np.isnan(costperkm)] = nanvalue
+            timeperkm[np.isnan(timeperkm)] = nanvalue
+            dist[np.isnan(dist)] = nanvalue
         jt[np.isnan(jt)] = nanvalue
         fares[np.isnan(fares)] = nanvalue
-        costperkm[np.logical_or(np.isnan(fares), np.isnan(dist))] = nanvalue
-        dist[np.isnan(dist)] = nanvalue
+
 
     with open(outfile, 'w', newline='') as f:
         station_writer = csv.writer(f, delimiter=',')
@@ -76,7 +84,7 @@ def grcsv(destination='london',
             station_writer.writerow([
                 'Name', 'Code', 'Changes', 'lat', 'lon', 'terminal lat',
                 'terminal lon', 'linear distance', 'Journey time', 'fare',
-                'company', 'fare type', 'route code', 'cost per km'
+                'company', 'fare type', 'route code', 'cost per km', 'cost per min', 'speed (linear)', 'minutes to travel 1km linear'
             ])
         else:
             station_writer.writerow([
@@ -84,14 +92,14 @@ def grcsv(destination='london',
                 'fare', 'company', 'fare type', 'route code'
             ])
         if terminal_llcol:
-            for name, code, change, lat, lon, d, jti, f, c, ft, rc, cpkm in zip(
+            for name, code, change, lat, lon, d, jti, f, c, ft, rc, cpkm, cpm, spd, tpkm in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
                     pdict['lon'], dist, jt, fares, pdict['companies'],
-                    pdict['faretypes'], pdict['rcodes'], costperkm):
+                    pdict['faretypes'], pdict['rcodes'], costperkm, costpermin, crowspeed, timeperkm):
 
                 station_writer.writerow([
                     name, code, change, lat, lon, mtlat, mtlon, d, jti, f, c,
-                    ft, rc, cpkm
+                    ft, rc, cpkm, cpm, spd, tpkm
                 ])
 
         else:
