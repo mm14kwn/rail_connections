@@ -408,6 +408,6 @@ def count(
             'Route Code'
         ])
         for name, code, change, jt, f, c, ft, rc in zip(
-                names, codes, changes, jtime, fares, companies, fatetypes,
+                names, codes, changes, jtime, fares, companies, faretypes,
                 rcodes):
             station_writer.writerow([name, code, change, jt, f, c, ft, rc])

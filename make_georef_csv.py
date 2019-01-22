@@ -85,7 +85,7 @@ def grcsv(destination='london',
             for name, code, change, lat, lon, d, jti, f, c, ft, rc in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
                     pdict['lon'], dist, jt, fares, pdict['companies'],
-                    pdict['faretypes'], pdict['routecodes']):
+                    pdict['faretypes'], pdict['rcodes']):
 
                 station_writer.writerow([
                     name, code, change, lat, lon, mtlat, mtlon, d, jti, f, c,
@@ -96,7 +96,7 @@ def grcsv(destination='london',
             for name, code, change, lat, lon, jti, f, c, ft, rc in zip(
                     pdict['names'], pdict['codes'], ch, pdict['lat'],
                     pdict['lon'], jt, fares, pdict['companies'],
-                    pdict['faretypes'], pdict['routecodes']):
+                    pdict['faretypes'], pdict['rcodes']):
 
                 station_writer.writerow(
                     [name, code, change, lat, lon, jti, f, c, ft, rc])
