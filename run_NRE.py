@@ -26,19 +26,10 @@ repeat_on_error = 10
 #                   ['PRE'], ['EXD', 'EXT', 'EXC'], ['NRW'], ['WBQ', 'WAC'],
 #                   ['WFH', 'WFJ', 'WFN', 'WFS', 'WFW'], ['SHR']]
 
-destination_list = [
-    'birmingham', 'manchester', 'liverpool', 'sheffield', 'edinburgh',
-    'glasgow', 'southampton', 'leeds', 'bradford', 'leicester', 'nottingham',
-    'chelmsford', 'reading', 'newcastle', 'cambridge', 'crewe', 'bradford',
-    'preston', 'exeter', 'norwich', 'warrington', 'watford', 'shrewsbury'
+destination_list = ['shrewsbury'
 ]
 
-terminals_list = [['BHM', 'BMO', 'BSW'], ['MAN', 'MCO', 'MCV', 'DGT'],
-                  ['LIV', 'LVC', 'LVJ', 'MRF'], ['SHF'], ['EDB', 'HYM'],
-                  ['GLC', 'GLQ'], ['SOU'], ['LDS'], ['BDI', 'BDQ'], ['LEI'],
-                  ['NOT'], ['CHM'], ['RDG', 'RDW'], ['NCL'], ['CBG'], ['CRE'],
-                  ['BDQ', 'BDI'], ['PRE'], ['EXD', 'EXT', 'EXC'], ['NRW'],
-                  ['WBQ', 'WAC'], ['WFH', 'WFJ', 'WFN', 'WFS', 'WFW'], ['SHR']]
+terminals_list = [['SHR']]
 
 for destination, terminals in zip(destination_list, terminals_list):
     print('running for station {0}'.format(destination))
